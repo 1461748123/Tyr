@@ -2692,7 +2692,8 @@
 <rectangle x1="87.35" y1="89.05" x2="88.05" y2="89.15" layer="200"/>
 <rectangle x1="88.35" y1="89.05" x2="88.55" y2="89.15" layer="200"/>
 <text x="0" y="-0.5" size="0.2" layer="200" font="vector">D:/Users/Brian/Pictures/Tyr.bmp</text>
-<text x="6.25078125" y="1.271875" size="0.8" layer="22" font="vector" rot="MR0" align="center">JLCJLCJLCJLCJLC</text>
+<text x="14.2875" y="4.099609375" size="0.8" layer="22" font="vector" rot="MR0" align="center">JLCJLCJLC
+JLCJLCJLC</text>
 <wire x1="12.5015625" y1="114.839453125" x2="11.962109375" y2="114.3" width="0.001" layer="20" curve="-90"/>
 <wire x1="11.962109375" y1="114.3" x2="11.90625" y2="114.3" width="0.001" layer="20"/>
 <wire x1="14.636328125" y1="109.5375" x2="23.463671875" y2="109.5375" width="0.001" layer="20"/>
@@ -3620,7 +3621,6 @@ by exp-lbrs.ulp</description>
 <wire x1="3.3" y1="0" x2="1.65" y2="1.65" width="0.01" layer="46" curve="90"/>
 <smd name="P$1" x="0" y="0" dx="5" dy="8.4" layer="16" roundness="100" rot="R90" thermals="no" cream="no"/>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
-<pad name="P$3" x="0" y="0" drill="3" diameter="5" thermals="no"/>
 </package>
 <package name="TYR_TYR_DISPLAY">
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
@@ -3865,12 +3865,8 @@ by exp-lbrs.ulp</description>
 <smd name="P$4" x="5.575" y="1.875" dx="1.8" dy="1" layer="16" roundness="100" rot="R90" cream="no"/>
 <smd name="P$5" x="-5.575" y="-2.125" dx="2.2" dy="1" layer="1" roundness="100" rot="R90"/>
 <smd name="P$6" x="5.575" y="-2.125" dx="2.2" dy="1" layer="1" roundness="100" rot="R90"/>
-<pad name="P$7" x="-5.575" y="1.875" drill="0.4" diameter="1"/>
 <smd name="P$8" x="-5.575" y="-2.125" dx="2.2" dy="1" layer="16" roundness="100" rot="R90" cream="no"/>
 <smd name="P$9" x="5.575" y="-2.125" dx="2.2" dy="1" layer="16" roundness="100" rot="R90" cream="no"/>
-<pad name="P$10" x="5.575" y="1.875" drill="0.4" diameter="1"/>
-<pad name="P$11" x="-5.575" y="-2.125" drill="0.4" diameter="1"/>
-<pad name="P$12" x="5.575" y="-2.125" drill="0.4" diameter="1"/>
 <smd name="SBU1" x="-1.75" y="3" dx="0.3" dy="1.15" layer="1"/>
 <smd name="SBU2" x="1.25" y="3" dx="0.3" dy="1.15" layer="1"/>
 <smd name="VBUS1" x="-2.4" y="3" dx="0.6" dy="1.15" layer="1" rot="R180"/>
@@ -5134,34 +5130,24 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="149.06875" y1="108.48984375" x2="148.68515625" y2="108.48984375" width="0.1524" layer="16"/>
 <wire x1="148.68515625" y1="108.48984375" x2="148.2328125" y2="108.9421875" width="0.1524" layer="16"/>
 <via x="148.2328125" y="108.9421875" extent="1-16" drill="0.35"/>
-<contactref element="X1" pad="P$11"/>
-<contactref element="X1" pad="P$7"/>
 <contactref element="X1" pad="P$5"/>
 <contactref element="X1" pad="P$4"/>
-<contactref element="X1" pad="P$12"/>
 <contactref element="X1" pad="P$8"/>
 <contactref element="X1" pad="P$9"/>
-<contactref element="X1" pad="P$10"/>
 <contactref element="X1" pad="P$3"/>
 <contactref element="X1" pad="P$1"/>
 <contactref element="X1" pad="P$2"/>
 <contactref element="X1" pad="P$6"/>
-<contactref element="HOLE1" pad="P$3"/>
 <contactref element="HOLE1" pad="P$1"/>
 <contactref element="HOLE1" pad="P$2"/>
-<contactref element="HOLE2" pad="P$3"/>
 <contactref element="HOLE2" pad="P$1"/>
 <contactref element="HOLE2" pad="P$2"/>
-<contactref element="HOLE3" pad="P$3"/>
 <contactref element="HOLE3" pad="P$1"/>
 <contactref element="HOLE3" pad="P$2"/>
-<contactref element="HOLE4" pad="P$3"/>
 <contactref element="HOLE4" pad="P$1"/>
 <contactref element="HOLE4" pad="P$2"/>
-<contactref element="HOLE5" pad="P$3"/>
 <contactref element="HOLE5" pad="P$1"/>
 <contactref element="HOLE5" pad="P$2"/>
-<contactref element="HOLE6" pad="P$3"/>
 <contactref element="HOLE6" pad="P$1"/>
 <contactref element="HOLE6" pad="P$2"/>
 <via x="7.14375" y="31.700390625" extent="1-16" drill="0.35"/>
@@ -5420,6 +5406,16 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="78.58125" y1="1.7859375" x2="27.384375" y2="1.7859375" width="0.1524" layer="16"/>
 <via x="27.384375" y="1.7859375" extent="1-16" drill="0.35"/>
 <via x="83.34375" y="1.7859375" extent="1-16" drill="0.35"/>
+<wire x1="150.75" y1="95.25" x2="150.75" y2="95.25" width="0" layer="19" extent="1-16"/>
+<wire x1="150.75" y1="57.15" x2="150.75" y2="57.15" width="0" layer="19" extent="1-16"/>
+<wire x1="24.625" y1="114.04375" x2="24.625" y2="114.04375" width="0" layer="19" extent="1-16"/>
+<wire x1="136.921875" y1="1.65" x2="136.921875" y2="1.65" width="0" layer="19" extent="1-16"/>
+<wire x1="24.625" y1="110.04375" x2="24.625" y2="110.04375" width="0" layer="19" extent="1-16"/>
+<wire x1="13.475" y1="114.04375" x2="13.475" y2="114.04375" width="0" layer="19" extent="1-16"/>
+<wire x1="13.475" y1="110.04375" x2="13.475" y2="110.04375" width="0" layer="19" extent="1-16"/>
+<wire x1="1.65" y1="95.25" x2="1.65" y2="95.25" width="0" layer="19" extent="1-16"/>
+<wire x1="1.65" y1="57.15" x2="1.65" y2="57.15" width="0" layer="19" extent="1-16"/>
+<wire x1="23.8125" y1="1.65" x2="23.8125" y2="1.65" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="VCC">
 <contactref element="C5" pad="2"/>
@@ -7866,18 +7862,6 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <approved hash="19,16,e563e46530913197"/>
 <approved hash="19,16,6c2b6126bdd2b0df"/>
 <approved hash="19,16,8a6688b1172515f2"/>
-<approved hash="4,1,4f833636d49b589c"/>
-<approved hash="4,1,43264281840a8697"/>
-<approved hash="4,1,7f7df8492e846872"/>
-<approved hash="4,1,81b4b292115ae3be"/>
-<approved hash="4,1,b1a27cedebadd350"/>
-<approved hash="4,1,c6064259a539fe6c"/>
-<approved hash="4,16,4f833636d49b589c"/>
-<approved hash="4,16,7f7df8492e846872"/>
-<approved hash="4,16,81b4b292115ae3be"/>
-<approved hash="4,16,b1a27cedebadd350"/>
-<approved hash="4,16,c6064259a539fe6c"/>
-<approved hash="4,16,43264281840a8697"/>
 <approved hash="19,16,3d3c384b1b471e30"/>
 <approved hash="19,16,aa62a8b1354d379e"/>
 <approved hash="19,16,24e225e1ce75cf76"/>
@@ -8098,6 +8082,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </board>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.3" severity="warning">
 Since Version 8.3, EAGLE supports Fusion synchronisation.
 This feature will not be available in this version and saving
