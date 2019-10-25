@@ -163,8 +163,8 @@
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
-<library name="Tyr V4">
-<description>Generated from &lt;b&gt;Tyr V4.sch&lt;/b&gt;&lt;p&gt;
+<library name="Tyr">
+<description>Generated from &lt;b&gt;Tyr.sch&lt;/b&gt;&lt;p&gt;
 by exp-lbrs.ulp</description>
 <packages>
 <package name="COMPONENTS_C0603">
@@ -1488,299 +1488,299 @@ DIN A3, landscape with location and doc. field</description>
 </class>
 </classes>
 <parts>
-<part name="ESC" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D1" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F1" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D2" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F2" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D3" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F3" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D4" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F4" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D5" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F5" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D6" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F6" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D7" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="HOME" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D8" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="GRAVE" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D9" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="1" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D10" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="2" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D11" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="3" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D12" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="4" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D13" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="5" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D14" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="6" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D15" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="INSERT" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D16" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="TAB" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D17" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="Q" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D18" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="W" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D19" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="E" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D20" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="R" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D21" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="T" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D22" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="Y" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D23" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="CAPSLOCK" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="CAPSLOCK" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK"/>
-<part name="D24" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="A" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D25" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="S" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D26" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="D" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D27" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D28" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="G" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D29" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="H" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D30" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="SHIFT" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device=""/>
-<part name="D31" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="Z" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D32" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="X" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D33" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="C" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D34" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="V" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D35" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="B" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D36" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="CTRL" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D37" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="WIN" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D38" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="ALT" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D39" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="SPACE" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device=""/>
-<part name="D40" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="FN" library="Tyr V4" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D41" library="Tyr V4" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="C6" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="22p"/>
-<part name="C7" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="22p"/>
-<part name="SUPPLY9" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY7" library="Tyr V4" deviceset="SUPPLY2_VCC" device=""/>
-<part name="C2" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="C3" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="C4" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="C5" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="4.7u"/>
-<part name="SUPPLY10" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="R1" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
-<part name="R3" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
-<part name="SUPPLY5" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY11" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="X1" library="Tyr V4" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD"/>
-<part name="SUPPLY8" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY3" library="Tyr V4" deviceset="SUPPLY2_VCC" device=""/>
-<part name="SUPPLY6" library="Tyr V4" deviceset="SUPPLY2_VCC" device=""/>
-<part name="R2" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="22"/>
-<part name="R4" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="22"/>
-<part name="C1" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="1u"/>
-<part name="Y1" library="Tyr V4" deviceset="CONTROLLER_CRYSTAL-4PIN" device="-3.2X2.5" value="16Mhz"/>
-<part name="SUPPLY2" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="U1" library="Tyr V4" deviceset="TYR_ATMEGA32U4" device=""/>
-<part name="J1" library="Tyr V4" deviceset="TYR_TYR_DISPLAY" device=""/>
-<part name="U2" library="Tyr V4" deviceset="CONTROLLER_PRTR5V0U2X" device="" value="CONTROLLER_PRTR5V0U2X"/>
-<part name="SUPPLY17" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY14" library="Tyr V4" deviceset="SUPPLY2_VCC" device=""/>
-<part name="LED1" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED2" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED3" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED4" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED5" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED6" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED7" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED8" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED9" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED10" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED11" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED12" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED13" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED14" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED15" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED16" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED17" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED18" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED19" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED20" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED21" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED22" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED23" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED24" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED25" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED26" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED27" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED28" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED29" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED30" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED31" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED32" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED33" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED34" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED35" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED36" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED37" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED38" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED39" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED40" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED41" library="Tyr V4" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="SJ1" library="Tyr V4" deviceset="MICROBUILDER_SOLDERJUMPER" device=""/>
-<part name="U4" library="Tyr V4" deviceset="TYR_TPS2552" device=""/>
-<part name="U3" library="Tyr V4" deviceset="MICROBUILDER_INA219" device=""/>
-<part name="SUPPLY13" library="Tyr V4" deviceset="SUPPLY2_VCC" device=""/>
-<part name="SUPPLY12" library="Tyr V4" deviceset="SUPPLY2_VCC" device=""/>
-<part name="C9" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="SUPPLY16" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY19" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="R5" library="Tyr V4" deviceset="MICROBUILDER_RESISTOR" device="2512" value="0.1/1% (PT2512FK-070R1L)"/>
-<part name="R6" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="54.9k"/>
-<part name="SUPPLY18" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="FRAME1" library="Tyr V4" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="FRAME2" library="Tyr V4" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="FRAME3" library="Tyr V4" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="R7" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
-<part name="SUPPLY20" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C10" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY21" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C11" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY22" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C12" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY23" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C13" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY24" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C14" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY25" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C15" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY26" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C16" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY27" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C17" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY36" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C18" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY37" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C19" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY38" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C20" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY39" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C21" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY40" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C22" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY41" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C23" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY42" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C24" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY51" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C25" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY52" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C26" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY53" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C27" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY54" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C28" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY55" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C29" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY56" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C30" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY64" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C31" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY65" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C32" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY66" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C33" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY67" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C34" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY68" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C35" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY69" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C36" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY77" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C37" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY78" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C38" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY79" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C39" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY80" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C40" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY81" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C41" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY88" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C42" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY89" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C43" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY90" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="C44" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY91" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY28" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY29" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY30" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY31" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY32" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY33" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY34" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY35" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY50" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY49" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY48" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY47" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY46" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY45" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY44" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY43" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY57" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY58" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY59" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY60" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY61" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY62" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY63" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY76" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY75" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY74" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY73" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY72" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY71" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY70" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY82" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY83" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY84" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY85" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY86" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY87" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY96" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY95" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY94" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY93" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY92" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY1" library="Tyr V4" deviceset="SUPPLY2_VCC" device=""/>
-<part name="C8" library="Tyr V4" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="SUPPLY15" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="HOLE1" library="Tyr V4" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE2" library="Tyr V4" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE3" library="Tyr V4" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE4" library="Tyr V4" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE5" library="Tyr V4" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE6" library="Tyr V4" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="SJ2" library="Tyr V4" deviceset="MICROBUILDER_SOLDERJUMPER" device=""/>
-<part name="SUPPLY97" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY98" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
-<part name="R8" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="100k"/>
-<part name="R9" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="5.1k"/>
-<part name="R10" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="5.1k"/>
-<part name="SUPPLY4" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
+<part name="ESC" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D1" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="F1" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D2" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="F2" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D3" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="F3" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D4" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="F4" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D5" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="F5" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D6" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="F6" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D7" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="HOME" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D8" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="GRAVE" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D9" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="1" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D10" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="2" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D11" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="3" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D12" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="4" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D13" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="5" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D14" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="6" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D15" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="INSERT" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D16" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="TAB" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D17" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="Q" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D18" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="W" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D19" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="E" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D20" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="R" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D21" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="T" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D22" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="Y" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D23" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="CAPSLOCK" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="CAPSLOCK" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK"/>
+<part name="D24" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="A" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D25" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="S" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D26" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="D" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D27" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="F" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D28" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="G" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D29" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="H" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D30" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="SHIFT" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device=""/>
+<part name="D31" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="Z" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D32" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="X" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D33" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="C" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D34" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="V" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D35" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="B" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D36" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="CTRL" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D37" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="WIN" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D38" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="ALT" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D39" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="SPACE" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device=""/>
+<part name="D40" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="FN" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
+<part name="D41" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
+<part name="C6" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="22p"/>
+<part name="C7" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="22p"/>
+<part name="SUPPLY9" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY7" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
+<part name="C2" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
+<part name="C3" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
+<part name="C4" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
+<part name="C5" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="4.7u"/>
+<part name="SUPPLY10" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="R1" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
+<part name="R3" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
+<part name="SUPPLY5" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY11" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="X1" library="Tyr" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD"/>
+<part name="SUPPLY8" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY3" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
+<part name="SUPPLY6" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
+<part name="R2" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="22"/>
+<part name="R4" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="22"/>
+<part name="C1" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="1u"/>
+<part name="Y1" library="Tyr" deviceset="CONTROLLER_CRYSTAL-4PIN" device="-3.2X2.5" value="16Mhz"/>
+<part name="SUPPLY2" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="U1" library="Tyr" deviceset="TYR_ATMEGA32U4" device=""/>
+<part name="J1" library="Tyr" deviceset="TYR_TYR_DISPLAY" device=""/>
+<part name="U2" library="Tyr" deviceset="CONTROLLER_PRTR5V0U2X" device="" value="CONTROLLER_PRTR5V0U2X"/>
+<part name="SUPPLY17" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY14" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
+<part name="LED1" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED2" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED3" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED4" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED5" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED6" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED7" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED8" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED9" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED10" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED11" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED12" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED13" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED14" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED15" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED16" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED17" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED18" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED19" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED20" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED21" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED22" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED23" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED24" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED25" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED26" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED27" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED28" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED29" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED30" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED31" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED32" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED33" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED34" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED35" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED36" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED37" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED38" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED39" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED40" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="LED41" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
+<part name="SJ1" library="Tyr" deviceset="MICROBUILDER_SOLDERJUMPER" device=""/>
+<part name="U4" library="Tyr" deviceset="TYR_TPS2552" device=""/>
+<part name="U3" library="Tyr" deviceset="MICROBUILDER_INA219" device=""/>
+<part name="SUPPLY13" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
+<part name="SUPPLY12" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
+<part name="C9" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
+<part name="SUPPLY16" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY19" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="R5" library="Tyr" deviceset="MICROBUILDER_RESISTOR" device="2512" value="0.1/1% (PT2512FK-070R1L)"/>
+<part name="R6" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="54.9k"/>
+<part name="SUPPLY18" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="FRAME1" library="Tyr" deviceset="FRAMES_A3L-LOC" device=""/>
+<part name="FRAME2" library="Tyr" deviceset="FRAMES_A3L-LOC" device=""/>
+<part name="FRAME3" library="Tyr" deviceset="FRAMES_A3L-LOC" device=""/>
+<part name="R7" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
+<part name="SUPPLY20" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C10" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY21" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C11" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY22" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C12" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY23" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C13" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY24" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C14" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY25" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C15" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY26" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C16" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY27" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C17" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY36" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C18" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY37" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C19" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY38" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C20" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY39" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C21" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY40" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C22" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY41" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C23" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY42" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C24" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY51" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C25" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY52" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C26" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY53" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C27" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY54" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C28" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY55" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C29" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY56" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C30" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY64" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C31" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY65" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C32" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY66" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C33" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY67" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C34" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY68" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C35" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY69" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C36" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY77" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C37" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY78" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C38" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY79" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C39" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY80" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C40" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY81" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C41" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY88" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C42" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY89" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C43" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY90" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="C44" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
+<part name="SUPPLY91" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY28" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY29" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY30" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY31" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY32" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY33" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY34" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY35" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY50" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY49" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY48" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY47" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY46" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY45" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY44" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY43" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY57" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY58" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY59" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY60" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY61" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY62" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY63" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY76" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY75" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY74" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY73" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY72" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY71" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY70" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY82" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY83" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY84" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY85" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY86" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY87" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY96" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY95" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY94" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY93" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY92" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY1" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
+<part name="C8" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
+<part name="SUPPLY15" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="HOLE1" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
+<part name="HOLE2" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
+<part name="HOLE3" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
+<part name="HOLE4" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
+<part name="HOLE5" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
+<part name="HOLE6" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
+<part name="SJ2" library="Tyr" deviceset="MICROBUILDER_SOLDERJUMPER" device=""/>
+<part name="SUPPLY97" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY98" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="R8" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="100k"/>
+<part name="R9" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="5.1k"/>
+<part name="R10" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="5.1k"/>
+<part name="SUPPLY4" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
 </parts>
 <sheets>
 <sheet>
