@@ -1650,7 +1650,6 @@ DIN A3, landscape with location and doc. field</description>
 <part name="R6" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="54.9k"/>
 <part name="SUPPLY18" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
 <part name="FRAME1" library="Tyr V4" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="SUPPLY4" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
 <part name="FRAME2" library="Tyr V4" deviceset="FRAMES_A3L-LOC" device=""/>
 <part name="FRAME3" library="Tyr V4" deviceset="FRAMES_A3L-LOC" device=""/>
 <part name="R7" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
@@ -1779,6 +1778,9 @@ DIN A3, landscape with location and doc. field</description>
 <part name="SUPPLY97" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY98" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
 <part name="R8" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="100k"/>
+<part name="R9" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="5.1k"/>
+<part name="R10" library="Tyr V4" deviceset="COMPONENTS_RESISTOR" device="-0603" value="5.1k"/>
+<part name="SUPPLY4" library="Tyr V4" deviceset="SUPPLY2_GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -1937,9 +1939,6 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <attribute name="LAST_DATE_TIME" x="344.17" y="10.16" size="2.286" layer="94"/>
 <attribute name="SHEET" x="357.505" y="5.08" size="2.54" layer="94"/>
 </instance>
-<instance part="SUPPLY4" gate="GND" x="246.38" y="193.04" smashed="yes">
-<attribute name="VALUE" x="244.475" y="189.865" size="1.778" layer="96"/>
-</instance>
 <instance part="R7" gate="G$1" x="149.86" y="53.34" smashed="yes" rot="R90">
 <attribute name="NAME" x="148.3614" y="52.07" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="153.416" y="51.054" size="1.778" layer="96" rot="R90"/>
@@ -1973,6 +1972,17 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <instance part="R8" gate="G$1" x="149.86" y="88.9" smashed="yes" rot="R90">
 <attribute name="NAME" x="148.3614" y="87.63" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="153.416" y="86.614" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="R9" gate="G$1" x="256.54" y="193.04" smashed="yes">
+<attribute name="NAME" x="252.73" y="191.9986" size="1.778" layer="95"/>
+<attribute name="VALUE" x="257.81" y="192.278" size="1.778" layer="96"/>
+</instance>
+<instance part="R10" gate="G$1" x="256.54" y="177.8" smashed="yes">
+<attribute name="NAME" x="252.73" y="176.7586" size="1.778" layer="95"/>
+<attribute name="VALUE" x="257.81" y="177.038" size="1.778" layer="96"/>
+</instance>
+<instance part="SUPPLY4" gate="GND" x="266.7" y="200.66" smashed="yes">
+<attribute name="VALUE" x="264.795" y="197.485" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -2084,16 +2094,6 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <pinref part="SUPPLY19" gate="GND" pin="GND"/>
 </segment>
 <segment>
-<pinref part="X1" gate="G$1" pin="GND1"/>
-<wire x1="236.22" y1="200.66" x2="246.38" y2="200.66" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="200.66" x2="246.38" y2="195.58" width="0.1524" layer="91"/>
-<pinref part="SUPPLY4" gate="GND" pin="GND"/>
-<pinref part="X1" gate="G$1" pin="SHEILD"/>
-<wire x1="231.14" y1="205.74" x2="246.38" y2="205.74" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="205.74" x2="246.38" y2="200.66" width="0.1524" layer="91"/>
-<junction x="246.38" y="200.66"/>
-</segment>
-<segment>
 <pinref part="R7" gate="G$1" pin="1"/>
 <pinref part="SUPPLY20" gate="GND" pin="GND"/>
 </segment>
@@ -2122,6 +2122,23 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <junction x="378.46" y="27.94"/>
 <wire x1="353.06" y1="27.94" x2="347.98" y2="27.94" width="0.1524" layer="91"/>
 <pinref part="SUPPLY97" gate="GND" pin="GND"/>
+</segment>
+<segment>
+<pinref part="R10" gate="G$1" pin="2"/>
+<pinref part="R9" gate="G$1" pin="2"/>
+<wire x1="261.62" y1="177.8" x2="261.62" y2="193.04" width="0.1524" layer="91"/>
+<pinref part="X1" gate="G$1" pin="GND1"/>
+<wire x1="236.22" y1="200.66" x2="261.62" y2="200.66" width="0.1524" layer="91"/>
+<pinref part="X1" gate="G$1" pin="SHEILD"/>
+<wire x1="231.14" y1="205.74" x2="261.62" y2="205.74" width="0.1524" layer="91"/>
+<wire x1="261.62" y1="205.74" x2="261.62" y2="200.66" width="0.1524" layer="91"/>
+<wire x1="261.62" y1="193.04" x2="261.62" y2="200.66" width="0.1524" layer="91"/>
+<junction x="261.62" y="193.04"/>
+<junction x="261.62" y="200.66"/>
+<wire x1="261.62" y1="205.74" x2="266.7" y2="205.74" width="0.1524" layer="91"/>
+<wire x1="266.7" y1="205.74" x2="266.7" y2="203.2" width="0.1524" layer="91"/>
+<junction x="261.62" y="205.74"/>
+<pinref part="SUPPLY4" gate="GND" pin="GND"/>
 </segment>
 </net>
 <net name="VCC" class="0">
@@ -2534,6 +2551,20 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <pinref part="U1" gate="G$1" pin="PD5(XCK/CTS)"/>
 <wire x1="121.92" y1="144.78" x2="127" y2="144.78" width="0.1524" layer="91"/>
 <label x="127" y="144.78" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="X1" gate="G$1" pin="CC1"/>
+<pinref part="R9" gate="G$1" pin="1"/>
+<wire x1="236.22" y1="193.04" x2="251.46" y2="193.04" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$89" class="0">
+<segment>
+<pinref part="X1" gate="G$1" pin="CC2"/>
+<pinref part="R10" gate="G$1" pin="1"/>
+<wire x1="236.22" y1="177.8" x2="251.46" y2="177.8" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
