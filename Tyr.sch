@@ -163,11 +163,11 @@
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
-<library name="Tyr">
+<library name="Tyr" urn="urn:adsk.eagle:library:14733090">
 <description>Generated from &lt;b&gt;Tyr.sch&lt;/b&gt;&lt;p&gt;
 by exp-lbrs.ulp</description>
 <packages>
-<package name="COMPONENTS_C0603">
+<package name="COMPONENTS_C0603" urn="urn:adsk.eagle:footprint:14733102/1" library_version="1">
 <wire x1="1" y1="-0.7" x2="1.6" y2="-0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="-0.7" x2="1.6" y2="0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="0.7" x2="1" y2="0.7" width="0.1524" layer="21"/>
@@ -179,7 +179,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="-1.451" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="1.578" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="HOLE_M3_OVAL">
+<package name="HOLE_M3_OVAL" urn="urn:adsk.eagle:footprint:14733096/1" library_version="1">
 <wire x1="1.65" y1="1.65" x2="-1.65" y2="1.65" width="0.01" layer="46"/>
 <wire x1="-1.65" y1="1.65" x2="-3.3" y2="0" width="0.01" layer="46" curve="90"/>
 <wire x1="-3.3" y1="0" x2="-1.65" y2="-1.65" width="0.01" layer="46" curve="90"/>
@@ -189,7 +189,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$1" x="0" y="0" dx="5" dy="8.4" layer="16" roundness="100" rot="R90" thermals="no" cream="no"/>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
 </package>
-<package name="TYR_TYR_DISPLAY">
+<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/1" library_version="1">
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
 <wire x1="14.2875" y1="37.9" x2="14.0875" y2="38.1" width="0" layer="48" curve="90"/>
 <wire x1="14.0875" y1="38.1" x2="0.2" y2="38.1" width="0" layer="48"/>
@@ -204,7 +204,7 @@ by exp-lbrs.ulp</description>
 <pad name="SDA" x="3.33375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
 <pad name="VIN" x="10.95375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
 </package>
-<package name="COMPONENTS_R0603">
+<package name="COMPONENTS_R0603" urn="urn:adsk.eagle:footprint:14733101/1" library_version="1">
 <wire x1="1" y1="-0.7" x2="1.6" y2="-0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="-0.7" x2="1.6" y2="0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="0.7" x2="1" y2="0.7" width="0.1524" layer="21"/>
@@ -216,7 +216,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="1.45" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-1.45" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_2512">
+<package name="MICROBUILDER_2512" urn="urn:adsk.eagle:footprint:14733092/1" library_version="1">
 <description>&lt;b&gt;RESISTOR 2512 (Metric 6432)&lt;/b&gt;</description>
 <wire x1="-3.973" y1="1.983" x2="3.973" y2="1.983" width="0.0508" layer="39"/>
 <wire x1="3.973" y1="1.983" x2="3.973" y2="-1.983" width="0.0508" layer="39"/>
@@ -234,7 +234,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="3" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-3" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE">
+<package name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:footprint:14733091/1" library_version="1">
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.1524" layer="21"/>
 <wire x1="1.397" y1="1.016" x2="1.651" y2="0.762" width="0.1524" layer="21" curve="-90"/>
 <wire x1="-1.651" y1="0.762" x2="-1.397" y2="1.016" width="0.1524" layer="21" curve="-90"/>
@@ -263,7 +263,7 @@ by exp-lbrs.ulp</description>
 <vertex x="1.143" y="0.7366"/>
 </polygon>
 </package>
-<package name="TYR_QFN44-7X7">
+<package name="TYR_QFN44-7X7" urn="urn:adsk.eagle:footprint:14733122/1" library_version="1">
 <description>44-QFN, 0.50 mm pitch, 7.00 X 7.00 X 0.80 mm body, 5.15 X 5.15 mm thermal pad
 &lt;p&gt;44-pin QFN package with 0.50 mm pitch with body size 7.00 X 7.00 X 0.80 mm and thermal pad size 5.15 X 5.15 mm&lt;/p&gt;</description>
 <circle x="-4.054" y="3.139" radius="0.25" width="0" layer="21"/>
@@ -327,7 +327,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="5.08" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-5.08" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="CONTROLLER_PRTR5V0U2X">
+<package name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:footprint:14733098/1" library_version="1">
 <wire x1="1.5" y1="0.9" x2="1.7" y2="0.9" width="0.1524" layer="21"/>
 <wire x1="1.7" y1="0.9" x2="1.7" y2="-0.9" width="0.1524" layer="21"/>
 <wire x1="1.7" y1="-0.9" x2="1.5" y2="-0.9" width="0.1524" layer="21"/>
@@ -343,7 +343,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2" size="1" layer="21" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2" size="1" layer="21" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOT23-8">
+<package name="MICROBUILDER_SOT23-8" urn="urn:adsk.eagle:footprint:14733121/1" library_version="1">
 <description>&lt;b&gt;Source: &lt;/b&gt;http://www.ti.com/lit/ml/mpds099c/mpds099c.pdf</description>
 <circle x="-1.3" y="-0.4" radius="0.05" width="0.1524" layer="21"/>
 <wire x1="1.5" y1="-1" x2="1.7" y2="-1" width="0.1524" layer="21"/>
@@ -371,7 +371,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="TYR_SOT-23-6P">
+<package name="TYR_SOT-23-6P" urn="urn:adsk.eagle:footprint:14733123/1" library_version="1">
 <description>&lt;b&gt;SOT-23-6L&lt;/b&gt;&lt;br&gt;</description>
 <circle x="-0.3048" y="1.3176" radius="0.03591875" width="0.1524" layer="21"/>
 <wire x1="-1" y1="1.5" x2="-1" y2="1.7" width="0.1524" layer="21"/>
@@ -389,7 +389,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="CONTROLLER_USB-C-12P-INBOARD">
+<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/1" library_version="1">
 <wire x1="-5" y1="-4.475" x2="5" y2="-4.475" width="0.127" layer="49"/>
 <wire x1="-5.575" y1="1.175" x2="-5.875" y2="1.475" width="0.01" layer="46" curve="-90"/>
 <wire x1="-5.875" y1="1.475" x2="-5.875" y2="2.275" width="0.01" layer="46"/>
@@ -439,7 +439,7 @@ by exp-lbrs.ulp</description>
 <smd name="VBUS1" x="-2.4" y="3" dx="0.6" dy="1.15" layer="1" rot="R180"/>
 <smd name="VBUS2" x="2.4" y="3" dx="0.6" dy="1.15" layer="1" rot="R180"/>
 </package>
-<package name="CONTROLLER_CRYSTAL-3.2X2.5">
+<package name="CONTROLLER_CRYSTAL-3.2X2.5" urn="urn:adsk.eagle:footprint:14733099/1" library_version="1">
 <wire x1="-1.1" y1="-1.6" x2="-1.95" y2="-1.6" width="0.1524" layer="21"/>
 <wire x1="-1.95" y1="-1.6" x2="-1.95" y2="-0.4" width="0.1524" layer="21"/>
 <wire x1="-1.95" y1="0.4" x2="-1.95" y2="1.6" width="0.1524" layer="21"/>
@@ -460,7 +460,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.412" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.412" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="KEYBOARD_MX-1U-HOTSWAP">
+<package name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/1" library_version="1">
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -491,7 +491,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="6.065" y="5.08" dx="2.5" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK">
+<package name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/1" library_version="1">
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -522,7 +522,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="6.065" y="5.08" dx="2.5" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="COMPONENTS_SOD-123">
+<package name="COMPONENTS_SOD-123" urn="urn:adsk.eagle:footprint:14733100/1" library_version="1">
 <description>SOD-123 footprint</description>
 <wire x1="-1.7" y1="0.8" x2="-2.3" y2="0.8" width="0.1524" layer="21"/>
 <wire x1="-2.3" y1="0.8" x2="-2.3" y2="-0.8" width="0.1524" layer="21"/>
@@ -540,7 +540,7 @@ by exp-lbrs.ulp</description>
 <vertex x="0.4" y="0"/>
 </polygon>
 </package>
-<package name="KEYBOARD_MX-2U-HOTSWAP">
+<package name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/1" library_version="1">
 <description>Keyboard switch package!</description>
 <wire x1="-7.8" y1="-6.8" x2="-7.8" y2="6.8" width="0.125" layer="47"/>
 <wire x1="-7.8" y1="6.8" x2="-6.8" y2="7.8" width="0.125" layer="47" curve="-90"/>
@@ -575,7 +575,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="6.065" y="5.08" dx="2.5" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="TYR_WS2812B_3528_REVERS-MOUNT">
+<package name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:footprint:14733125/1" library_version="1">
 <circle x="-4" y="-1" radius="0.1" width="0.2032" layer="21"/>
 <wire x1="-1.7" y1="1.4" x2="-1.7" y2="-1.4" width="0.01" layer="46"/>
 <wire x1="-1.7" y1="-1.4" x2="-1.6" y2="-1.5" width="0.01" layer="46" curve="90"/>
@@ -596,8 +596,104 @@ by exp-lbrs.ulp</description>
 <smd name="VDD" x="2.7" y="0.75" dx="1.8" dy="0.82" layer="1"/>
 </package>
 </packages>
+<packages3d>
+<package3d name="COMPONENTS_C0603" urn="urn:adsk.eagle:package:14733142/2" type="model" library_version="3">
+<packageinstances>
+<packageinstance name="COMPONENTS_C0603"/>
+</packageinstances>
+</package3d>
+<package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/2" type="empty" library_version="4">
+<packageinstances>
+<packageinstance name="HOLE_M3_OVAL"/>
+</packageinstances>
+</package3d>
+<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/1" type="box" library_version="1">
+<packageinstances>
+<packageinstance name="TYR_TYR_DISPLAY"/>
+</packageinstances>
+</package3d>
+<package3d name="COMPONENTS_R0603" urn="urn:adsk.eagle:package:14733141/2" type="model" library_version="3">
+<packageinstances>
+<packageinstance name="COMPONENTS_R0603"/>
+</packageinstances>
+</package3d>
+<package3d name="MICROBUILDER_2512" urn="urn:adsk.eagle:package:14733132/1" type="box" library_version="1">
+<description>&lt;b&gt;RESISTOR 2512 (Metric 6432)&lt;/b&gt;</description>
+<packageinstances>
+<packageinstance name="MICROBUILDER_2512"/>
+</packageinstances>
+</package3d>
+<package3d name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:package:14733131/1" type="box" library_version="1">
+<packageinstances>
+<packageinstance name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE"/>
+</packageinstances>
+</package3d>
+<package3d name="TYR_QFN44-7X7" urn="urn:adsk.eagle:package:14733129/1" type="box" library_version="1">
+<description>44-QFN, 0.50 mm pitch, 7.00 X 7.00 X 0.80 mm body, 5.15 X 5.15 mm thermal pad
+&lt;p&gt;44-pin QFN package with 0.50 mm pitch with body size 7.00 X 7.00 X 0.80 mm and thermal pad size 5.15 X 5.15 mm&lt;/p&gt;</description>
+<packageinstances>
+<packageinstance name="TYR_QFN44-7X7"/>
+</packageinstances>
+</package3d>
+<package3d name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:package:14733138/1" type="box" library_version="1">
+<packageinstances>
+<packageinstance name="CONTROLLER_PRTR5V0U2X"/>
+</packageinstances>
+</package3d>
+<package3d name="MICROBUILDER_SOT23-8" urn="urn:adsk.eagle:package:14733130/1" type="box" library_version="1">
+<description>&lt;b&gt;Source: &lt;/b&gt;http://www.ti.com/lit/ml/mpds099c/mpds099c.pdf</description>
+<packageinstances>
+<packageinstance name="MICROBUILDER_SOT23-8"/>
+</packageinstances>
+</package3d>
+<package3d name="TYR_SOT-23-6P" urn="urn:adsk.eagle:package:14733128/1" type="box" library_version="1">
+<description>&lt;b&gt;SOT-23-6L&lt;/b&gt;&lt;br&gt;</description>
+<packageinstances>
+<packageinstance name="TYR_SOT-23-6P"/>
+</packageinstances>
+</package3d>
+<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/1" type="box" library_version="1">
+<packageinstances>
+<packageinstance name="CONTROLLER_USB-C-12P-INBOARD"/>
+</packageinstances>
+</package3d>
+<package3d name="CONTROLLER_CRYSTAL-3.2X2.5" urn="urn:adsk.eagle:package:14733139/1" type="box" library_version="1">
+<packageinstances>
+<packageinstance name="CONTROLLER_CRYSTAL-3.2X2.5"/>
+</packageinstances>
+</package3d>
+<package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/2" type="model" library_version="2">
+<description>Keyboard switch package!</description>
+<packageinstances>
+<packageinstance name="KEYBOARD_MX-2U-HOTSWAP"/>
+</packageinstances>
+</package3d>
+<package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/2" type="model" library_version="2">
+<description>Keyboard switch package!</description>
+<packageinstances>
+<packageinstance name="KEYBOARD_MX-1U-HOTSWAP"/>
+</packageinstances>
+</package3d>
+<package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/2" type="model" library_version="2">
+<description>Keyboard switch package!</description>
+<packageinstances>
+<packageinstance name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK"/>
+</packageinstances>
+</package3d>
+<package3d name="COMPONENTS_SOD-123" urn="urn:adsk.eagle:package:14733140/2" type="model" library_version="3">
+<description>SOD-123 footprint</description>
+<packageinstances>
+<packageinstance name="COMPONENTS_SOD-123"/>
+</packageinstances>
+</package3d>
+<package3d name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:package:14733126/1" type="box" library_version="1">
+<packageinstances>
+<packageinstance name="TYR_WS2812B_3528_REVERS-MOUNT"/>
+</packageinstances>
+</package3d>
+</packages3d>
 <symbols>
-<symbol name="COMPONENTS_CAPACITOR">
+<symbol name="COMPONENTS_CAPACITOR" urn="urn:adsk.eagle:symbol:14733120/1" library_version="1">
 <rectangle x1="-1.524" y1="-0.254" x2="2.54" y2="0.254" layer="94" rot="R90"/>
 <rectangle x1="-2.54" y1="-0.254" x2="1.524" y2="0.254" layer="94" rot="R90"/>
 <wire x1="-2.54" y1="0" x2="-0.762" y2="0" width="0.1524" layer="94"/>
@@ -607,7 +703,7 @@ by exp-lbrs.ulp</description>
 <text x="-5.08" y="0.508" size="1.778" layer="95">&gt;NAME</text>
 <text x="1.016" y="-0.254" size="1.778" layer="96" align="top-left">&gt;VALUE</text>
 </symbol>
-<symbol name="FRAMES_A3L-LOC">
+<symbol name="FRAMES_A3L-LOC" urn="urn:adsk.eagle:symbol:14733114/1" library_version="1">
 <wire x1="288.29" y1="3.81" x2="342.265" y2="3.81" width="0.1016" layer="94"/>
 <wire x1="342.265" y1="3.81" x2="373.38" y2="3.81" width="0.1016" layer="94"/>
 <wire x1="373.38" y1="3.81" x2="383.54" y2="3.81" width="0.1016" layer="94"/>
@@ -633,11 +729,11 @@ by exp-lbrs.ulp</description>
 <text x="343.916" y="4.953" size="2.54" layer="94">Sheet:</text>
 <frame x1="0" y1="0" x2="387.35" y2="260.35" columns="8" rows="5" layer="94"/>
 </symbol>
-<symbol name="HOLE_HOLE">
+<symbol name="HOLE_HOLE" urn="urn:adsk.eagle:symbol:14733113/1" library_version="1">
 <circle x="0" y="0" radius="2.54" width="0.254" layer="94"/>
 <pin name="GND" x="0" y="0" length="short" rot="R90"/>
 </symbol>
-<symbol name="TYR_TYR_DISPLAY">
+<symbol name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:symbol:14733104/1" library_version="1">
 <wire x1="7.62" y1="-3.81" x2="7.62" y2="3.81" width="0.4064" layer="94"/>
 <wire x1="7.62" y1="3.81" x2="-5.08" y2="3.81" width="0.4064" layer="94"/>
 <wire x1="-5.08" y1="3.81" x2="-5.08" y2="-3.81" width="0.4064" layer="94"/>
@@ -652,7 +748,7 @@ by exp-lbrs.ulp</description>
 <pin name="3" x="2.54" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
 <pin name="4" x="5.08" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
 </symbol>
-<symbol name="COMPONENTS_RESISTOR">
+<symbol name="COMPONENTS_RESISTOR" urn="urn:adsk.eagle:symbol:14733118/1" library_version="1">
 <wire x1="-2.54" y1="-0.889" x2="2.54" y2="-0.889" width="0.254" layer="94"/>
 <wire x1="2.54" y1="0.889" x2="-2.54" y2="0.889" width="0.254" layer="94"/>
 <wire x1="2.54" y1="-0.889" x2="2.54" y2="0.889" width="0.254" layer="94"/>
@@ -662,7 +758,7 @@ by exp-lbrs.ulp</description>
 <text x="-3.81" y="1.4986" size="1.778" layer="95">&gt;NAME</text>
 <text x="-3.81" y="-3.302" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_RESISTOR">
+<symbol name="MICROBUILDER_RESISTOR" urn="urn:adsk.eagle:symbol:14733110/1" library_version="1">
 <wire x1="-2.54" y1="1.27" x2="2.54" y2="1.27" width="0.254" layer="94"/>
 <wire x1="2.54" y1="1.27" x2="2.54" y2="-1.27" width="0.254" layer="94"/>
 <wire x1="2.54" y1="-1.27" x2="-2.54" y2="-1.27" width="0.254" layer="94"/>
@@ -672,7 +768,7 @@ by exp-lbrs.ulp</description>
 <text x="-2.54" y="2.032" size="1.27" layer="95" font="vector">&gt;NAME</text>
 <text x="-2.54" y="-3.175" size="1.27" layer="96" font="vector">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_SOLDERJUMPER">
+<symbol name="MICROBUILDER_SOLDERJUMPER" urn="urn:adsk.eagle:symbol:14733109/1" library_version="1">
 <wire x1="0.381" y1="0.635" x2="0.381" y2="-0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
 <wire x1="-0.381" y1="-0.635" x2="-0.381" y2="0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
 <wire x1="2.54" y1="0" x2="1.651" y2="0" width="0.1524" layer="94"/>
@@ -682,19 +778,19 @@ by exp-lbrs.ulp</description>
 <text x="-2.54" y="2.54" size="1.778" layer="95">&gt;NAME</text>
 <text x="-2.54" y="-3.81" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="SUPPLY2_VCC">
+<symbol name="SUPPLY2_VCC" urn="urn:adsk.eagle:symbol:14733107/1" library_version="1">
 <circle x="0" y="1.27" radius="1.27" width="0.254" layer="94"/>
 <pin name="VCC" x="0" y="-2.54" visible="off" length="short" direction="sup" rot="R90"/>
 <text x="-1.905" y="3.175" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="SUPPLY2_GND">
+<symbol name="SUPPLY2_GND" urn="urn:adsk.eagle:symbol:14733108/1" library_version="1">
 <wire x1="-1.27" y1="0" x2="1.27" y2="0" width="0.254" layer="94"/>
 <wire x1="1.27" y1="0" x2="0" y2="-1.27" width="0.254" layer="94"/>
 <wire x1="0" y1="-1.27" x2="-1.27" y2="0" width="0.254" layer="94"/>
 <pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
 <text x="-1.905" y="-3.175" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="TYR_ATMEGA32U4">
+<symbol name="TYR_ATMEGA32U4" urn="urn:adsk.eagle:symbol:14733106/1" library_version="1">
 <wire x1="-17.78" y1="53.34" x2="20.32" y2="53.34" width="0.254" layer="94"/>
 <wire x1="20.32" y1="53.34" x2="20.32" y2="38.1" width="0.254" layer="94"/>
 <wire x1="20.32" y1="38.1" x2="20.32" y2="-40.64" width="0.254" layer="94"/>
@@ -751,7 +847,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="48.26" size="1.778" layer="94" align="center">ATMEGA32U4</text>
 <text x="0" y="43.18" size="1.778" layer="94" align="center">8-bit AVR Microcontroller</text>
 </symbol>
-<symbol name="CONTROLLER_PRTR5V0U2X">
+<symbol name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:symbol:14733116/1" library_version="1">
 <circle x="-7.62" y="1.27" radius="0.254" width="0.254" layer="94"/>
 <circle x="7.62" y="1.27" radius="0.254" width="0.254" layer="94"/>
 <circle x="-7.62" y="5.08" radius="0.254" width="0.254" layer="94"/>
@@ -833,7 +929,7 @@ by exp-lbrs.ulp</description>
 <text x="-7.366" y="-6.35" size="1.27" layer="97" font="vector" align="center">I/O 1</text>
 <text x="7.62" y="-6.35" size="1.27" layer="97" font="vector" align="center">I/O 2</text>
 </symbol>
-<symbol name="MICROBUILDER_INA219">
+<symbol name="MICROBUILDER_INA219" urn="urn:adsk.eagle:symbol:14733111/1" library_version="1">
 <wire x1="-10.16" y1="17.78" x2="10.16" y2="17.78" width="0.254" layer="94"/>
 <wire x1="10.16" y1="17.78" x2="10.16" y2="10.16" width="0.254" layer="94"/>
 <wire x1="10.16" y1="10.16" x2="10.16" y2="-12.7" width="0.254" layer="94"/>
@@ -859,7 +955,7 @@ by exp-lbrs.ulp</description>
 <text x="-7.62" y="-15.24" size="1.27" layer="94">VCC:</text>
 <text x="0" y="-15.24" size="1.27" layer="94">3-5.5V</text>
 </symbol>
-<symbol name="TYR_TPS2552">
+<symbol name="TYR_TPS2552" urn="urn:adsk.eagle:symbol:14733105/1" library_version="1">
 <wire x1="-7.62" y1="12.7" x2="-7.62" y2="5.08" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="5.08" x2="-7.62" y2="-10.16" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-10.16" x2="7.62" y2="-10.16" width="0.254" layer="94"/>
@@ -877,7 +973,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="10.16" size="1.778" layer="94" align="center">TPS2552</text>
 <text x="0" y="7.62" size="1.778" layer="94" align="center">Curr Limiting</text>
 </symbol>
-<symbol name="CONTROLLER_USB-C-12P">
+<symbol name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:symbol:14733115/1" library_version="1">
 <wire x1="-2.54" y1="20.32" x2="-2.54" y2="-17.526" width="0.254" layer="94"/>
 <wire x1="-2.54" y1="-17.526" x2="-1.27" y2="-19.05" width="0.254" layer="94" curve="90"/>
 <wire x1="5.08" y1="-19.05" x2="6.35" y2="-17.78" width="0.254" layer="94" curve="90"/>
@@ -910,7 +1006,7 @@ by exp-lbrs.ulp</description>
 <text x="2.54" y="22.86" size="1.778" layer="95" align="center">&gt;NAME</text>
 <text x="2.54" y="-20.32" size="1.778" layer="96" rot="R180" align="center">&gt;VALUE</text>
 </symbol>
-<symbol name="CONTROLLER_CRYSTAL-4PAD">
+<symbol name="CONTROLLER_CRYSTAL-4PAD" urn="urn:adsk.eagle:symbol:14733117/1" library_version="1">
 <wire x1="-3.683" y1="1.524" x2="-3.683" y2="-1.524" width="0.254" layer="94"/>
 <wire x1="-3.683" y1="-1.524" x2="-1.397" y2="-1.524" width="0.254" layer="94"/>
 <wire x1="-1.397" y1="-1.524" x2="-1.397" y2="1.524" width="0.254" layer="94"/>
@@ -926,7 +1022,7 @@ by exp-lbrs.ulp</description>
 <text x="-1.016" y="-1.143" size="0.8636" layer="93">2</text>
 <text x="-3.048" y="-2.667" size="0.8636" layer="93" align="top-right">GND</text>
 </symbol>
-<symbol name="KEYBOARD_KEYSWITCH-PLAIN">
+<symbol name="KEYBOARD_KEYSWITCH-PLAIN" urn="urn:adsk.eagle:symbol:14733112/1" library_version="1">
 <description>Keyboard switch without LEDs.</description>
 <wire x1="-7.54" y1="7.54" x2="7.54" y2="7.54" width="0.254" layer="94"/>
 <wire x1="7.54" y1="7.54" x2="7.54" y2="-7.54" width="0.254" layer="94"/>
@@ -949,7 +1045,7 @@ by exp-lbrs.ulp</description>
 <pin name="P1" x="2.54" y="10.16" length="short" swaplevel="1" rot="R270"/>
 <text x="-6.81" y="5.318" size="1" layer="95">&gt;NAME</text>
 </symbol>
-<symbol name="COMPONENTS_DIODE">
+<symbol name="COMPONENTS_DIODE" urn="urn:adsk.eagle:symbol:14733119/1" library_version="1">
 <wire x1="-1.27" y1="-1.905" x2="1.27" y2="0" width="0.254" layer="94"/>
 <wire x1="1.27" y1="0" x2="-1.27" y2="1.905" width="0.254" layer="94"/>
 <wire x1="-1.27" y1="1.905" x2="-1.27" y2="0" width="0.254" layer="94"/>
@@ -962,7 +1058,7 @@ by exp-lbrs.ulp</description>
 <text x="-2.3114" y="2.6416" size="1.778" layer="95">&gt;NAME</text>
 <text x="-2.5654" y="-4.4958" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="TYR_WS2812B_3528_REVERS-MOUNT">
+<symbol name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:symbol:14733103/1" library_version="1">
 <wire x1="-7.62" y1="7.62" x2="-7.62" y2="-5.08" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-5.08" x2="-7.62" y2="-7.62" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-7.62" x2="0" y2="-7.62" width="0.254" layer="94"/>
@@ -1017,7 +1113,7 @@ by exp-lbrs.ulp</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="COMPONENTS_CAPACITOR" prefix="C" uservalue="yes">
+<deviceset name="COMPONENTS_CAPACITOR" urn="urn:adsk.eagle:component:14733161/2" prefix="C" uservalue="yes" library_version="3">
 <gates>
 <gate name="G$1" symbol="COMPONENTS_CAPACITOR" x="0" y="0"/>
 </gates>
@@ -1027,13 +1123,16 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733142/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="FRAMES_A3L-LOC" prefix="FRAME" uservalue="yes">
+<deviceset name="FRAMES_A3L-LOC" urn="urn:adsk.eagle:component:14733155/1" prefix="FRAME" uservalue="yes" library_version="1">
 <description>&lt;b&gt;FRAME&lt;/b&gt;&lt;p&gt;
 DIN A3, landscape with location and doc. field</description>
 <gates>
@@ -1047,7 +1146,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="HOLE_MOUNT_HOLE" prefix="HOLE">
+<deviceset name="HOLE_MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/2" prefix="HOLE" library_version="4">
 <gates>
 <gate name="G$1" symbol="HOLE_HOLE" x="0" y="0"/>
 </gates>
@@ -1056,13 +1155,16 @@ DIN A3, landscape with location and doc. field</description>
 <connects>
 <connect gate="G$1" pin="GND" pad="P$1 P$2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_TYR_DISPLAY" prefix="J">
+<deviceset name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/1" prefix="J" library_version="1">
 <gates>
 <gate name="G$1" symbol="TYR_TYR_DISPLAY" x="0" y="0"/>
 </gates>
@@ -1074,13 +1176,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="3" pad="GND"/>
 <connect gate="G$1" pin="4" pad="VIN"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733127/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="COMPONENTS_RESISTOR" prefix="R" uservalue="yes">
+<deviceset name="COMPONENTS_RESISTOR" urn="urn:adsk.eagle:component:14733159/2" prefix="R" uservalue="yes" library_version="3">
 <gates>
 <gate name="G$1" symbol="COMPONENTS_RESISTOR" x="0" y="0"/>
 </gates>
@@ -1090,13 +1195,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733141/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_RESISTOR" prefix="R" uservalue="yes">
+<deviceset name="MICROBUILDER_RESISTOR" urn="urn:adsk.eagle:component:14733150/1" prefix="R" uservalue="yes" library_version="1">
 <description>&lt;p&gt;&lt;b&gt;Resistors&lt;/b&gt;&lt;/p&gt;
 &lt;b&gt;0402&lt;/b&gt; - 0402 Surface Mount Package
 &lt;ul&gt;
@@ -1171,13 +1279,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733132/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_SOLDERJUMPER" prefix="SJ" uservalue="yes">
+<deviceset name="MICROBUILDER_SOLDERJUMPER" urn="urn:adsk.eagle:component:14733149/1" prefix="SJ" uservalue="yes" library_version="1">
 <description>&lt;p&gt;&lt;b&gt;SMD Solder JUMPER&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Solder the two pads together to create a connection, or remove the solder to break it.&lt;/p&gt;
 &lt;b&gt;REFLOW&lt;/b&gt; - Use this footprint for solder paste and reflow ovens.&lt;br/&gt;
@@ -1192,6 +1303,9 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="1" pin="1" pad="1"/>
 <connect gate="1" pin="2" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733131/1"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
@@ -1200,7 +1314,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SUPPLY2_VCC" prefix="SUPPLY">
+<deviceset name="SUPPLY2_VCC" urn="urn:adsk.eagle:component:14733147/1" prefix="SUPPLY" library_version="1">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="SUPPLY2_VCC" x="0" y="0"/>
@@ -1213,7 +1327,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SUPPLY2_GND" prefix="SUPPLY">
+<deviceset name="SUPPLY2_GND" urn="urn:adsk.eagle:component:14733148/1" prefix="SUPPLY" library_version="1">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
 <gate name="GND" symbol="SUPPLY2_GND" x="0" y="0"/>
@@ -1226,7 +1340,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_ATMEGA32U4" prefix="U">
+<deviceset name="TYR_ATMEGA32U4" urn="urn:adsk.eagle:component:14733146/1" prefix="U" library_version="1">
 <gates>
 <gate name="G$1" symbol="TYR_ATMEGA32U4" x="0" y="0"/>
 </gates>
@@ -1279,13 +1393,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="XTAL1" pad="17"/>
 <connect gate="G$1" pin="XTAL2" pad="16"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733129/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONTROLLER_PRTR5V0U2X" prefix="U">
+<deviceset name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:component:14733157/1" prefix="U" library_version="1">
 <gates>
 <gate name="G$1" symbol="CONTROLLER_PRTR5V0U2X" x="0" y="0"/>
 </gates>
@@ -1297,13 +1414,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="3" pad="3"/>
 <connect gate="G$1" pin="4" pad="4"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733138/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_INA219" prefix="U" uservalue="yes">
+<deviceset name="MICROBUILDER_INA219" urn="urn:adsk.eagle:component:14733151/1" prefix="U" uservalue="yes" library_version="1">
 <description>&lt;b&gt;INA219 - I2C Current/Power Monitor&lt;/b&gt;
 &lt;ul&gt;
 &lt;li&gt;Voltage Range: 0-26V&lt;/li&gt;
@@ -1325,13 +1445,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="VIN+" pad="1"/>
 <connect gate="G$1" pin="VIN-" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733130/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_TPS2552" prefix="U">
+<deviceset name="TYR_TPS2552" urn="urn:adsk.eagle:component:14733145/1" prefix="U" library_version="1">
 <gates>
 <gate name="G$1" symbol="TYR_TPS2552" x="0" y="0"/>
 </gates>
@@ -1345,13 +1468,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="IN" pad="1"/>
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733128/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONTROLLER_USB-C-12P" prefix="X">
+<deviceset name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:component:14733156/1" prefix="X" library_version="1">
 <gates>
 <gate name="G$1" symbol="CONTROLLER_USB-C-12P" x="-2.54" y="0"/>
 </gates>
@@ -1372,13 +1498,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="VBUS1" pad="VBUS1"/>
 <connect gate="G$1" pin="VBUS2" pad="VBUS2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733137/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONTROLLER_CRYSTAL-4PIN" prefix="Y" uservalue="yes">
+<deviceset name="CONTROLLER_CRYSTAL-4PIN" urn="urn:adsk.eagle:component:14733158/1" prefix="Y" uservalue="yes" library_version="1">
 <gates>
 <gate name="G$1" symbol="CONTROLLER_CRYSTAL-4PAD" x="0" y="0"/>
 </gates>
@@ -1389,13 +1518,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="2" pad="3"/>
 <connect gate="G$1" pin="GND" pad="2 4"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733139/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" prefix="KEYSWITCH">
+<deviceset name="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" urn="urn:adsk.eagle:component:14733153/2" prefix="KEYSWITCH" library_version="2">
 <gates>
 <gate name="G$1" symbol="KEYBOARD_KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
@@ -1406,6 +1538,9 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="P0" pad="P$2"/>
 <connect gate="G$1" pin="P1" pad="P$1"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -1416,13 +1551,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="P0" pad="P$2"/>
 <connect gate="G$1" pin="P1" pad="P$1"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733134/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="COMPONENTS_DIODE" prefix="D" uservalue="yes">
+<deviceset name="COMPONENTS_DIODE" urn="urn:adsk.eagle:component:14733160/2" prefix="D" uservalue="yes" library_version="3">
 <description>Standard 1N4148 diode</description>
 <gates>
 <gate name="D$1" symbol="COMPONENTS_DIODE" x="0" y="0"/>
@@ -1433,6 +1571,9 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="D$1" pin="A" pad="A"/>
 <connect gate="D$1" pin="C" pad="C"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733140/2"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="1N4148" constant="no"/>
@@ -1441,7 +1582,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" prefix="SWITCH">
+<deviceset name="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" urn="urn:adsk.eagle:component:14733152/2" prefix="SWITCH" library_version="2">
 <gates>
 <gate name="G$1" symbol="KEYBOARD_KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
@@ -1452,13 +1593,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="P0" pad="P$2"/>
 <connect gate="G$1" pin="P1" pad="P$1"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733133/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_WS2812B_3528_REVERS-MOUNT" prefix="LED">
+<deviceset name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:component:14733143/1" prefix="LED" library_version="1">
 <gates>
 <gate name="G$1" symbol="TYR_WS2812B_3528_REVERS-MOUNT" x="0" y="0"/>
 </gates>
@@ -1470,6 +1614,9 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="GND" pad="GND"/>
 <connect gate="G$1" pin="VDD" pad="VDD"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -1488,299 +1635,299 @@ DIN A3, landscape with location and doc. field</description>
 </class>
 </classes>
 <parts>
-<part name="ESC" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D1" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F1" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D2" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F2" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D3" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F3" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D4" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F4" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D5" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F5" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D6" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F6" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D7" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="HOME" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D8" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="GRAVE" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D9" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="1" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D10" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="2" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D11" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="3" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D12" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="4" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D13" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="5" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D14" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="6" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D15" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="INSERT" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D16" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="TAB" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D17" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="Q" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D18" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="W" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D19" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="E" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D20" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="R" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D21" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="T" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D22" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="Y" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D23" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="CAPSLOCK" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="CAPSLOCK" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK"/>
-<part name="D24" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="A" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D25" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="S" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D26" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="D" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D27" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="F" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D28" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="G" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D29" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="H" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D30" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="SHIFT" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device=""/>
-<part name="D31" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="Z" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D32" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="X" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D33" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="C" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D34" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="V" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D35" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="B" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D36" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="CTRL" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D37" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="WIN" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D38" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="ALT" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D39" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="SPACE" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device=""/>
-<part name="D40" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="FN" library="Tyr" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device=""/>
-<part name="D41" library="Tyr" deviceset="COMPONENTS_DIODE" device="-SOD-123" value="1N4148"/>
-<part name="C6" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="22p"/>
-<part name="C7" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="22p"/>
-<part name="SUPPLY9" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY7" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
-<part name="C2" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="C3" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="C4" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="C5" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="4.7u"/>
-<part name="SUPPLY10" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="R1" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
-<part name="R3" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
-<part name="SUPPLY5" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY11" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="X1" library="Tyr" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD"/>
-<part name="SUPPLY8" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY3" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
-<part name="SUPPLY6" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
-<part name="R2" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="22"/>
-<part name="R4" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="22"/>
-<part name="C1" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="1u"/>
-<part name="Y1" library="Tyr" deviceset="CONTROLLER_CRYSTAL-4PIN" device="-3.2X2.5" value="16Mhz"/>
-<part name="SUPPLY2" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="U1" library="Tyr" deviceset="TYR_ATMEGA32U4" device=""/>
-<part name="J1" library="Tyr" deviceset="TYR_TYR_DISPLAY" device=""/>
-<part name="U2" library="Tyr" deviceset="CONTROLLER_PRTR5V0U2X" device="" value="CONTROLLER_PRTR5V0U2X"/>
-<part name="SUPPLY17" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY14" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
-<part name="LED1" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED2" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED3" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED4" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED5" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED6" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED7" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED8" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED9" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED10" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED11" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED12" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED13" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED14" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED15" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED16" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED17" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED18" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED19" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED20" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED21" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED22" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED23" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED24" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED25" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED26" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED27" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED28" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED29" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED30" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED31" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED32" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED33" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED34" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED35" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED36" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED37" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED38" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED39" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED40" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="LED41" library="Tyr" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device=""/>
-<part name="SJ1" library="Tyr" deviceset="MICROBUILDER_SOLDERJUMPER" device=""/>
-<part name="U4" library="Tyr" deviceset="TYR_TPS2552" device=""/>
-<part name="U3" library="Tyr" deviceset="MICROBUILDER_INA219" device=""/>
-<part name="SUPPLY13" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
-<part name="SUPPLY12" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
-<part name="C9" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="SUPPLY16" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY19" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="R5" library="Tyr" deviceset="MICROBUILDER_RESISTOR" device="2512" value="0.1/1% (PT2512FK-070R1L)"/>
-<part name="R6" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="54.9k"/>
-<part name="SUPPLY18" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="FRAME1" library="Tyr" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="FRAME2" library="Tyr" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="FRAME3" library="Tyr" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="R7" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="10k"/>
-<part name="SUPPLY20" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C10" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY21" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C11" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY22" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C12" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY23" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C13" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY24" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C14" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY25" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C15" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY26" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C16" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY27" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C17" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY36" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C18" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY37" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C19" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY38" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C20" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY39" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C21" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY40" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C22" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY41" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C23" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY42" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C24" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY51" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C25" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY52" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C26" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY53" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C27" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY54" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C28" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY55" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C29" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY56" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C30" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY64" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C31" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY65" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C32" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY66" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C33" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY67" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C34" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY68" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C35" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY69" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C36" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY77" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C37" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY78" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C38" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY79" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C39" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY80" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C40" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY81" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C41" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY88" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C42" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY89" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C43" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY90" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="C44" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="104"/>
-<part name="SUPPLY91" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY28" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY29" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY30" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY31" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY32" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY33" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY34" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY35" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY50" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY49" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY48" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY47" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY46" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY45" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY44" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY43" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY57" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY58" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY59" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY60" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY61" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY62" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY63" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY76" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY75" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY74" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY73" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY72" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY71" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY70" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY82" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY83" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY84" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY85" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY86" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY87" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY96" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY95" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY94" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY93" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY92" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY1" library="Tyr" deviceset="SUPPLY2_VCC" device=""/>
-<part name="C8" library="Tyr" deviceset="COMPONENTS_CAPACITOR" device="-0603" value="0.1u"/>
-<part name="SUPPLY15" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="HOLE1" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE2" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE3" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE4" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE5" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="HOLE6" library="Tyr" deviceset="HOLE_MOUNT_HOLE" device=""/>
-<part name="SJ2" library="Tyr" deviceset="MICROBUILDER_SOLDERJUMPER" device=""/>
-<part name="SUPPLY97" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY98" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
-<part name="R8" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="100k"/>
-<part name="R9" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="5.1k"/>
-<part name="R10" library="Tyr" deviceset="COMPONENTS_RESISTOR" device="-0603" value="5.1k"/>
-<part name="SUPPLY4" library="Tyr" deviceset="SUPPLY2_GND" device=""/>
+<part name="ESC" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="F1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="F2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="F3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="F4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="F5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="F6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="HOME" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="GRAVE" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="INSERT" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="TAB" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="Q" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="W" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="E" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="R" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="T" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="Y" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="CAPSLOCK" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/2" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK"/>
+<part name="D24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="A" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="S" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="D" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="F" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="G" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="H" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="SHIFT" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/2"/>
+<part name="D31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="Z" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="X" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="C" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="V" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="B" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="CTRL" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="WIN" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="ALT" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="SPACE" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/2"/>
+<part name="D40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="FN" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/2"/>
+<part name="D41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
+<part name="C6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p"/>
+<part name="C7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p"/>
+<part name="SUPPLY9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="C2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u"/>
+<part name="C3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u"/>
+<part name="C4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u"/>
+<part name="C5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u"/>
+<part name="SUPPLY10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="R1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
+<part name="R3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
+<part name="SUPPLY5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/1" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD"/>
+<part name="SUPPLY8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="SUPPLY6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="22"/>
+<part name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="22"/>
+<part name="C1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="1u"/>
+<part name="Y1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_CRYSTAL-4PIN" device="-3.2X2.5" package3d_urn="urn:adsk.eagle:package:14733139/1" value="16Mhz"/>
+<part name="SUPPLY2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="U1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_ATMEGA32U4" device="" package3d_urn="urn:adsk.eagle:package:14733129/1"/>
+<part name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_TYR_DISPLAY" device="" package3d_urn="urn:adsk.eagle:package:14733127/1"/>
+<part name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_PRTR5V0U2X" device="" package3d_urn="urn:adsk.eagle:package:14733138/1" value="CONTROLLER_PRTR5V0U2X"/>
+<part name="SUPPLY17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="LED41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/1"/>
+<part name="SJ1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MICROBUILDER_SOLDERJUMPER" device="" package3d_urn="urn:adsk.eagle:package:14733131/1"/>
+<part name="U4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_TPS2552" device="" package3d_urn="urn:adsk.eagle:package:14733128/1"/>
+<part name="U3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MICROBUILDER_INA219" device="" package3d_urn="urn:adsk.eagle:package:14733130/1"/>
+<part name="SUPPLY13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="SUPPLY12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="C9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u"/>
+<part name="SUPPLY16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="R5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MICROBUILDER_RESISTOR" device="2512" package3d_urn="urn:adsk.eagle:package:14733132/1" value="0.1/1% (PT2512FK-070R1L)"/>
+<part name="R6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="54.9k"/>
+<part name="SUPPLY18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="FRAME1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="FRAMES_A3L-LOC" device=""/>
+<part name="FRAME2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="FRAMES_A3L-LOC" device=""/>
+<part name="FRAME3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="FRAMES_A3L-LOC" device=""/>
+<part name="R7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
+<part name="SUPPLY20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY53" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY54" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY55" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY56" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY64" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY65" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY66" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY67" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY68" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY69" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY77" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY78" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY79" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY80" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY81" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY88" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY89" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY90" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
+<part name="SUPPLY91" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY57" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY58" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY59" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY60" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY61" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY62" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY63" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY76" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY75" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY74" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY73" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY72" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY71" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY70" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY82" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY83" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY84" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY85" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY86" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY87" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY96" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY95" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY94" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY93" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY92" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="C8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u"/>
+<part name="SUPPLY15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+<part name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+<part name="HOLE3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+<part name="HOLE4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+<part name="HOLE5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+<part name="HOLE6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+<part name="SJ2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MICROBUILDER_SOLDERJUMPER" device="" package3d_urn="urn:adsk.eagle:package:14733131/1"/>
+<part name="SUPPLY97" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY98" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="R8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k"/>
+<part name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k"/>
+<part name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k"/>
+<part name="SUPPLY4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -5165,6 +5312,21 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <note version="6.3" minversion="6.2.2" severity="warning">
 Since Version 6.2.2 text objects can contain more than one line,
 which will not be processed correctly with this version.
+</note>
+<note version="8.2" severity="warning">
+Since Version 8.2, EAGLE supports online libraries. The ids
+of those online libraries will not be understood (or retained)
+with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports URNs for individual library
+assets (packages, symbols, and devices). The URNs of those assets
+will not be understood (or retained) with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports the association of 3D packages
+with devices in libraries, schematics, and board files. Those 3D
+packages will not be understood (or retained) with this version.
 </note>
 </compatibility>
 </eagle>
