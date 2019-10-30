@@ -189,7 +189,11 @@ by exp-lbrs.ulp</description>
 <smd name="P$1" x="0" y="0" dx="5" dy="8.4" layer="16" roundness="100" rot="R90" thermals="no" cream="no"/>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
 </package>
+<<<<<<< Updated upstream
 <package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/2" library_version="14">
+=======
+<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/2" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
 <wire x1="14.2875" y1="37.9" x2="14.0875" y2="38.1" width="0" layer="48" curve="90"/>
 <wire x1="14.0875" y1="38.1" x2="0.2" y2="38.1" width="0" layer="48"/>
@@ -460,7 +464,11 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.412" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.412" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
+<<<<<<< Updated upstream
 <package name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/2" library_version="14">
+=======
+<package name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/2" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -498,7 +506,11 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="6.215" y="5.08" dx="2.5" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
+<<<<<<< Updated upstream
 <package name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/2" library_version="14">
+=======
+<package name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/2" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -554,7 +566,11 @@ by exp-lbrs.ulp</description>
 <vertex x="0.4" y="0"/>
 </polygon>
 </package>
+<<<<<<< Updated upstream
 <package name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/2" library_version="14">
+=======
+<package name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/2" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <description>Keyboard switch package!</description>
 <wire x1="-7.8" y1="-6.8" x2="-7.8" y2="6.8" width="0.125" layer="47"/>
 <wire x1="-7.8" y1="6.8" x2="-6.8" y2="7.8" width="0.125" layer="47" curve="-90"/>
@@ -616,7 +632,11 @@ by exp-lbrs.ulp</description>
 <smd name="GND" x="-2.7" y="-0.75" dx="1.8" dy="0.82" layer="1"/>
 <smd name="VDD" x="2.7" y="0.75" dx="1.8" dy="0.82" layer="1"/>
 </package>
+<<<<<<< Updated upstream
 <package name="USB_A-SMD_SHORT" urn="urn:adsk.eagle:footprint:14830235/1" library_version="13">
+=======
+<package name="USB_A-SMD_SHORT" urn="urn:adsk.eagle:footprint:14830235/1" locally_modified="yes" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <hole x="-2.45" y="2.65" drill="1.5"/>
 <hole x="2.45" y="2.65" drill="1.5"/>
 <smd name="SHEILD1" x="-7.625" y="3" dx="3.5" dy="2" layer="1"/>
@@ -627,6 +647,13 @@ by exp-lbrs.ulp</description>
 <smd name="D-" x="-1" y="5.65" dx="1.25" dy="3" layer="1"/>
 <smd name="D+" x="1" y="5.65" dx="1.25" dy="3" layer="1"/>
 <smd name="GND" x="3.5" y="5.65" dx="1.25" dy="3" layer="1"/>
+<<<<<<< Updated upstream
+=======
+<wire x1="-7" y1="5" x2="-7" y2="-5" width="0.127" layer="48"/>
+<wire x1="-7" y1="5" x2="7" y2="5" width="0.127" layer="48"/>
+<wire x1="7" y1="5" x2="7" y2="-5" width="0.127" layer="48"/>
+<wire x1="7" y1="-5" x2="-7" y2="-5" width="0.127" layer="48"/>
+>>>>>>> Stashed changes
 </package>
 <package name="QFN24-4X4" urn="urn:adsk.eagle:footprint:14794963/2" library_version="13">
 <description>24-QFN, 0.50 mm pitch, 4.00 X 4.00 X 1.00 mm body, 2.50 X 2.50 mm thermal pad
@@ -695,6 +722,23 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.5875" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
 <text x="0" y="-2.185" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
 </package>
+<<<<<<< Updated upstream
+=======
+<package name="C0402" library_version="15" library_locally_modified="yes">
+<wire x1="-0.245" y1="0.224" x2="0.245" y2="0.224" width="0.1524" layer="51"/>
+<wire x1="0.245" y1="-0.224" x2="-0.245" y2="-0.224" width="0.1524" layer="51"/>
+<wire x1="-1" y1="0.483" x2="1" y2="0.483" width="0.0508" layer="39"/>
+<wire x1="1" y1="0.483" x2="1" y2="-0.483" width="0.0508" layer="39"/>
+<wire x1="1" y1="-0.483" x2="-1" y2="-0.483" width="0.0508" layer="39"/>
+<wire x1="-1" y1="-0.483" x2="-1" y2="0.483" width="0.0508" layer="39"/>
+<smd name="1" x="-0.5" y="0" dx="0.6" dy="0.7" layer="1"/>
+<smd name="2" x="0.5" y="0" dx="0.6" dy="0.7" layer="1"/>
+<text x="-0.635" y="-0.635" size="0.9" layer="25" ratio="13" align="top-left">&gt;NAME</text>
+<rectangle x1="-0.554" y1="-0.3048" x2="-0.254" y2="0.2951" layer="51"/>
+<rectangle x1="0.2588" y1="-0.3048" x2="0.5588" y2="0.2951" layer="51"/>
+<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
+</package>
+>>>>>>> Stashed changes
 </packages>
 <packages3d>
 <package3d name="COMPONENTS_C0603" urn="urn:adsk.eagle:package:14733142/2" type="model" library_version="3">
@@ -707,7 +751,11 @@ by exp-lbrs.ulp</description>
 <packageinstance name="HOLE_M3_OVAL"/>
 </packageinstances>
 </package3d>
+<<<<<<< Updated upstream
 <package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/3" type="empty" library_version="14">
+=======
+<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/3" type="empty" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <packageinstances>
 <packageinstance name="TYR_TYR_DISPLAY"/>
 </packageinstances>
@@ -766,19 +814,31 @@ by exp-lbrs.ulp</description>
 <packageinstance name="CONTROLLER_CRYSTAL-3.2X2.5"/>
 </packageinstances>
 </package3d>
+<<<<<<< Updated upstream
 <package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/3" type="model" library_version="14">
+=======
+<package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/3" type="model" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <description>Keyboard switch package!</description>
 <packageinstances>
 <packageinstance name="KEYBOARD_MX-2U-HOTSWAP"/>
 </packageinstances>
 </package3d>
+<<<<<<< Updated upstream
 <package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/3" type="model" library_version="14">
+=======
+<package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/3" type="model" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <description>Keyboard switch package!</description>
 <packageinstances>
 <packageinstance name="KEYBOARD_MX-1U-HOTSWAP"/>
 </packageinstances>
 </package3d>
+<<<<<<< Updated upstream
 <package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/3" type="model" library_version="14">
+=======
+<package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/3" type="model" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <description>Keyboard switch package!</description>
 <packageinstances>
 <packageinstance name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK"/>
@@ -795,7 +855,11 @@ by exp-lbrs.ulp</description>
 <packageinstance name="TYR_WS2812B_3528_REVERS-MOUNT"/>
 </packageinstances>
 </package3d>
+<<<<<<< Updated upstream
 <package3d name="USB_A-SMD_SHORT" urn="urn:adsk.eagle:package:14830236/1" type="box" library_version="13">
+=======
+<package3d name="USB_A-SMD_SHORT" urn="urn:adsk.eagle:package:14830236/1" type="box" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <packageinstances>
 <packageinstance name="USB_A-SMD_SHORT"/>
 </packageinstances>
@@ -856,7 +920,11 @@ by exp-lbrs.ulp</description>
 <circle x="0" y="0" radius="2.54" width="0.254" layer="94"/>
 <pin name="GND" x="0" y="0" length="short" rot="R90"/>
 </symbol>
+<<<<<<< Updated upstream
 <symbol name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:symbol:14733104/2" library_version="14">
+=======
+<symbol name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:symbol:14733104/2" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <wire x1="7.62" y1="-3.81" x2="7.62" y2="3.81" width="0.4064" layer="94"/>
 <wire x1="7.62" y1="3.81" x2="-5.08" y2="3.81" width="0.4064" layer="94"/>
 <wire x1="-5.08" y1="3.81" x2="-5.08" y2="-3.81" width="0.4064" layer="94"/>
@@ -1322,7 +1390,7 @@ by exp-lbrs.ulp</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="COMPONENTS_CAPACITOR" urn="urn:adsk.eagle:component:14733161/2" prefix="C" uservalue="yes" library_version="3">
+<deviceset name="COMPONENTS_CAPACITOR" urn="urn:adsk.eagle:component:14733161/2" locally_modified="yes" prefix="C" uservalue="yes" library_version="15" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="COMPONENTS_CAPACITOR" x="0" y="0"/>
 </gates>
@@ -1335,6 +1403,15 @@ by exp-lbrs.ulp</description>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:14733142/2"/>
 </package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="" package="C0402">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -1373,7 +1450,11 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
+<<<<<<< Updated upstream
 <deviceset name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/3" prefix="J" library_version="14">
+=======
+<deviceset name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/3" prefix="J" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <gates>
 <gate name="G$1" symbol="TYR_TYR_DISPLAY" x="0" y="0"/>
 </gates>
@@ -1737,7 +1818,11 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
+<<<<<<< Updated upstream
 <deviceset name="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" urn="urn:adsk.eagle:component:14733153/3" prefix="KEYSWITCH" library_version="14">
+=======
+<deviceset name="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" urn="urn:adsk.eagle:component:14733153/3" prefix="KEYSWITCH" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <gates>
 <gate name="G$1" symbol="KEYBOARD_KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
@@ -1792,7 +1877,11 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
+<<<<<<< Updated upstream
 <deviceset name="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" urn="urn:adsk.eagle:component:14733152/3" prefix="SWITCH" library_version="14">
+=======
+<deviceset name="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" urn="urn:adsk.eagle:component:14733152/3" prefix="SWITCH" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <gates>
 <gate name="G$1" symbol="KEYBOARD_KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
@@ -1833,7 +1922,11 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
+<<<<<<< Updated upstream
 <deviceset name="USB_TYPEA" urn="urn:adsk.eagle:component:14830237/1" prefix="CN" uservalue="yes" library_version="13">
+=======
+<deviceset name="USB_TYPEA" urn="urn:adsk.eagle:component:14830237/1" prefix="CN" uservalue="yes" library_version="15" library_locally_modified="yes">
+>>>>>>> Stashed changes
 <description>&lt;b&gt;USB - Type A Connectors&lt;/b&gt;
 &lt;p&gt;Male types stick out and are inserted into a PC or matching females parts (these are the connectors used on USB Memory Sticks, etc.).  Female parts are generally used for USB Host and accept a male-type connector.&lt;/p&gt;
 &lt;p&gt;SMT Male - 4UCON: 10017&lt;/p&gt;
@@ -2945,6 +3038,7 @@ Created 2016-06-07, Hans Locher&lt;br&gt;
 <part name="U$1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="USB2422" device="" package3d_urn="urn:adsk.eagle:package:14800119/1"/>
 <part name="U$2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="PRTR5V0U4D" device="" package3d_urn="urn:adsk.eagle:package:14837993/1"/>
 <part name="SUPPLY99" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<<<<<<< Updated upstream
 <part name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="1u"/>
 <part name="SUPPLY100" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="56k"/>
@@ -2958,6 +3052,21 @@ Created 2016-06-07, Hans Locher&lt;br&gt;
 <part name="SUPPLY102" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY103" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
 <part name="R13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="12k"/>
+=======
+<part name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="" value="1u"/>
+<part name="SUPPLY100" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="R11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="56k"/>
+<part name="R12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="56k"/>
+<part name="SUPPLY101" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="Q1" library="crystal-geyer_V1_0" library_urn="urn:adsk.eagle:library:203" deviceset="KX" device="-5" package3d_urn="urn:adsk.eagle:package:11926/1" value="24M"/>
+<part name="R13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M"/>
+<part name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="" value="1u"/>
+<part name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="" value="1u"/>
+<part name="R14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="56k"/>
+<part name="SUPPLY102" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY103" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="R15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="12k"/>
+>>>>>>> Stashed changes
 <part name="SUPPLY104" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 </parts>
 <sheets>
@@ -3154,6 +3263,7 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <instance part="SUPPLY4" gate="GND" x="210.82" y="238.76" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="212.725" y="235.585" size="1.778" layer="96" rot="MR0"/>
 </instance>
+<<<<<<< Updated upstream
 <instance part="CN1" gate="G$1" x="360.68" y="63.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="370.84" y="54.864" size="1.27" layer="95" rot="R180"/>
 <attribute name="VALUE" x="370.84" y="73.66" size="1.27" layer="96" rot="R180"/>
@@ -3213,6 +3323,67 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 </instance>
 <instance part="SUPPLY104" gate="GND" x="294.64" y="40.64" smashed="yes">
 <attribute name="VALUE" x="292.735" y="37.465" size="1.778" layer="96"/>
+=======
+<instance part="CN1" gate="G$1" x="353.06" y="73.66" smashed="yes" rot="R180">
+<attribute name="NAME" x="363.22" y="65.024" size="1.27" layer="95" rot="R180"/>
+<attribute name="VALUE" x="363.22" y="83.82" size="1.27" layer="96" rot="R180"/>
+</instance>
+<instance part="U$1" gate="G$1" x="251.46" y="81.28" smashed="yes"/>
+<instance part="U$2" gate="G$1" x="314.96" y="88.9" smashed="yes"/>
+<instance part="SUPPLY99" gate="GND" x="254" y="55.88" smashed="yes">
+<attribute name="VALUE" x="252.095" y="52.705" size="1.778" layer="96"/>
+</instance>
+<instance part="C45" gate="G$1" x="254" y="109.474" smashed="yes" rot="R90">
+<attribute name="NAME" x="253.492" y="104.394" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="254.254" y="110.49" size="1.778" layer="96" rot="R90" align="top-left"/>
+</instance>
+<instance part="SUPPLY100" gate="GND" x="254" y="119.38" smashed="yes" rot="R180">
+<attribute name="VALUE" x="255.905" y="122.555" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="R11" gate="G$1" x="218.44" y="60.96" smashed="yes" rot="R90">
+<attribute name="NAME" x="216.9414" y="59.69" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="221.996" y="58.674" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="R12" gate="G$1" x="210.82" y="60.96" smashed="yes" rot="R90">
+<attribute name="NAME" x="209.3214" y="59.69" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="214.376" y="58.674" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="SUPPLY101" gate="GND" x="218.44" y="48.26" smashed="yes">
+<attribute name="VALUE" x="216.535" y="45.085" size="1.778" layer="96"/>
+</instance>
+<instance part="Q1" gate="G$1" x="198.12" y="68.58" smashed="yes">
+<attribute name="NAME" x="201.93" y="69.85" size="1.778" layer="95"/>
+<attribute name="VALUE" x="201.93" y="66.04" size="1.778" layer="96"/>
+</instance>
+<instance part="R13" gate="G$1" x="198.12" y="73.66" smashed="yes" rot="R180">
+<attribute name="NAME" x="199.39" y="72.1614" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="200.406" y="77.216" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="C46" gate="G$1" x="203.2" y="58.674" smashed="yes" rot="R90">
+<attribute name="NAME" x="202.692" y="53.594" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="203.454" y="59.69" size="1.778" layer="96" rot="R90" align="top-left"/>
+</instance>
+<instance part="C47" gate="G$1" x="193.04" y="58.674" smashed="yes" rot="R90">
+<attribute name="NAME" x="192.532" y="53.594" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="193.294" y="59.69" size="1.778" layer="96" rot="R90" align="top-left"/>
+</instance>
+<instance part="R14" gate="G$1" x="185.42" y="60.96" smashed="yes" rot="R90">
+<attribute name="NAME" x="183.9214" y="59.69" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="188.976" y="58.674" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="SUPPLY102" gate="GND" x="297.18" y="58.42" smashed="yes">
+<attribute name="VALUE" x="295.275" y="55.245" size="1.778" layer="96"/>
+</instance>
+<instance part="SUPPLY103" gate="G$1" x="335.28" y="99.06" smashed="yes" rot="MR0">
+<attribute name="VALUE" x="337.185" y="102.235" size="1.778" layer="96" rot="MR0"/>
+</instance>
+<instance part="R15" gate="G$1" x="287.02" y="60.96" smashed="yes" rot="R90">
+<attribute name="NAME" x="285.5214" y="59.69" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="290.576" y="58.674" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="SUPPLY104" gate="GND" x="287.02" y="50.8" smashed="yes">
+<attribute name="VALUE" x="285.115" y="47.625" size="1.778" layer="96"/>
+>>>>>>> Stashed changes
 </instance>
 </instances>
 <busses>
@@ -3372,11 +3543,16 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GND"/>
+<<<<<<< Updated upstream
 <wire x1="261.62" y1="50.8" x2="261.62" y2="48.26" width="0.1524" layer="91"/>
+=======
+<wire x1="254" y1="60.96" x2="254" y2="58.42" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 <pinref part="SUPPLY99" gate="GND" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C45" gate="G$1" pin="2"/>
+<<<<<<< Updated upstream
 <wire x1="261.62" y1="104.394" x2="261.62" y2="106.68" width="0.1524" layer="91"/>
 <pinref part="SUPPLY100" gate="GND" pin="GND"/>
 </segment>
@@ -3416,6 +3592,47 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <segment>
 <pinref part="R13" gate="G$1" pin="1"/>
 <wire x1="294.64" y1="45.72" x2="294.64" y2="43.18" width="0.1524" layer="91"/>
+=======
+<wire x1="254" y1="114.554" x2="254" y2="116.84" width="0.1524" layer="91"/>
+<pinref part="SUPPLY100" gate="GND" pin="GND"/>
+</segment>
+<segment>
+<pinref part="R11" gate="G$1" pin="1"/>
+<wire x1="218.44" y1="55.88" x2="218.44" y2="50.8" width="0.1524" layer="91"/>
+<pinref part="SUPPLY101" gate="GND" pin="GND"/>
+<pinref part="C47" gate="G$1" pin="1"/>
+<wire x1="193.04" y1="53.594" x2="193.04" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="50.8" x2="203.2" y2="50.8" width="0.1524" layer="91"/>
+<junction x="218.44" y="50.8"/>
+<pinref part="C46" gate="G$1" pin="1"/>
+<wire x1="203.2" y1="50.8" x2="210.82" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="210.82" y1="50.8" x2="218.44" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="53.594" x2="203.2" y2="50.8" width="0.1524" layer="91"/>
+<junction x="203.2" y="50.8"/>
+<pinref part="R12" gate="G$1" pin="1"/>
+<wire x1="210.82" y1="55.88" x2="210.82" y2="50.8" width="0.1524" layer="91"/>
+<junction x="210.82" y="50.8"/>
+<pinref part="R14" gate="G$1" pin="1"/>
+<wire x1="185.42" y1="55.88" x2="185.42" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="50.8" x2="193.04" y2="50.8" width="0.1524" layer="91"/>
+<junction x="193.04" y="50.8"/>
+</segment>
+<segment>
+<pinref part="U$2" gate="G$1" pin="GND"/>
+<wire x1="302.26" y1="86.36" x2="297.18" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="297.18" y1="86.36" x2="297.18" y2="66.04" width="0.1524" layer="91"/>
+<pinref part="SUPPLY102" gate="GND" pin="GND"/>
+<pinref part="CN1" gate="G$1" pin="GND"/>
+<wire x1="297.18" y1="66.04" x2="297.18" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="342.9" y1="78.74" x2="337.82" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="337.82" y1="78.74" x2="337.82" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="337.82" y1="66.04" x2="297.18" y2="66.04" width="0.1524" layer="91"/>
+<junction x="297.18" y="66.04"/>
+</segment>
+<segment>
+<pinref part="R15" gate="G$1" pin="1"/>
+<wire x1="287.02" y1="55.88" x2="287.02" y2="53.34" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 <pinref part="SUPPLY104" gate="GND" pin="GND"/>
 </segment>
 </net>
@@ -3519,6 +3736,7 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 </segment>
 <segment>
 <pinref part="U$2" gate="G$1" pin="VCC"/>
+<<<<<<< Updated upstream
 <wire x1="335.28" y1="76.2" x2="342.9" y2="76.2" width="0.1524" layer="91"/>
 <wire x1="342.9" y1="76.2" x2="342.9" y2="86.36" width="0.1524" layer="91"/>
 <pinref part="SUPPLY103" gate="G$1" pin="VCC"/>
@@ -3527,6 +3745,16 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <wire x1="347.98" y1="58.42" x2="347.98" y2="76.2" width="0.1524" layer="91"/>
 <wire x1="342.9" y1="76.2" x2="347.98" y2="76.2" width="0.1524" layer="91"/>
 <junction x="342.9" y="76.2"/>
+=======
+<wire x1="327.66" y1="86.36" x2="335.28" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="335.28" y1="86.36" x2="335.28" y2="96.52" width="0.1524" layer="91"/>
+<pinref part="SUPPLY103" gate="G$1" pin="VCC"/>
+<pinref part="CN1" gate="G$1" pin="VBUS"/>
+<wire x1="342.9" y1="68.58" x2="340.36" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="340.36" y1="68.58" x2="340.36" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="335.28" y1="86.36" x2="340.36" y2="86.36" width="0.1524" layer="91"/>
+<junction x="335.28" y="86.36"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -3675,6 +3903,7 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 </net>
 <net name="D-" class="0">
 <segment>
+<<<<<<< Updated upstream
 <label x="182.88" y="228.6" size="1.27" layer="95" rot="MR0" xref="yes"/>
 <pinref part="X1" gate="G$1" pin="DN2"/>
 <wire x1="241.3" y1="228.6" x2="203.2" y2="228.6" width="0.1524" layer="91"/>
@@ -3692,10 +3921,14 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <pinref part="U$1" gate="G$1" pin="USBDM_UP"/>
 <wire x1="228.6" y1="78.74" x2="210.82" y2="78.74" width="0.1524" layer="91"/>
 <label x="210.82" y="78.74" size="1.27" layer="95" rot="R180" xref="yes"/>
+=======
+<pinref part="R2" gate="G$1" pin="2"/>
+<wire x1="185.42" y1="228.6" x2="182.88" y2="228.6" width="0.1524" layer="91"/>
+<label x="182.88" y="228.6" size="1.27" layer="95" rot="MR0" xref="yes"/>
+>>>>>>> Stashed changes
 </segment>
-</net>
-<net name="D+" class="0">
 <segment>
+<<<<<<< Updated upstream
 <label x="182.88" y="226.06" size="1.27" layer="95" rot="MR0" xref="yes"/>
 <pinref part="X1" gate="G$1" pin="DP1"/>
 <wire x1="241.3" y1="226.06" x2="233.68" y2="226.06" width="0.1524" layer="91"/>
@@ -3709,11 +3942,23 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <wire x1="233.68" y1="187.96" x2="233.68" y2="226.06" width="0.1524" layer="91"/>
 <junction x="233.68" y="226.06"/>
 <wire x1="200.66" y1="226.06" x2="182.88" y2="226.06" width="0.1524" layer="91"/>
+=======
+<pinref part="U$1" gate="G$1" pin="USBDM_UP"/>
+<wire x1="220.98" y1="88.9" x2="203.2" y2="88.9" width="0.1524" layer="91"/>
+<label x="203.2" y="88.9" size="1.27" layer="95" rot="R180" xref="yes"/>
+>>>>>>> Stashed changes
 </segment>
+</net>
+<net name="D+" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="USBDP_UP"/>
 <wire x1="228.6" y1="76.2" x2="210.82" y2="76.2" width="0.1524" layer="91"/>
 <label x="210.82" y="76.2" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="USBDP_UP"/>
+<wire x1="220.98" y1="86.36" x2="203.2" y2="86.36" width="0.1524" layer="91"/>
+<label x="203.2" y="86.36" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="XTAL1" class="0">
@@ -3839,6 +4084,7 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 </net>
 <net name="3.3V" class="0">
 <segment>
+<<<<<<< Updated upstream
 <pinref part="J1" gate="G$1" pin="5"/>
 <wire x1="200.66" y1="144.78" x2="187.96" y2="144.78" width="0.1524" layer="91"/>
 <label x="187.96" y="144.78" size="1.27" layer="95" rot="R180" xref="yes"/>
@@ -3861,19 +4107,45 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <wire x1="248.92" y1="91.44" x2="248.92" y2="96.52" width="0.1524" layer="91"/>
 <junction x="248.92" y="91.44"/>
 <label x="248.92" y="96.52" size="1.27" layer="95" rot="R90" xref="yes"/>
+=======
+<pinref part="U$1" gate="G$1" pin="VDD333"/>
+<pinref part="U$1" gate="G$1" pin="VDD332"/>
+<wire x1="251.46" y1="101.6" x2="248.92" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="VDD331"/>
+<wire x1="248.92" y1="101.6" x2="246.38" y2="101.6" width="0.1524" layer="91"/>
+<junction x="248.92" y="101.6"/>
+<pinref part="U$1" gate="G$1" pin="VBUS_DET"/>
+<pinref part="U$1" gate="G$1" pin="RESET_N"/>
+<wire x1="220.98" y1="91.44" x2="220.98" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="101.6" x2="241.3" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="241.3" y1="101.6" x2="220.98" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="101.6" x2="220.98" y2="93.98" width="0.1524" layer="91"/>
+<junction x="246.38" y="101.6"/>
+<junction x="220.98" y="93.98"/>
+<wire x1="241.3" y1="101.6" x2="241.3" y2="106.68" width="0.1524" layer="91"/>
+<junction x="241.3" y="101.6"/>
+<label x="241.3" y="106.68" size="1.27" layer="95" rot="R90" xref="yes"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="N$90" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="SUSP_IND/NON_REM0"/>
+<<<<<<< Updated upstream
 <wire x1="228.6" y1="60.96" x2="218.44" y2="60.96" width="0.1524" layer="91"/>
 <pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="218.44" y1="60.96" x2="218.44" y2="55.88" width="0.1524" layer="91"/>
+=======
+<wire x1="220.98" y1="71.12" x2="210.82" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="R12" gate="G$1" pin="2"/>
+<wire x1="210.82" y1="71.12" x2="210.82" y2="66.04" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="N$91" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="XTALIN/CLKIN"/>
+<<<<<<< Updated upstream
 <pinref part="R11" gate="G$1" pin="1"/>
 <wire x1="228.6" y1="63.5" x2="210.82" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="Q1" gate="G$1" pin="2"/>
@@ -3882,12 +4154,23 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <junction x="210.82" y="63.5"/>
 <wire x1="210.82" y1="58.42" x2="210.82" y2="53.594" width="0.1524" layer="91"/>
 <junction x="210.82" y="58.42"/>
+=======
+<pinref part="R13" gate="G$1" pin="1"/>
+<wire x1="220.98" y1="73.66" x2="203.2" y2="73.66" width="0.1524" layer="91"/>
+<pinref part="Q1" gate="G$1" pin="2"/>
+<wire x1="203.2" y1="73.66" x2="203.2" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="68.58" x2="200.66" y2="68.58" width="0.1524" layer="91"/>
+<junction x="203.2" y="73.66"/>
+<wire x1="203.2" y1="68.58" x2="203.2" y2="63.754" width="0.1524" layer="91"/>
+<junction x="203.2" y="68.58"/>
+>>>>>>> Stashed changes
 <pinref part="C46" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$92" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="XTALOUT"/>
+<<<<<<< Updated upstream
 <pinref part="R11" gate="G$1" pin="2"/>
 <wire x1="228.6" y1="66.04" x2="200.66" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="200.66" y1="66.04" x2="200.66" y2="63.5" width="0.1524" layer="91"/>
@@ -3939,11 +4222,65 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <wire x1="335.28" y1="63.5" x2="350.52" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="335.28" y1="71.12" x2="335.28" y2="63.5" width="0.1524" layer="91"/>
 <junction x="335.28" y="63.5"/>
+=======
+<pinref part="R13" gate="G$1" pin="2"/>
+<wire x1="220.98" y1="76.2" x2="193.04" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="76.2" x2="193.04" y2="73.66" width="0.1524" layer="91"/>
+<pinref part="Q1" gate="G$1" pin="1"/>
+<wire x1="193.04" y1="73.66" x2="193.04" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="68.58" x2="195.58" y2="68.58" width="0.1524" layer="91"/>
+<junction x="193.04" y="73.66"/>
+<wire x1="193.04" y1="68.58" x2="193.04" y2="63.754" width="0.1524" layer="91"/>
+<junction x="193.04" y="68.58"/>
+<pinref part="C47" gate="G$1" pin="2"/>
+</segment>
+</net>
+<net name="N$93" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="SMBDAT/NON_REM1"/>
+<wire x1="220.98" y1="68.58" x2="218.44" y2="68.58" width="0.1524" layer="91"/>
+<pinref part="R11" gate="G$1" pin="2"/>
+<wire x1="218.44" y1="68.58" x2="218.44" y2="66.04" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$94" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="SMBCLK/CFG_SEL"/>
+<wire x1="220.98" y1="81.28" x2="185.42" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="81.28" x2="185.42" y2="66.04" width="0.1524" layer="91"/>
+<pinref part="R14" gate="G$1" pin="2"/>
+</segment>
+</net>
+<net name="N$95" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="USBDN_DN2"/>
+<wire x1="281.94" y1="76.2" x2="287.02" y2="76.2" width="0.1524" layer="91"/>
+<pinref part="CN1" gate="G$1" pin="D-"/>
+<wire x1="342.9" y1="71.12" x2="330.2" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="330.2" y1="71.12" x2="287.02" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="287.02" y1="71.12" x2="287.02" y2="76.2" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="IO4"/>
+<wire x1="327.66" y1="91.44" x2="330.2" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="330.2" y1="91.44" x2="330.2" y2="71.12" width="0.1524" layer="91"/>
+<junction x="330.2" y="71.12"/>
+</segment>
+</net>
+<net name="N$96" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="USBDP_DN2"/>
+<pinref part="CN1" gate="G$1" pin="D+"/>
+<wire x1="281.94" y1="73.66" x2="327.66" y2="73.66" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="IO3"/>
+<wire x1="327.66" y1="73.66" x2="342.9" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="327.66" y1="81.28" x2="327.66" y2="73.66" width="0.1524" layer="91"/>
+<junction x="327.66" y="73.66"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="CONTROLLER_D+" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="USBDP_DN1"/>
+<<<<<<< Updated upstream
 <wire x1="289.56" y1="76.2" x2="292.1" y2="76.2" width="0.1524" layer="91"/>
 <label x="302.26" y="96.52" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="302.26" y1="76.2" x2="302.26" y2="96.52" width="0.1524" layer="91"/>
@@ -3957,11 +4294,27 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <pinref part="U1" gate="G$1" pin="D+"/>
 <wire x1="55.88" y1="200.66" x2="50.8" y2="200.66" width="0.1524" layer="91"/>
 <label x="50.8" y="200.66" size="1.27" layer="95" rot="R180" xref="yes"/>
+=======
+<wire x1="281.94" y1="86.36" x2="284.48" y2="86.36" width="0.1524" layer="91"/>
+<label x="294.64" y="106.68" size="1.27" layer="95" rot="R90" xref="yes"/>
+<wire x1="294.64" y1="86.36" x2="294.64" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="284.48" y1="86.36" x2="294.64" y2="86.36" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="IO1"/>
+<wire x1="302.26" y1="91.44" x2="284.48" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="284.48" y1="91.44" x2="284.48" y2="86.36" width="0.1524" layer="91"/>
+<junction x="284.48" y="86.36"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="D+"/>
+<wire x1="55.88" y1="200.66" x2="48.26" y2="200.66" width="0.1524" layer="91"/>
+<label x="48.26" y="200.66" size="1.27" layer="95" rot="R180" xref="yes"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 <net name="CONTROLLER_D-" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="USBDN_DN1"/>
+<<<<<<< Updated upstream
 <wire x1="289.56" y1="78.74" x2="294.64" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="294.64" y1="78.74" x2="304.8" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="304.8" y1="78.74" x2="304.8" y2="96.52" width="0.1524" layer="91"/>
@@ -3990,6 +4343,36 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <pinref part="U$1" gate="G$1" pin="CRFILT"/>
 <pinref part="C45" gate="G$1" pin="1"/>
 <wire x1="261.62" y1="91.44" x2="261.62" y2="94.234" width="0.1524" layer="91"/>
+=======
+<wire x1="281.94" y1="88.9" x2="287.02" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="287.02" y1="88.9" x2="297.18" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="297.18" y1="88.9" x2="297.18" y2="106.68" width="0.1524" layer="91"/>
+<label x="297.18" y="106.68" size="1.27" layer="95" rot="R90" xref="yes"/>
+<pinref part="U$2" gate="G$1" pin="IO2"/>
+<wire x1="302.26" y1="81.28" x2="287.02" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="287.02" y1="81.28" x2="287.02" y2="88.9" width="0.1524" layer="91"/>
+<junction x="287.02" y="88.9"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="D-"/>
+<wire x1="55.88" y1="203.2" x2="48.26" y2="203.2" width="0.1524" layer="91"/>
+<label x="48.26" y="203.2" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+</net>
+<net name="N$97" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="RBIAS"/>
+<wire x1="281.94" y1="68.58" x2="287.02" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="287.02" y1="68.58" x2="287.02" y2="66.04" width="0.1524" layer="91"/>
+<pinref part="R15" gate="G$1" pin="2"/>
+</segment>
+</net>
+<net name="N$98" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="CRFILT"/>
+<pinref part="C45" gate="G$1" pin="1"/>
+<wire x1="254" y1="101.6" x2="254" y2="104.394" width="0.1524" layer="91"/>
+>>>>>>> Stashed changes
 </segment>
 </net>
 </nets>
