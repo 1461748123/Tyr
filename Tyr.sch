@@ -566,22 +566,10 @@ by exp-lbrs.ulp</description>
 <rectangle x1="0.2588" y1="-0.3048" x2="0.5588" y2="0.2951" layer="51"/>
 <rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
 </package>
-<package name="LQFP48" urn="urn:adsk.eagle:footprint:14872336/3" library_version="17" library_locally_modified="yes">
+<package name="LQFP48" urn="urn:adsk.eagle:footprint:14872336/3" locally_modified="yes" library_version="19" library_locally_modified="yes">
 <description>48-QFP, 0.50 mm pitch, 9.00 mm span, 7.00 X 7.00 X 1.60 mm body
 &lt;p&gt;48-pin QFP package with 0.50 mm pitch, 9.00 mm lead span1 X 9.00 mm lead span2 with body size 7.00 X 7.00 X 1.60 mm&lt;/p&gt;</description>
 <circle x="-4.2788" y="3.394" radius="0.25" width="0" layer="21"/>
-<wire x1="-3.6" y1="3.144" x2="-3.6" y2="3.6" width="0.12" layer="21"/>
-<wire x1="-3.6" y1="3.6" x2="-3.144" y2="3.6" width="0.12" layer="21"/>
-<wire x1="3.6" y1="3.144" x2="3.6" y2="3.6" width="0.12" layer="21"/>
-<wire x1="3.6" y1="3.6" x2="3.144" y2="3.6" width="0.12" layer="21"/>
-<wire x1="3.6" y1="-3.144" x2="3.6" y2="-3.6" width="0.12" layer="21"/>
-<wire x1="3.6" y1="-3.6" x2="3.144" y2="-3.6" width="0.12" layer="21"/>
-<wire x1="-3.6" y1="-3.144" x2="-3.6" y2="-3.6" width="0.12" layer="21"/>
-<wire x1="-3.6" y1="-3.6" x2="-3.144" y2="-3.6" width="0.12" layer="21"/>
-<wire x1="3.6" y1="-3.6" x2="-3.6" y2="-3.6" width="0.12" layer="51"/>
-<wire x1="-3.6" y1="-3.6" x2="-3.6" y2="3.6" width="0.12" layer="51"/>
-<wire x1="-3.6" y1="3.6" x2="3.6" y2="3.6" width="0.12" layer="51"/>
-<wire x1="3.6" y1="3.6" x2="3.6" y2="-3.6" width="0.12" layer="51"/>
 <smd name="1" x="-4.1783" y="2.75" dx="1.5588" dy="0.28" layer="1"/>
 <smd name="2" x="-4.1783" y="2.25" dx="1.5588" dy="0.28" layer="1"/>
 <smd name="3" x="-4.1783" y="1.75" dx="1.5588" dy="0.28" layer="1"/>
@@ -630,35 +618,36 @@ by exp-lbrs.ulp</description>
 <smd name="46" x="-1.75" y="4.1783" dx="1.5588" dy="0.28" layer="1" rot="R90"/>
 <smd name="47" x="-2.25" y="4.1783" dx="1.5588" dy="0.28" layer="1" rot="R90"/>
 <smd name="48" x="-2.75" y="4.1783" dx="1.5588" dy="0.28" layer="1" rot="R90"/>
-<text x="0" y="5.5927" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-5.5927" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
-<text x="-3" y="2.25" size="0.3" layer="48" align="center-left">PC13</text>
-<text x="-3" y="1.75" size="0.3" layer="48" align="center-left">PC14</text>
-<text x="-3" y="1.25" size="0.3" layer="48" align="center-left">PC15</text>
+<text x="0" y="5.7927" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
+<text x="0" y="-5.7927" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
+<wire x1="-3.7" y1="3.1" x2="-3.7" y2="3.7" width="0.1524" layer="21"/>
+<wire x1="-3.7" y1="3.7" x2="-3.1" y2="3.7" width="0.1524" layer="21"/>
+<wire x1="3.1" y1="3.7" x2="3.7" y2="3.7" width="0.1524" layer="21"/>
+<wire x1="3.7" y1="3.7" x2="3.7" y2="3.1" width="0.1524" layer="21"/>
+<wire x1="3.7" y1="-3.1" x2="3.7" y2="-3.7" width="0.1524" layer="21"/>
+<wire x1="3.7" y1="-3.7" x2="3.1" y2="-3.7" width="0.1524" layer="21"/>
+<wire x1="-3.1" y1="-3.7" x2="-3.7" y2="-3.7" width="0.1524" layer="21"/>
+<wire x1="-3.7" y1="-3.7" x2="-3.7" y2="-3.1" width="0.1524" layer="21"/>
 </package>
-<package name="SOT-23" urn="urn:adsk.eagle:footprint:14883422/1" library_version="18" library_locally_modified="yes">
+<package name="SOT-23" urn="urn:adsk.eagle:footprint:14883422/1" locally_modified="yes" library_version="19" library_locally_modified="yes">
 <description>&lt;B&gt;DIODE&lt;/B&gt;</description>
-<wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.1524" layer="51"/>
-<wire x1="1.4224" y1="-0.6604" x2="-1.4224" y2="-0.6604" width="0.1524" layer="51"/>
-<wire x1="-1.4224" y1="-0.6604" x2="-1.4224" y2="0.6604" width="0.1524" layer="51"/>
-<wire x1="-1.4224" y1="0.6604" x2="1.4224" y2="0.6604" width="0.1524" layer="51"/>
-<wire x1="-1.4224" y1="-0.1524" x2="-1.4224" y2="0.6604" width="0.1524" layer="21"/>
-<wire x1="-1.4224" y1="0.6604" x2="-0.8636" y2="0.6604" width="0.1524" layer="21"/>
-<wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.1524" width="0.1524" layer="21"/>
-<wire x1="0.8636" y1="0.6604" x2="1.4224" y2="0.6604" width="0.1524" layer="21"/>
 <smd name="3" x="0" y="1.1" dx="1" dy="1.4" layer="1"/>
 <smd name="2" x="0.95" y="-1.1" dx="1" dy="1.4" layer="1"/>
 <smd name="1" x="-0.95" y="-1.1" dx="1" dy="1.4" layer="1"/>
-<text x="-1.905" y="1.905" size="1.27" layer="25">&gt;NAME</text>
-<text x="-1.905" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
+<text x="-0.005" y="2.505" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
+<text x="-0.005" y="-2.575" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 <rectangle x1="-0.2286" y1="0.7112" x2="0.2286" y2="1.2954" layer="51"/>
 <rectangle x1="0.7112" y1="-1.2954" x2="1.1684" y2="-0.7112" layer="51"/>
 <rectangle x1="-1.1684" y1="-1.2954" x2="-0.7112" y2="-0.7112" layer="51"/>
+<wire x1="-0.7" y1="0.8" x2="-1.5" y2="0.8" width="0.1524" layer="21"/>
+<wire x1="-1.5" y1="0.8" x2="-1.5" y2="-0.2" width="0.1524" layer="21"/>
+<wire x1="-0.3" y1="-0.8" x2="0.3" y2="-0.8" width="0.1524" layer="21"/>
+<wire x1="0.7" y1="0.8" x2="1.5" y2="0.8" width="0.1524" layer="21"/>
+<wire x1="1.5" y1="0.8" x2="1.5" y2="-0.2" width="0.1524" layer="21"/>
 </package>
-<package name="SOT-323" urn="urn:adsk.eagle:footprint:14883263/2" locally_modified="yes" library_version="18" library_locally_modified="yes">
+<package name="SOT-323" urn="urn:adsk.eagle:footprint:14883263/3" locally_modified="yes" library_version="19" library_locally_modified="yes">
 <description>3-SOT23, 0.65 mm pitch, 2.10 mm span, 2.00 X 1.25 X 1.10 mm body
 &lt;p&gt;3-pin SOT23 package with 0.65 mm pitch, 2.10 mm span with body size 2.00 X 1.25 X 1.10 mm&lt;/p&gt;</description>
-<circle x="-1.179" y="1.409" radius="0.25" width="0" layer="21"/>
 <smd name="1" x="-0.9704" y="0.65" dx="0.9884" dy="0.51" layer="1"/>
 <smd name="2" x="-0.9704" y="-0.65" dx="0.9884" dy="0.51" layer="1"/>
 <smd name="3" x="0.9704" y="0" dx="0.9884" dy="0.51" layer="1"/>
@@ -672,7 +661,7 @@ by exp-lbrs.ulp</description>
 <wire x1="-0.8" y1="-1.3" x2="-0.8" y2="-1.1" width="0.1524" layer="21"/>
 <wire x1="-0.8" y1="0.2" x2="-0.8" y2="-0.2" width="0.1524" layer="21"/>
 </package>
-<package name="BUTTON_3*6*2.5" library_version="18" library_locally_modified="yes">
+<package name="BUTTON_3*6*2.5" urn="urn:adsk.eagle:footprint:14967024/1" library_version="19">
 <smd name="P$1" x="-3.125" y="0" dx="0.8" dy="1.1" layer="1" rot="R90"/>
 <smd name="P$2" x="3.125" y="0" dx="0.8" dy="1.1" layer="1" rot="R90"/>
 <wire x1="-2.75" y1="2" x2="2.75" y2="2" width="0.1524" layer="21"/>
@@ -686,7 +675,7 @@ by exp-lbrs.ulp</description>
 <wire x1="2.75" y1="-2" x2="3.15" y2="-1.6" width="0.1524" layer="21" curve="90"/>
 <wire x1="3.15" y1="-1.6" x2="3.15" y2="-0.85" width="0.1524" layer="21"/>
 </package>
-<package name="1X06" urn="urn:adsk.eagle:footprint:6240065/1" locally_modified="yes" library_version="18" library_locally_modified="yes">
+<package name="1X06" urn="urn:adsk.eagle:footprint:14967025/1" locally_modified="yes" library_version="19" library_locally_modified="yes">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
 <wire x1="0.635" y1="1.27" x2="1.905" y2="1.27" width="0.1524" layer="21"/>
 <wire x1="1.905" y1="1.27" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
@@ -731,12 +720,12 @@ by exp-lbrs.ulp</description>
 <wire x1="5.715" y1="1.27" x2="5.08" y2="0.635" width="0.1524" layer="21"/>
 <wire x1="5.08" y1="-0.635" x2="5.715" y2="-1.27" width="0.1524" layer="21"/>
 <wire x1="6.985" y1="-1.27" x2="5.715" y2="-1.27" width="0.1524" layer="21"/>
-<pad name="1" x="-6.35" y="0" drill="1.016" shape="square" rot="R90"/>
-<pad name="2" x="-3.81" y="0" drill="1.016" shape="octagon" rot="R90"/>
-<pad name="3" x="-1.27" y="0" drill="1.016" shape="octagon" rot="R90"/>
-<pad name="4" x="1.27" y="0" drill="1.016" shape="octagon" rot="R90"/>
-<pad name="5" x="3.81" y="0" drill="1.016" shape="octagon" rot="R90"/>
-<pad name="6" x="6.35" y="0" drill="1.016" shape="octagon" rot="R90"/>
+<pad name="1" x="-6.35" y="0" drill="1.016" diameter="1.524" shape="square" rot="R90"/>
+<pad name="2" x="-3.81" y="0" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
+<pad name="3" x="-1.27" y="0" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
+<pad name="4" x="1.27" y="0" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
+<pad name="5" x="3.81" y="0" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
+<pad name="6" x="6.35" y="0" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
 <text x="-7.6962" y="1.8288" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-7.62" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
 <rectangle x1="3.556" y1="-0.254" x2="4.064" y2="0.254" layer="51"/>
@@ -844,24 +833,35 @@ by exp-lbrs.ulp</description>
 <packageinstance name="C0402"/>
 </packageinstances>
 </package3d>
-<package3d name="LQFP48" urn="urn:adsk.eagle:package:14872699/2" type="box" library_version="17" library_locally_modified="yes">
+<package3d name="LQFP48" urn="urn:adsk.eagle:package:14872699/2" type="box" library_version="19" library_locally_modified="yes">
 <description>48-QFP, 0.50 mm pitch, 9.00 mm span, 7.00 X 7.00 X 1.60 mm body
 &lt;p&gt;48-pin QFP package with 0.50 mm pitch, 9.00 mm lead span1 X 9.00 mm lead span2 with body size 7.00 X 7.00 X 1.60 mm&lt;/p&gt;</description>
 <packageinstances>
 <packageinstance name="LQFP48"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23" urn="urn:adsk.eagle:package:14872841/2" type="box" library_version="18" library_locally_modified="yes">
+<package3d name="SOT23" urn="urn:adsk.eagle:package:14872841/2" type="box" library_version="19" library_locally_modified="yes">
 <description>&lt;B&gt;DIODE&lt;/B&gt;</description>
 <packageinstances>
 <packageinstance name="SOT-23"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT-323" urn="urn:adsk.eagle:package:14883423/1" type="box" library_version="18" library_locally_modified="yes">
+<package3d name="SOT-323" urn="urn:adsk.eagle:package:14883423/2" type="box" library_version="19" library_locally_modified="yes">
 <description>3-SOT23, 0.65 mm pitch, 2.10 mm span, 2.00 X 1.25 X 1.10 mm body
 &lt;p&gt;3-pin SOT23 package with 0.65 mm pitch, 2.10 mm span with body size 2.00 X 1.25 X 1.10 mm&lt;/p&gt;</description>
 <packageinstances>
 <packageinstance name="SOT-323"/>
+</packageinstances>
+</package3d>
+<package3d name="BUTTON_3*6*2.5" urn="urn:adsk.eagle:package:14967027/1" type="box" library_version="19">
+<packageinstances>
+<packageinstance name="BUTTON_3*6*2.5"/>
+</packageinstances>
+</package3d>
+<package3d name="1X06" urn="urn:adsk.eagle:package:14967026/1" type="box" library_version="19" library_locally_modified="yes">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<packageinstances>
+<packageinstance name="1X06"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -1339,14 +1339,14 @@ by exp-lbrs.ulp</description>
 <text x="0" y="7.62" size="1.778" layer="96" rot="MR90">&gt;VALUE</text>
 <text x="-5.08" y="7.62" size="1.778" layer="97" rot="MR90">&gt;SPICEEXTRA</text>
 </symbol>
-<symbol name="SWITCH" library_version="18" library_locally_modified="yes">
+<symbol name="SWITCH" urn="urn:adsk.eagle:symbol:14967023/1" library_version="19">
 <pin name="P$1" x="-10.16" y="0" length="middle"/>
 <pin name="P$2" x="10.16" y="0" length="middle" rot="R180"/>
 <circle x="-3.81" y="0" radius="1.27" width="0.254" layer="94"/>
 <circle x="3.81" y="0" radius="1.27" width="0.254" layer="94"/>
 <wire x1="-3.81" y1="1.27" x2="2.54" y2="5.08" width="0.254" layer="94"/>
 </symbol>
-<symbol name="PINHD6" library_version="18" library_locally_modified="yes">
+<symbol name="PINHD6" urn="urn:adsk.eagle:symbol:14967022/1" library_version="19">
 <wire x1="-6.35" y1="-7.62" x2="1.27" y2="-7.62" width="0.4064" layer="94"/>
 <wire x1="1.27" y1="-7.62" x2="1.27" y2="10.16" width="0.4064" layer="94"/>
 <wire x1="1.27" y1="10.16" x2="-6.35" y2="10.16" width="0.4064" layer="94"/>
@@ -1823,7 +1823,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="STM32F303CC" urn="urn:adsk.eagle:component:14872704/2" locally_modified="yes" prefix="U" library_version="18" library_locally_modified="yes">
+<deviceset name="STM32F303CC" urn="urn:adsk.eagle:component:14872704/3" prefix="U" library_version="19" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="STM32F303CC" x="0" y="0"/>
 </gates>
@@ -1888,7 +1888,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCP1700T" urn="urn:adsk.eagle:component:14872842/2" locally_modified="yes" prefix="U" library_version="18" library_locally_modified="yes">
+<deviceset name="MCP1700T" urn="urn:adsk.eagle:component:14872842/3" prefix="U" library_version="19" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="MCP1700T" x="0" y="0"/>
 </gates>
@@ -1908,7 +1908,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DTC123J" urn="urn:adsk.eagle:component:14883424/1" locally_modified="yes" prefix="Q" library_version="18" library_locally_modified="yes">
+<deviceset name="DTC123J" urn="urn:adsk.eagle:component:14883424/2" prefix="Q" library_version="19" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="DTC123J" x="0" y="0"/>
 </gates>
@@ -1920,7 +1920,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14883423/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14883423/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1928,7 +1928,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BUTTON" library_version="18" library_locally_modified="yes">
+<deviceset name="BUTTON" urn="urn:adsk.eagle:component:14967029/1" library_version="19">
 <gates>
 <gate name="G$1" symbol="SWITCH" x="0" y="0"/>
 </gates>
@@ -1938,13 +1938,16 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 <connect gate="G$1" pin="P$2" pad="P$2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14967027/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="PINHEADER_1X6" library_version="18" library_locally_modified="yes">
+<deviceset name="PINHEADER_1X6" urn="urn:adsk.eagle:component:14967028/1" library_version="19" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="PINHD6" x="0" y="0"/>
 </gates>
@@ -1958,6 +1961,9 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="5" pad="5"/>
 <connect gate="G$1" pin="6" pad="6"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14967026/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -2356,7 +2362,7 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="D2" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="BAT60J" device="" package3d_urn="urn:adsk.eagle:package:43461/1"/>
 <part name="SUPPLY21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
-<part name="Q1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DTC123J" device="" package3d_urn="urn:adsk.eagle:package:14883423/1"/>
+<part name="Q1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DTC123J" device="" package3d_urn="urn:adsk.eagle:package:14883423/2"/>
 <part name="SUPPLY1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="C3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7n"/>
 <part name="SUPPLY7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
@@ -2365,8 +2371,8 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="R1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k"/>
 <part name="SUPPLY6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="U$1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="BUTTON" device=""/>
-<part name="U$2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="PINHEADER_1X6" device=""/>
+<part name="U$1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="BUTTON" device="" package3d_urn="urn:adsk.eagle:package:14967027/1"/>
+<part name="U$2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="PINHEADER_1X6" device="" package3d_urn="urn:adsk.eagle:package:14967026/1"/>
 </parts>
 <sheets>
 <sheet>
