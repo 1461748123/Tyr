@@ -2392,8 +2392,6 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="U4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MB85RC256V" device="" package3d_urn="urn:adsk.eagle:package:14977222/1"/>
 <part name="SUPPLY14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10u"/>
-<part name="R5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
-<part name="R6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
 <part name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
 <part name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
 <part name="SUPPLY19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
@@ -2648,14 +2646,6 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <instance part="C10" gate="G$1" x="342.9" y="137.16" smashed="yes" rot="MR90">
 <attribute name="NAME" x="343.408" y="132.08" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="342.646" y="138.176" size="1.778" layer="96" rot="MR90" align="top-left"/>
-</instance>
-<instance part="R5" gate="G$1" x="307.34" y="154.94" smashed="yes" rot="R90">
-<attribute name="NAME" x="305.8414" y="153.67" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="310.896" y="152.654" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="R6" gate="G$1" x="314.96" y="154.94" smashed="yes" rot="R90">
-<attribute name="NAME" x="313.4614" y="153.67" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="318.516" y="152.654" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R9" gate="G$1" x="55.88" y="48.26" smashed="yes" rot="R90">
 <attribute name="NAME" x="54.3814" y="46.99" size="1.778" layer="95" rot="R90"/>
@@ -3061,12 +3051,8 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 </segment>
 <segment>
 <pinref part="U4" gate="G$1" pin="SDA"/>
-<wire x1="317.5" y1="142.24" x2="314.96" y2="142.24" width="0.1524" layer="91"/>
 <label x="302.26" y="142.24" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="R6" gate="G$1" pin="1"/>
-<wire x1="314.96" y1="142.24" x2="302.26" y2="142.24" width="0.1524" layer="91"/>
-<wire x1="314.96" y1="149.86" x2="314.96" y2="142.24" width="0.1524" layer="91"/>
-<junction x="314.96" y="142.24"/>
+<wire x1="317.5" y1="142.24" x2="302.26" y2="142.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SCL" class="0">
@@ -3091,12 +3077,8 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 </segment>
 <segment>
 <pinref part="U4" gate="G$1" pin="SCL"/>
-<wire x1="317.5" y1="144.78" x2="307.34" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="317.5" y1="144.78" x2="302.26" y2="144.78" width="0.1524" layer="91"/>
 <label x="302.26" y="144.78" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="R5" gate="G$1" pin="1"/>
-<wire x1="307.34" y1="144.78" x2="302.26" y2="144.78" width="0.1524" layer="91"/>
-<wire x1="307.34" y1="149.86" x2="307.34" y2="144.78" width="0.1524" layer="91"/>
-<junction x="307.34" y="144.78"/>
 </segment>
 </net>
 <net name="D-" class="0">
@@ -3351,16 +3333,6 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <label x="342.9" y="147.32" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="C10" gate="G$1" pin="2"/>
 <junction x="342.9" y="142.24"/>
-</segment>
-<segment>
-<pinref part="R5" gate="G$1" pin="2"/>
-<wire x1="307.34" y1="160.02" x2="307.34" y2="162.56" width="0.1524" layer="91"/>
-<label x="307.34" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
-</segment>
-<segment>
-<pinref part="R6" gate="G$1" pin="2"/>
-<wire x1="314.96" y1="160.02" x2="314.96" y2="162.56" width="0.1524" layer="91"/>
-<label x="314.96" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="NRST" class="0">
