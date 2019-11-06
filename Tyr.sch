@@ -189,7 +189,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$1" x="0" y="0" dx="5" dy="8.4" layer="16" roundness="100" rot="R90" thermals="no" cream="no"/>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
 </package>
-<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/2" library_version="16">
+<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/2" locally_modified="yes" library_version="22" library_locally_modified="yes">
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
 <wire x1="14.2875" y1="37.9" x2="14.0875" y2="38.1" width="0" layer="48" curve="90"/>
 <wire x1="14.0875" y1="38.1" x2="0.2" y2="38.1" width="0" layer="48"/>
@@ -203,6 +203,10 @@ by exp-lbrs.ulp</description>
 <pad name="SCL" x="5.87375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
 <pad name="SDA" x="3.33375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
 <pad name="VIN" x="10.95375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
+<text x="3.33375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">SDA</text>
+<text x="5.87375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">SCL</text>
+<text x="8.41375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">GND</text>
+<text x="10.95375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">3.3V</text>
 </package>
 <package name="COMPONENTS_R0603" urn="urn:adsk.eagle:footprint:14733101/1" library_version="1">
 <wire x1="1" y1="-0.7" x2="1.6" y2="-0.7" width="0.1524" layer="21"/>
@@ -751,7 +755,7 @@ by exp-lbrs.ulp</description>
 <wire x1="2.2" y1="-2.7" x2="-2.2" y2="-2.7" width="0.1524" layer="21"/>
 <wire x1="-2.2" y1="-2.7" x2="-2.2" y2="-2.4" width="0.1524" layer="21"/>
 </package>
-<package name="LOGO_TYR_COPPER" library_version="21" library_locally_modified="yes">
+<package name="LOGO_TYR_COPPER" urn="urn:adsk.eagle:footprint:14993494/1" library_version="22" library_locally_modified="yes">
 <rectangle x1="-3.109375" y1="-2.8046875" x2="-2.509375" y2="-2.7046875" layer="1"/>
 <rectangle x1="-3.209375" y1="-2.7046875" x2="-2.409375" y2="-2.6046875" layer="1"/>
 <rectangle x1="1.690625" y1="-2.7046875" x2="1.890625" y2="-2.6046875" layer="1"/>
@@ -1481,7 +1485,7 @@ by exp-lbrs.ulp</description>
 <packageinstance name="HOLE_M3_OVAL"/>
 </packageinstances>
 </package3d>
-<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/3" type="empty" library_version="16">
+<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/3" type="empty" library_version="22" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="TYR_TYR_DISPLAY"/>
 </packageinstances>
@@ -1603,6 +1607,11 @@ by exp-lbrs.ulp</description>
 &lt;p&gt;8-pin SOIC package with 1.27 mm pitch, 6.00 mm span with body size 5.13 X 3.90 X 1.55 mm&lt;/p&gt;</description>
 <packageinstances>
 <packageinstance name="SOP-8"/>
+</packageinstances>
+</package3d>
+<package3d name="LOGO_TYR_COPPER" urn="urn:adsk.eagle:package:14993495/1" type="box" library_version="22" library_locally_modified="yes">
+<packageinstances>
+<packageinstance name="LOGO_TYR_COPPER"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -2133,7 +2142,7 @@ by exp-lbrs.ulp</description>
 <wire x1="7.62" y1="-10.16" x2="7.62" y2="10.16" width="0.254" layer="94"/>
 <wire x1="7.62" y1="10.16" x2="-7.62" y2="10.16" width="0.254" layer="94"/>
 </symbol>
-<symbol name="LOGO_TYR" library_version="21" library_locally_modified="yes">
+<symbol name="LOGO_TYR" urn="urn:adsk.eagle:symbol:14993493/1" library_version="22" library_locally_modified="yes">
 <text x="0" y="0" size="7.62" layer="94" font="vector" align="center">LOGO</text>
 </symbol>
 </symbols>
@@ -2201,7 +2210,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/3" prefix="J" library_version="16">
+<deviceset name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/3" prefix="J" library_version="22" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="TYR_TYR_DISPLAY" x="0" y="0"/>
 </gates>
@@ -2792,12 +2801,15 @@ Source: www.st.com, BAT60J.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LOGO_TYR" library_version="21" library_locally_modified="yes">
+<deviceset name="LOGO_TYR" urn="urn:adsk.eagle:component:14993496/1" library_version="22" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="LOGO_TYR" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="LOGO_TYR_COPPER">
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14993495/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -3128,7 +3140,7 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
 <part name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
 <part name="SUPPLY19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
-<part name="U$1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="LOGO_TYR" device=""/>
+<part name="U$1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="LOGO_TYR" device="" package3d_urn="urn:adsk.eagle:package:14993495/1"/>
 </parts>
 <sheets>
 <sheet>
