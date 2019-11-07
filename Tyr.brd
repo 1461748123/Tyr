@@ -887,7 +887,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="-1.451" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="1.578" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="HOLE_M3_OVAL" urn="urn:adsk.eagle:footprint:14733096/1" library_version="1">
+<package name="HOLE_M3_OVAL" urn="urn:adsk.eagle:footprint:14733096/1" locally_modified="yes" library_version="22" library_locally_modified="yes">
 <wire x1="1.65" y1="1.65" x2="-1.65" y2="1.65" width="0.01" layer="46"/>
 <wire x1="-1.65" y1="1.65" x2="-3.3" y2="0" width="0.01" layer="46" curve="90"/>
 <wire x1="-3.3" y1="0" x2="-1.65" y2="-1.65" width="0.01" layer="46" curve="90"/>
@@ -896,6 +896,7 @@ by exp-lbrs.ulp</description>
 <wire x1="3.3" y1="0" x2="1.65" y2="1.65" width="0.01" layer="46" curve="90"/>
 <smd name="P$1" x="0" y="0" dx="5" dy="8.4" layer="16" roundness="100" rot="R90" thermals="no" cream="no"/>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
+<pad name="P$3" x="0" y="0" drill="0.6"/>
 </package>
 <package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/2" locally_modified="yes" library_version="22" library_locally_modified="yes">
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
@@ -1037,7 +1038,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/1" library_version="1">
+<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/1" locally_modified="yes" library_version="22" library_locally_modified="yes">
 <wire x1="-5" y1="-4.475" x2="5" y2="-4.475" width="0.127" layer="49"/>
 <wire x1="-5.575" y1="1.175" x2="-5.875" y2="1.475" width="0.01" layer="46" curve="-90"/>
 <wire x1="-5.875" y1="1.475" x2="-5.875" y2="2.275" width="0.01" layer="46"/>
@@ -1086,6 +1087,10 @@ by exp-lbrs.ulp</description>
 <smd name="SBU2" x="1.25" y="3" dx="0.3" dy="1.15" layer="1"/>
 <smd name="VBUS1" x="-2.4" y="3" dx="0.6" dy="1.15" layer="1" rot="R180"/>
 <smd name="VBUS2" x="2.4" y="3" dx="0.6" dy="1.15" layer="1" rot="R180"/>
+<pad name="P$7" x="-5.575" y="1.875" drill="0.6" diameter="0.8"/>
+<pad name="P$10" x="5.575" y="1.875" drill="0.6" diameter="0.8"/>
+<pad name="P$11" x="-5.575" y="-2.125" drill="0.6" diameter="0.8"/>
+<pad name="P$12" x="5.575" y="-2.125" drill="0.6" diameter="0.8"/>
 </package>
 <package name="CONTROLLER_CRYSTAL-3.2X2.5" urn="urn:adsk.eagle:footprint:14733099/1" library_version="1">
 <wire x1="-1.1" y1="-1.6" x2="-1.95" y2="-1.6" width="0.1524" layer="21"/>
@@ -2203,7 +2208,7 @@ by exp-lbrs.ulp</description>
 <packageinstance name="COMPONENTS_R0603"/>
 </packageinstances>
 </package3d>
-<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/2" type="model" library_version="10">
+<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/2" type="model" library_version="22" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="CONTROLLER_USB-C-12P-INBOARD"/>
 </packageinstances>
@@ -2255,7 +2260,7 @@ by exp-lbrs.ulp</description>
 <packageinstance name="MICROBUILDER_2512"/>
 </packageinstances>
 </package3d>
-<package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/2" type="empty" library_version="4">
+<package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/2" type="empty" library_version="22" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="HOLE_M3_OVAL"/>
 </packageinstances>
@@ -3622,7 +3627,6 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <via x="140.19609375" y="32.44453125" extent="1-16" drill="0.35"/>
 <via x="141.98203125" y="32.44453125" extent="1-16" drill="0.35"/>
 <via x="143.76796875" y="32.44453125" extent="1-16" drill="0.35"/>
-<wire x1="143.321484375" y1="8.03671875" x2="143.321484375" y2="8.0546875" width="0.1524" layer="16"/>
 <wire x1="147.6375" y1="8.0546875" x2="147.6375" y2="7.7390625" width="0.1524" layer="16"/>
 <wire x1="147.6375" y1="7.7390625" x2="148.2328125" y2="7.14375" width="0.1524" layer="16"/>
 <wire x1="148.2328125" y1="7.14375" x2="150.01875" y2="7.14375" width="0.1524" layer="16"/>
@@ -3751,16 +3755,16 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <via x="11.01328125" y="33.03984375" extent="1-16" drill="0.35"/>
 <via x="12.79921875" y="33.03984375" extent="1-16" drill="0.35"/>
 <wire x1="12.79921875" y1="33.03984375" x2="11.01328125" y2="33.03984375" width="0.3048" layer="16"/>
-<wire x1="150.75" y1="95.25" x2="150.75" y2="95.25" width="0" layer="19" extent="1-16"/>
-<wire x1="150.75" y1="57.15" x2="150.75" y2="57.15" width="0" layer="19" extent="1-16"/>
-<wire x1="24.625" y1="114.04375" x2="24.625" y2="114.04375" width="0" layer="19" extent="1-16"/>
-<wire x1="24.625" y1="110.04375" x2="24.625" y2="110.04375" width="0" layer="19" extent="1-16"/>
-<wire x1="13.475" y1="114.04375" x2="13.475" y2="114.04375" width="0" layer="19" extent="1-16"/>
-<wire x1="13.475" y1="110.04375" x2="13.475" y2="110.04375" width="0" layer="19" extent="1-16"/>
-<wire x1="113.109375" y1="1.65" x2="113.109375" y2="1.65" width="0" layer="19" extent="1-16"/>
-<wire x1="1.65" y1="95.25" x2="1.65" y2="95.25" width="0" layer="19" extent="1-16"/>
-<wire x1="1.65" y1="57.15" x2="1.65" y2="57.15" width="0" layer="19" extent="1-16"/>
-<wire x1="23.8125" y1="1.65" x2="23.8125" y2="1.65" width="0" layer="19" extent="1-16"/>
+<contactref element="HOLE1" pad="P$3"/>
+<contactref element="HOLE2" pad="P$3"/>
+<contactref element="HOLE3" pad="P$3"/>
+<contactref element="HOLE4" pad="P$3"/>
+<contactref element="HOLE5" pad="P$3"/>
+<contactref element="HOLE6" pad="P$3"/>
+<contactref element="X1" pad="P$7"/>
+<contactref element="X1" pad="P$10"/>
+<contactref element="X1" pad="P$11"/>
+<contactref element="X1" pad="P$12"/>
 </signal>
 <signal name="VCC">
 <contactref element="X1" pad="VBUS1"/>
@@ -6663,21 +6667,11 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <approved hash="4,16,4df54860086c6df1"/>
 <approved hash="4,16,e033e0c670367963"/>
 <approved hash="19,16,3d3c384b1b471e30"/>
-<approved hash="21,19,fe3cfc3efc3efe3c"/>
-<approved hash="21,19,fefcfcfefcfefefc"/>
-<approved hash="21,19,1e7c1c7e1c7e1e7c"/>
-<approved hash="21,19,1e7c1c7e1c7e1e7c"/>
-<approved hash="21,19,1e7c1c7e1c7e1e7c"/>
-<approved hash="21,19,fefcfcfefcfefefc"/>
-<approved hash="21,19,1e7c1c7e1c7e1e7c"/>
-<approved hash="21,19,fefcfcfefcfefefc"/>
-<approved hash="21,19,fefcfcfefcfefefc"/>
 <approved hash="19,16,6eea6fe25256535e"/>
 <approved hash="19,16,ae23af2b5457555f"/>
 <approved hash="19,16,2e2c2f2752d353d8"/>
 <approved hash="4,1,e0fbe00e7ede71cb"/>
 <approved hash="4,16,e0fbe00e7ede71cb"/>
-<approved hash="21,19,fe0cfc0efc0efe0c"/>
 <approved hash="19,16,24262466d732d772"/>
 <approved hash="19,16,ea5ce99a46f64530"/>
 <approved hash="3,1,c0cca649a64dc0c8"/>

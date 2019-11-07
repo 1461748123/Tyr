@@ -179,7 +179,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="-1.451" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="1.578" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="HOLE_M3_OVAL" urn="urn:adsk.eagle:footprint:14733096/1" library_version="1">
+<package name="HOLE_M3_OVAL" urn="urn:adsk.eagle:footprint:14733096/1" locally_modified="yes" library_version="22" library_locally_modified="yes">
 <wire x1="1.65" y1="1.65" x2="-1.65" y2="1.65" width="0.01" layer="46"/>
 <wire x1="-1.65" y1="1.65" x2="-3.3" y2="0" width="0.01" layer="46" curve="90"/>
 <wire x1="-3.3" y1="0" x2="-1.65" y2="-1.65" width="0.01" layer="46" curve="90"/>
@@ -188,6 +188,7 @@ by exp-lbrs.ulp</description>
 <wire x1="3.3" y1="0" x2="1.65" y2="1.65" width="0.01" layer="46" curve="90"/>
 <smd name="P$1" x="0" y="0" dx="5" dy="8.4" layer="16" roundness="100" rot="R90" thermals="no" cream="no"/>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
+<pad name="P$3" x="0" y="0" drill="0.6"/>
 </package>
 <package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/2" locally_modified="yes" library_version="22" library_locally_modified="yes">
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
@@ -329,7 +330,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/1" library_version="1">
+<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/1" locally_modified="yes" library_version="22" library_locally_modified="yes">
 <wire x1="-5" y1="-4.475" x2="5" y2="-4.475" width="0.127" layer="49"/>
 <wire x1="-5.575" y1="1.175" x2="-5.875" y2="1.475" width="0.01" layer="46" curve="-90"/>
 <wire x1="-5.875" y1="1.475" x2="-5.875" y2="2.275" width="0.01" layer="46"/>
@@ -378,6 +379,10 @@ by exp-lbrs.ulp</description>
 <smd name="SBU2" x="1.25" y="3" dx="0.3" dy="1.15" layer="1"/>
 <smd name="VBUS1" x="-2.4" y="3" dx="0.6" dy="1.15" layer="1" rot="R180"/>
 <smd name="VBUS2" x="2.4" y="3" dx="0.6" dy="1.15" layer="1" rot="R180"/>
+<pad name="P$7" x="-5.575" y="1.875" drill="0.6" diameter="0.8"/>
+<pad name="P$10" x="5.575" y="1.875" drill="0.6" diameter="0.8"/>
+<pad name="P$11" x="-5.575" y="-2.125" drill="0.6" diameter="0.8"/>
+<pad name="P$12" x="5.575" y="-2.125" drill="0.6" diameter="0.8"/>
 </package>
 <package name="CONTROLLER_CRYSTAL-3.2X2.5" urn="urn:adsk.eagle:footprint:14733099/1" library_version="1">
 <wire x1="-1.1" y1="-1.6" x2="-1.95" y2="-1.6" width="0.1524" layer="21"/>
@@ -1480,7 +1485,7 @@ by exp-lbrs.ulp</description>
 <packageinstance name="COMPONENTS_C0603"/>
 </packageinstances>
 </package3d>
-<package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/2" type="empty" library_version="4">
+<package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/2" type="empty" library_version="22" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="HOLE_M3_OVAL"/>
 </packageinstances>
@@ -1525,7 +1530,7 @@ by exp-lbrs.ulp</description>
 <packageinstance name="TYR_SOT-23-6P"/>
 </packageinstances>
 </package3d>
-<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/2" type="model" library_version="10">
+<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/2" type="model" library_version="22" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="CONTROLLER_USB-C-12P-INBOARD"/>
 </packageinstances>
@@ -2192,14 +2197,14 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="HOLE_MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/2" prefix="HOLE" library_version="4">
+<deviceset name="HOLE_MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/2" locally_modified="yes" prefix="HOLE" library_version="22" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="HOLE_HOLE" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="HOLE_M3_OVAL">
 <connects>
-<connect gate="G$1" pin="GND" pad="P$1 P$2"/>
+<connect gate="G$1" pin="GND" pad="P$1 P$2 P$3"/>
 </connects>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:14733136/2"/>
@@ -2462,7 +2467,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:component:14733156/2" prefix="X" library_version="10">
+<deviceset name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:component:14733156/2" locally_modified="yes" prefix="X" library_version="22" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="CONTROLLER_USB-C-12P" x="-2.54" y="0"/>
 </gates>
@@ -2479,7 +2484,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="GND2" pad="GND2"/>
 <connect gate="G$1" pin="SBU1" pad="SBU1"/>
 <connect gate="G$1" pin="SBU2" pad="SBU2"/>
-<connect gate="G$1" pin="SHEILD" pad="P$1 P$2 P$3 P$4 P$5 P$6 P$8 P$9"/>
+<connect gate="G$1" pin="SHEILD" pad="P$1 P$2 P$3 P$4 P$5 P$6 P$7 P$8 P$9 P$10 P$11 P$12"/>
 <connect gate="G$1" pin="VBUS1" pad="VBUS1"/>
 <connect gate="G$1" pin="VBUS2" pad="VBUS2"/>
 </connects>
