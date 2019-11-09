@@ -179,7 +179,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="-1.451" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="1.578" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="HOLE_M3_OVAL" urn="urn:adsk.eagle:footprint:14733096/1" locally_modified="yes" library_version="22" library_locally_modified="yes">
+<package name="HOLE_M3_OVAL" urn="urn:adsk.eagle:footprint:14733096/2" library_version="23" library_locally_modified="yes">
 <wire x1="1.65" y1="1.65" x2="-1.65" y2="1.65" width="0.01" layer="46"/>
 <wire x1="-1.65" y1="1.65" x2="-3.3" y2="0" width="0.01" layer="46" curve="90"/>
 <wire x1="-3.3" y1="0" x2="-1.65" y2="-1.65" width="0.01" layer="46" curve="90"/>
@@ -190,7 +190,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
 <pad name="P$3" x="0" y="0" drill="0.6"/>
 </package>
-<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/2" locally_modified="yes" library_version="22" library_locally_modified="yes">
+<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/3" library_version="23" library_locally_modified="yes">
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
 <wire x1="14.2875" y1="37.9" x2="14.0875" y2="38.1" width="0" layer="48" curve="90"/>
 <wire x1="14.0875" y1="38.1" x2="0.2" y2="38.1" width="0" layer="48"/>
@@ -330,7 +330,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/1" locally_modified="yes" library_version="22" library_locally_modified="yes">
+<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/2" library_version="23" library_locally_modified="yes">
 <wire x1="-5" y1="-4.475" x2="5" y2="-4.475" width="0.127" layer="49"/>
 <wire x1="-5.575" y1="1.175" x2="-5.875" y2="1.475" width="0.01" layer="46" curve="-90"/>
 <wire x1="-5.875" y1="1.475" x2="-5.875" y2="2.275" width="0.01" layer="46"/>
@@ -405,7 +405,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.412" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.412" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/3" library_version="21" library_locally_modified="yes">
+<package name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/4" library_version="27">
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -435,15 +435,15 @@ by exp-lbrs.ulp</description>
 <wire x1="-6.3874" y1="0.7626" x2="-6.3874" y2="4.755" width="0.152" layer="22"/>
 <wire x1="-6.3874" y1="4.755" x2="-4.285" y2="6.8574" width="0.152" layer="22" curve="-90"/>
 <pad name="HOLE1" x="0" y="0" drill="4" diameter="4.2" thermals="no"/>
-<pad name="HOLE2" x="2.54" y="5.08" drill="3" diameter="3.2" thermals="no"/>
-<pad name="HOLE3" x="-3.81" y="2.54" drill="3" diameter="3.2" thermals="no"/>
+<pad name="HOLE2" x="2.54" y="5.08" drill="3" diameter="3.2"/>
+<pad name="HOLE3" x="-3.81" y="2.54" drill="3" diameter="3.2"/>
 <pad name="HOLE4" x="-5.08" y="0" drill="1.7" diameter="1.9" thermals="no"/>
 <pad name="HOLE5" x="5.08" y="0" drill="1.7" diameter="1.9" thermals="no"/>
 <smd name="P$1" x="-6.735" y="2.54" dx="4" dy="2.55" layer="16"/>
 <smd name="P$2" x="5.465" y="5.08" dx="4" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/3" library_version="21" library_locally_modified="yes">
+<package name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/4" library_version="27">
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -473,8 +473,8 @@ by exp-lbrs.ulp</description>
 <wire x1="-6.3874" y1="0.7626" x2="-6.3874" y2="4.755" width="0.152" layer="22"/>
 <wire x1="-6.3874" y1="4.755" x2="-4.285" y2="6.8574" width="0.152" layer="22" curve="-90"/>
 <pad name="HOLE1" x="0" y="0" drill="4" diameter="4.2" thermals="no"/>
-<pad name="HOLE2" x="2.54" y="5.08" drill="3" diameter="3.2" thermals="no"/>
-<pad name="HOLE3" x="-3.81" y="2.54" drill="3" diameter="3.2" thermals="no"/>
+<pad name="HOLE2" x="2.54" y="5.08" drill="3" diameter="3.2"/>
+<pad name="HOLE3" x="-3.81" y="2.54" drill="3" diameter="3.2"/>
 <pad name="HOLE4" x="-5.08" y="0" drill="1.7" diameter="1.9" thermals="no"/>
 <pad name="HOLE5" x="5.08" y="0" drill="1.7" diameter="1.9" thermals="no"/>
 <smd name="P$1" x="-6.735" y="2.54" dx="4" dy="2.55" layer="16"/>
@@ -499,7 +499,7 @@ by exp-lbrs.ulp</description>
 <vertex x="0.4" y="0"/>
 </polygon>
 </package>
-<package name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/3" library_version="21" library_locally_modified="yes">
+<package name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/4" library_version="27">
 <description>Keyboard switch package!</description>
 <wire x1="-7.8" y1="-6.8" x2="-7.8" y2="6.8" width="0.125" layer="47"/>
 <wire x1="-7.8" y1="6.8" x2="-6.8" y2="7.8" width="0.125" layer="47" curve="-90"/>
@@ -529,8 +529,8 @@ by exp-lbrs.ulp</description>
 <wire x1="-6.3874" y1="0.7626" x2="-6.3874" y2="4.755" width="0.152" layer="22"/>
 <wire x1="-6.3874" y1="4.755" x2="-4.285" y2="6.8574" width="0.152" layer="22" curve="-90"/>
 <pad name="HOLE1" x="0" y="0" drill="4" diameter="4.2" thermals="no"/>
-<pad name="HOLE2" x="2.54" y="5.08" drill="3" diameter="3.2" thermals="no"/>
-<pad name="HOLE3" x="-3.81" y="2.54" drill="3" diameter="3.2" thermals="no"/>
+<pad name="HOLE2" x="2.54" y="5.08" drill="3" diameter="3.2"/>
+<pad name="HOLE3" x="-3.81" y="2.54" drill="3" diameter="3.2"/>
 <pad name="HOLE4" x="-5.08" y="0" drill="1.7" diameter="1.9" thermals="no"/>
 <pad name="HOLE5" x="5.08" y="0" drill="1.7" diameter="1.9" thermals="no"/>
 <pad name="HOLE6" x="-11.9" y="-8.24" drill="4" diameter="4.2" thermals="no"/>
@@ -1478,6 +1478,17 @@ by exp-lbrs.ulp</description>
 <rectangle x1="0.390625" y1="2.9953125" x2="0.990625" y2="3.0953125" layer="29"/>
 <rectangle x1="0.590625" y1="3.0953125" x2="0.790625" y2="3.1953125" layer="29"/>
 </package>
+<package name="HOLE_5MM_OVAL" urn="urn:adsk.eagle:footprint:15041617/2" library_version="26">
+<pad name="P$3" x="0" y="0" drill="0.6"/>
+<smd name="P$2" x="0" y="0" dx="9" dy="5.7" layer="1" roundness="100" thermals="no"/>
+<smd name="P$1" x="0" y="0" dx="9" dy="5.7" layer="16" roundness="100" thermals="no"/>
+<wire x1="-1.65" y1="-2.75" x2="1.65" y2="-2.75" width="0.01" layer="46"/>
+<wire x1="1.65" y1="-2.75" x2="4.4" y2="0" width="0.01" layer="46" curve="90"/>
+<wire x1="4.4" y1="0" x2="1.65" y2="2.75" width="0.01" layer="46" curve="90"/>
+<wire x1="1.65" y1="2.75" x2="-1.65" y2="2.75" width="0.01" layer="46"/>
+<wire x1="-1.65" y1="2.75" x2="-4.4" y2="0" width="0.01" layer="46" curve="90"/>
+<wire x1="-4.4" y1="0" x2="-1.65" y2="-2.75" width="0.01" layer="46" curve="90"/>
+</package>
 </packages>
 <packages3d>
 <package3d name="COMPONENTS_C0603" urn="urn:adsk.eagle:package:14733142/2" type="model" library_version="3">
@@ -1485,12 +1496,12 @@ by exp-lbrs.ulp</description>
 <packageinstance name="COMPONENTS_C0603"/>
 </packageinstances>
 </package3d>
-<package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/2" type="empty" library_version="22" library_locally_modified="yes">
+<package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/3" type="empty" library_version="23" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="HOLE_M3_OVAL"/>
 </packageinstances>
 </package3d>
-<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/3" type="empty" library_version="22" library_locally_modified="yes">
+<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/4" type="empty" library_version="23" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="TYR_TYR_DISPLAY"/>
 </packageinstances>
@@ -1530,7 +1541,7 @@ by exp-lbrs.ulp</description>
 <packageinstance name="TYR_SOT-23-6P"/>
 </packageinstances>
 </package3d>
-<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/2" type="model" library_version="22" library_locally_modified="yes">
+<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/3" type="model" library_version="23" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="CONTROLLER_USB-C-12P-INBOARD"/>
 </packageinstances>
@@ -1542,19 +1553,19 @@ by exp-lbrs.ulp</description>
 <packageinstance name="CONTROLLER_CRYSTAL-3.2X2.5"/>
 </packageinstances>
 </package3d>
-<package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/4" type="model" library_version="21" library_locally_modified="yes">
+<package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/5" type="model" library_version="27">
 <description>Keyboard switch package!</description>
 <packageinstances>
 <packageinstance name="KEYBOARD_MX-2U-HOTSWAP"/>
 </packageinstances>
 </package3d>
-<package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/4" type="model" library_version="21" library_locally_modified="yes">
+<package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/5" type="model" library_version="27">
 <description>Keyboard switch package!</description>
 <packageinstances>
 <packageinstance name="KEYBOARD_MX-1U-HOTSWAP"/>
 </packageinstances>
 </package3d>
-<package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/4" type="model" library_version="21" library_locally_modified="yes">
+<package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/5" type="model" library_version="27">
 <description>Keyboard switch package!</description>
 <packageinstances>
 <packageinstance name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK"/>
@@ -1576,47 +1587,52 @@ by exp-lbrs.ulp</description>
 <packageinstance name="C0402"/>
 </packageinstances>
 </package3d>
-<package3d name="LQFP48" urn="urn:adsk.eagle:package:14872699/3" type="box" library_version="20" library_locally_modified="yes">
+<package3d name="LQFP48" urn="urn:adsk.eagle:package:14872699/4" type="model" library_version="25">
 <description>48-QFP, 0.50 mm pitch, 9.00 mm span, 7.00 X 7.00 X 1.60 mm body
 &lt;p&gt;48-pin QFP package with 0.50 mm pitch, 9.00 mm lead span1 X 9.00 mm lead span2 with body size 7.00 X 7.00 X 1.60 mm&lt;/p&gt;</description>
 <packageinstances>
 <packageinstance name="LQFP48"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT23" urn="urn:adsk.eagle:package:14872841/3" type="box" library_version="20" library_locally_modified="yes">
+<package3d name="SOT23" urn="urn:adsk.eagle:package:14872841/4" type="model" library_version="26">
 <description>&lt;B&gt;DIODE&lt;/B&gt;</description>
 <packageinstances>
 <packageinstance name="SOT-23"/>
 </packageinstances>
 </package3d>
-<package3d name="SOT-323" urn="urn:adsk.eagle:package:14883423/3" type="box" library_version="20" library_locally_modified="yes">
+<package3d name="SOT-323" urn="urn:adsk.eagle:package:14883423/4" type="model" library_version="25">
 <description>3-SOT23, 0.65 mm pitch, 2.10 mm span, 2.00 X 1.25 X 1.10 mm body
 &lt;p&gt;3-pin SOT23 package with 0.65 mm pitch, 2.10 mm span with body size 2.00 X 1.25 X 1.10 mm&lt;/p&gt;</description>
 <packageinstances>
 <packageinstance name="SOT-323"/>
 </packageinstances>
 </package3d>
-<package3d name="BUTTON_3*6*2.5" urn="urn:adsk.eagle:package:14967027/1" type="box" library_version="19">
+<package3d name="BUTTON_3*6*2.5" urn="urn:adsk.eagle:package:14967027/2" type="model" library_version="25">
 <packageinstances>
 <packageinstance name="BUTTON_3*6*2.5"/>
 </packageinstances>
 </package3d>
-<package3d name="1X06" urn="urn:adsk.eagle:package:14967026/3" type="box" library_version="21" library_locally_modified="yes">
+<package3d name="1X06" urn="urn:adsk.eagle:package:14967026/4" type="empty" library_version="25">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
 <packageinstances>
 <packageinstance name="1X06"/>
 </packageinstances>
 </package3d>
-<package3d name="SOP-8" urn="urn:adsk.eagle:package:14977222/1" type="box" library_version="21" library_locally_modified="yes">
+<package3d name="SOP-8" urn="urn:adsk.eagle:package:14977222/2" type="model" library_version="26">
 <description>8-SOIC, 1.27 mm pitch, 6.00 mm span, 5.13 X 3.90 X 1.55 mm body
 &lt;p&gt;8-pin SOIC package with 1.27 mm pitch, 6.00 mm span with body size 5.13 X 3.90 X 1.55 mm&lt;/p&gt;</description>
 <packageinstances>
 <packageinstance name="SOP-8"/>
 </packageinstances>
 </package3d>
-<package3d name="LOGO_TYR_COPPER" urn="urn:adsk.eagle:package:14993495/1" type="box" library_version="22" library_locally_modified="yes">
+<package3d name="LOGO_TYR_COPPER" urn="urn:adsk.eagle:package:14993495/2" type="empty" library_version="25">
 <packageinstances>
 <packageinstance name="LOGO_TYR_COPPER"/>
+</packageinstances>
+</package3d>
+<package3d name="HOLE_5MM_OVAL" urn="urn:adsk.eagle:package:15041619/3" type="empty" library_version="26">
+<packageinstances>
+<packageinstance name="HOLE_5MM_OVAL"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -2197,7 +2213,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="HOLE_MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/2" locally_modified="yes" prefix="HOLE" library_version="22" library_locally_modified="yes">
+<deviceset name="HOLE_MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/6" prefix="HOLE" library_version="26">
 <gates>
 <gate name="G$1" symbol="HOLE_HOLE" x="0" y="0"/>
 </gates>
@@ -2207,7 +2223,18 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="GND" pad="P$1 P$2 P$3"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733136/3"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="5MM_NOTCH" package="HOLE_5MM_OVAL">
+<connects>
+<connect gate="G$1" pin="GND" pad="P$1 P$2 P$3"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:15041619/3"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2215,7 +2242,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/3" prefix="J" library_version="22" library_locally_modified="yes">
+<deviceset name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/4" prefix="J" library_version="23" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="TYR_TYR_DISPLAY" x="0" y="0"/>
 </gates>
@@ -2229,7 +2256,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="5" pad="3.3V"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733127/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733127/4"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2467,7 +2494,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:component:14733156/2" locally_modified="yes" prefix="X" library_version="22" library_locally_modified="yes">
+<deviceset name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:component:14733156/3" prefix="X" library_version="23" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="CONTROLLER_USB-C-12P" x="-2.54" y="0"/>
 </gates>
@@ -2489,7 +2516,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="VBUS2" pad="VBUS2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733137/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733137/3"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2517,7 +2544,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" urn="urn:adsk.eagle:component:14733153/4" prefix="KEYSWITCH" library_version="21" library_locally_modified="yes">
+<deviceset name="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" urn="urn:adsk.eagle:component:14733153/5" prefix="KEYSWITCH" library_version="27">
 <gates>
 <gate name="G$1" symbol="KEYBOARD_KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
@@ -2529,7 +2556,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="P1" pad="HOLE3 P$1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2542,7 +2569,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="P1" pad="HOLE3 P$1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733134/4"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733134/5"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2572,7 +2599,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" urn="urn:adsk.eagle:component:14733152/4" prefix="SWITCH" library_version="21" library_locally_modified="yes">
+<deviceset name="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" urn="urn:adsk.eagle:component:14733152/5" prefix="SWITCH" library_version="27">
 <gates>
 <gate name="G$1" symbol="KEYBOARD_KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
@@ -2584,7 +2611,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="P1" pad="HOLE3 P$1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733133/4"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733133/5"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2613,7 +2640,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="STM32F303CC" urn="urn:adsk.eagle:component:14872704/4" prefix="U" library_version="20" library_locally_modified="yes">
+<deviceset name="STM32F303CC" urn="urn:adsk.eagle:component:14872704/5" prefix="U" library_version="25">
 <gates>
 <gate name="G$1" symbol="STM32F303CC" x="0" y="0"/>
 </gates>
@@ -2670,7 +2697,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="VCC2" pad="48"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14872699/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14872699/4"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2678,7 +2705,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MCP1700T" urn="urn:adsk.eagle:component:14872842/4" prefix="U" library_version="20" library_locally_modified="yes">
+<deviceset name="MCP1700T" urn="urn:adsk.eagle:component:14872842/5" prefix="U" library_version="26">
 <gates>
 <gate name="G$1" symbol="MCP1700T" x="0" y="0"/>
 </gates>
@@ -2690,7 +2717,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="VO" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14872841/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14872841/4"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2698,7 +2725,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DTC123J" urn="urn:adsk.eagle:component:14883424/3" prefix="Q" library_version="20" library_locally_modified="yes">
+<deviceset name="DTC123J" urn="urn:adsk.eagle:component:14883424/4" prefix="Q" library_version="25">
 <gates>
 <gate name="G$1" symbol="DTC123J" x="0" y="0"/>
 </gates>
@@ -2710,7 +2737,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="E" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14883423/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14883423/4"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2718,7 +2745,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BUTTON" urn="urn:adsk.eagle:component:14967029/2" prefix="SW" library_version="21" library_locally_modified="yes">
+<deviceset name="BUTTON" urn="urn:adsk.eagle:component:14967029/3" prefix="SW" library_version="25">
 <gates>
 <gate name="G$1" symbol="SWITCH" x="0" y="0"/>
 </gates>
@@ -2729,7 +2756,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="P$2" pad="P$2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14967027/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14967027/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2737,7 +2764,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="PINHEADER_1X6" urn="urn:adsk.eagle:component:14967028/3" prefix="PH" library_version="21" library_locally_modified="yes">
+<deviceset name="PINHEADER_1X6" urn="urn:adsk.eagle:component:14967028/4" prefix="PH" library_version="25">
 <gates>
 <gate name="G$1" symbol="PINHD6" x="0" y="0"/>
 </gates>
@@ -2752,7 +2779,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="6" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14967026/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14967026/4"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2781,7 +2808,7 @@ Source: www.st.com, BAT60J.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MB85RC256V" urn="urn:adsk.eagle:component:14977225/1" library_version="21" library_locally_modified="yes">
+<deviceset name="MB85RC256V" urn="urn:adsk.eagle:component:14977225/2" library_version="26">
 <gates>
 <gate name="G$1" symbol="MB85RC256V" x="0" y="0"/>
 </gates>
@@ -2798,7 +2825,7 @@ Source: www.st.com, BAT60J.pdf</description>
 <connect gate="G$1" pin="WP" pad="7"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14977222/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14977222/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2806,14 +2833,14 @@ Source: www.st.com, BAT60J.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LOGO_TYR" urn="urn:adsk.eagle:component:14993496/1" library_version="22" library_locally_modified="yes">
+<deviceset name="LOGO_TYR" urn="urn:adsk.eagle:component:14993496/2" library_version="25">
 <gates>
 <gate name="G$1" symbol="LOGO_TYR" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="LOGO_TYR_COPPER">
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14993495/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14993495/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2833,95 +2860,95 @@ Source: www.st.com, BAT60J.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="KEYSWITCH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/4" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK"/>
+<part name="KEYSWITCH24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK"/>
 <part name="D27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SWITCH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/4"/>
+<part name="SWITCH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/5"/>
 <part name="D34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SWITCH2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/4"/>
+<part name="SWITCH2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/5"/>
 <part name="D43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="KEYSWITCH39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/4"/>
+<part name="KEYSWITCH39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
 <part name="D44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/2" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD"/>
+<part name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/3" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD"/>
 <part name="SUPPLY9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
 <part name="SUPPLY8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
 <part name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="22"/>
 <part name="R3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="22"/>
-<part name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_TYR_DISPLAY" device="" package3d_urn="urn:adsk.eagle:package:14733127/3"/>
+<part name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_TYR_DISPLAY" device="" package3d_urn="urn:adsk.eagle:package:14733127/4"/>
 <part name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_PRTR5V0U2X" device="" package3d_urn="urn:adsk.eagle:package:14733138/4" value="CONTROLLER_PRTR5V0U2X"/>
 <part name="SUPPLY22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
@@ -3091,12 +3118,10 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="SUPPLY99" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="C14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u"/>
 <part name="SUPPLY20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
-<part name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
-<part name="HOLE3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
-<part name="HOLE4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
-<part name="HOLE5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
-<part name="HOLE6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/2"/>
+<part name="HOLE3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
+<part name="HOLE4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
+<part name="HOLE5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
+<part name="HOLE6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
 <part name="SJ1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MICROBUILDER_SOLDERJUMPER" device="" package3d_urn="urn:adsk.eagle:package:14733131/2"/>
 <part name="SUPPLY23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
@@ -3104,7 +3129,7 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="R1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k"/>
 <part name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k"/>
 <part name="SUPPLY6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="U3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="STM32F303CC" device="" package3d_urn="urn:adsk.eagle:package:14872699/3"/>
+<part name="U3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="STM32F303CC" device="" package3d_urn="urn:adsk.eagle:package:14872699/4"/>
 <part name="Y1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_CRYSTAL-4PIN" device="-3.2X2.5" package3d_urn="urn:adsk.eagle:package:14733139/4" value="8Mhz"/>
 <part name="C11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p"/>
 <part name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p"/>
@@ -3120,7 +3145,7 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="SUPPLY1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="U1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MCP1700T" device="" package3d_urn="urn:adsk.eagle:package:14872841/3"/>
+<part name="U1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MCP1700T" device="" package3d_urn="urn:adsk.eagle:package:14872841/4"/>
 <part name="C7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="100n"/>
 <part name="C8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="100n"/>
 <part name="SUPPLY11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
@@ -3128,7 +3153,7 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="D2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE_SCHOTTKY" device="" package3d_urn="urn:adsk.eagle:package:14733140/2"/>
 <part name="SUPPLY10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
-<part name="Q1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DTC123J" device="" package3d_urn="urn:adsk.eagle:package:14883423/3"/>
+<part name="Q1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DTC123J" device="" package3d_urn="urn:adsk.eagle:package:14883423/4"/>
 <part name="SUPPLY13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="C9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7n"/>
 <part name="SUPPLY12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
@@ -3137,15 +3162,17 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="R7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k"/>
 <part name="SUPPLY16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="SUPPLY17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SW1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="BUTTON" device="" package3d_urn="urn:adsk.eagle:package:14967027/1"/>
-<part name="PH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="PINHEADER_1X6" device="" package3d_urn="urn:adsk.eagle:package:14967026/3"/>
-<part name="U4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MB85RC256V" device="" package3d_urn="urn:adsk.eagle:package:14977222/1"/>
+<part name="SW1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="BUTTON" device="" package3d_urn="urn:adsk.eagle:package:14967027/2"/>
+<part name="PH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="PINHEADER_1X6" device="" package3d_urn="urn:adsk.eagle:package:14967026/4"/>
+<part name="U4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MB85RC256V" device="" package3d_urn="urn:adsk.eagle:package:14977222/2"/>
 <part name="SUPPLY14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
 <part name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10u"/>
 <part name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
 <part name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
 <part name="SUPPLY19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
-<part name="U$1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="LOGO_TYR" device="" package3d_urn="urn:adsk.eagle:package:14993495/1"/>
+<part name="U$1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="LOGO_TYR" device="" package3d_urn="urn:adsk.eagle:package:14993495/2"/>
+<part name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/3"/>
+<part name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/3"/>
 </parts>
 <sheets>
 <sheet>
@@ -3266,8 +3293,6 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <instance part="SUPPLY20" gate="GND" x="73.66" y="45.72" smashed="yes">
 <attribute name="VALUE" x="71.755" y="42.545" size="1.778" layer="96"/>
 </instance>
-<instance part="HOLE1" gate="G$1" x="353.06" y="27.94" smashed="yes"/>
-<instance part="HOLE2" gate="G$1" x="358.14" y="27.94" smashed="yes"/>
 <instance part="HOLE3" gate="G$1" x="363.22" y="27.94" smashed="yes"/>
 <instance part="HOLE4" gate="G$1" x="368.3" y="27.94" smashed="yes"/>
 <instance part="HOLE5" gate="G$1" x="373.38" y="27.94" smashed="yes"/>
@@ -3432,6 +3457,8 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <attribute name="VALUE" x="66.675" y="69.215" size="1.778" layer="96"/>
 </instance>
 <instance part="U$1" gate="G$1" x="307.34" y="45.72" smashed="yes"/>
+<instance part="HOLE1" gate="G$1" x="353.06" y="27.94" smashed="yes"/>
+<instance part="HOLE2" gate="G$1" x="358.14" y="27.94" smashed="yes"/>
 </instances>
 <busses>
 </busses>
@@ -3482,13 +3509,9 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <wire x1="73.66" y1="48.26" x2="73.66" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="HOLE1" gate="G$1" pin="GND"/>
-<pinref part="HOLE2" gate="G$1" pin="GND"/>
-<wire x1="353.06" y1="27.94" x2="358.14" y2="27.94" width="0.1524" layer="91"/>
 <pinref part="HOLE3" gate="G$1" pin="GND"/>
-<wire x1="358.14" y1="27.94" x2="363.22" y2="27.94" width="0.1524" layer="91"/>
-<junction x="358.14" y="27.94"/>
 <pinref part="HOLE4" gate="G$1" pin="GND"/>
+<wire x1="358.14" y1="27.94" x2="363.22" y2="27.94" width="0.1524" layer="91"/>
 <wire x1="363.22" y1="27.94" x2="368.3" y2="27.94" width="0.1524" layer="91"/>
 <junction x="363.22" y="27.94"/>
 <pinref part="HOLE5" gate="G$1" pin="GND"/>
@@ -3497,10 +3520,14 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <pinref part="HOLE6" gate="G$1" pin="GND"/>
 <wire x1="373.38" y1="27.94" x2="378.46" y2="27.94" width="0.1524" layer="91"/>
 <junction x="373.38" y="27.94"/>
-<junction x="353.06" y="27.94"/>
 <junction x="378.46" y="27.94"/>
-<wire x1="353.06" y1="27.94" x2="347.98" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="358.14" y1="27.94" x2="353.06" y2="27.94" width="0.1524" layer="91"/>
 <pinref part="SUPPLY23" gate="GND" pin="GND"/>
+<pinref part="HOLE2" gate="G$1" pin="GND"/>
+<junction x="358.14" y="27.94"/>
+<pinref part="HOLE1" gate="G$1" pin="GND"/>
+<wire x1="353.06" y1="27.94" x2="347.98" y2="27.94" width="0.1524" layer="91"/>
+<junction x="353.06" y="27.94"/>
 </segment>
 <segment>
 <pinref part="R4" gate="G$1" pin="2"/>
