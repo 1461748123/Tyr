@@ -3440,20 +3440,20 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <instance part="SUPPLY19" gate="G$1" x="68.58" y="66.04" smashed="yes">
 <attribute name="VALUE" x="66.675" y="69.215" size="1.778" layer="96"/>
 </instance>
-<instance part="U$1" gate="G$1" x="307.34" y="45.72" smashed="yes"/>
+<instance part="U$1" gate="G$1" x="332.74" y="30.48" smashed="yes"/>
 <instance part="HOLE1" gate="G$1" x="353.06" y="27.94" smashed="yes"/>
 <instance part="HOLE2" gate="G$1" x="358.14" y="27.94" smashed="yes"/>
 <instance part="R2" gate="G$1" x="198.12" y="210.82" smashed="yes" rot="R90">
 <attribute name="NAME" x="199.1614" y="207.01" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="198.882" y="212.09" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R3" gate="G$1" x="238.76" y="233.68" smashed="yes" rot="MR0">
-<attribute name="NAME" x="242.57" y="232.6386" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="237.49" y="232.918" size="1.778" layer="96" rot="MR0"/>
+<instance part="R3" gate="G$1" x="231.14" y="231.14" smashed="yes" rot="MR0">
+<attribute name="NAME" x="234.95" y="230.0986" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="229.87" y="230.378" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="C51" gate="G$1" x="226.06" y="233.68" smashed="yes" rot="R180">
-<attribute name="NAME" x="231.14" y="233.172" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="225.044" y="233.934" size="1.778" layer="96" rot="R180" align="top-left"/>
+<instance part="C51" gate="G$1" x="231.14" y="236.22" smashed="yes" rot="R180">
+<attribute name="NAME" x="236.22" y="235.712" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="230.124" y="236.474" size="1.778" layer="96" rot="R180" align="top-left"/>
 </instance>
 </instances>
 <busses>
@@ -3516,10 +3516,14 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 <junction x="218.44" y="228.6"/>
 <wire x1="218.44" y1="233.68" x2="213.36" y2="233.68" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="233.68" x2="213.36" y2="231.14" width="0.1524" layer="91"/>
-<junction x="218.44" y="233.68"/>
 <pinref part="SUPPLY6" gate="GND" pin="GND"/>
-<wire x1="220.98" y1="233.68" x2="218.44" y2="233.68" width="0.1524" layer="91"/>
 <pinref part="C51" gate="G$1" pin="2"/>
+<pinref part="R3" gate="G$1" pin="2"/>
+<wire x1="226.06" y1="236.22" x2="226.06" y2="233.68" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="233.68" x2="226.06" y2="231.14" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="233.68" x2="218.44" y2="233.68" width="0.1524" layer="91"/>
+<junction x="226.06" y="233.68"/>
+<junction x="218.44" y="233.68"/>
 </segment>
 <segment>
 <pinref part="C11" gate="G$1" pin="1"/>
@@ -4179,16 +4183,13 @@ I_osmin (mA) = 22980V/R_lim^1.016kΩ</text>
 </net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="X1" gate="G$1" pin="SHEILD"/>
-<wire x1="248.92" y1="233.68" x2="243.84" y2="233.68" width="0.1524" layer="91"/>
-<pinref part="R3" gate="G$1" pin="1"/>
-</segment>
-</net>
-<net name="N$7" class="0">
-<segment>
 <pinref part="C51" gate="G$1" pin="1"/>
-<pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="231.14" y1="233.68" x2="233.68" y2="233.68" width="0.1524" layer="91"/>
+<pinref part="R3" gate="G$1" pin="1"/>
+<wire x1="236.22" y1="236.22" x2="236.22" y2="233.68" width="0.1524" layer="91"/>
+<pinref part="X1" gate="G$1" pin="SHEILD"/>
+<wire x1="236.22" y1="233.68" x2="236.22" y2="231.14" width="0.1524" layer="91"/>
+<wire x1="248.92" y1="233.68" x2="236.22" y2="233.68" width="0.1524" layer="91"/>
+<junction x="236.22" y="233.68"/>
 </segment>
 </net>
 </nets>
