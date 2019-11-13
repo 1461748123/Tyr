@@ -167,7 +167,7 @@
 <description>Generated from &lt;b&gt;Tyr.sch&lt;/b&gt;&lt;p&gt;
 by exp-lbrs.ulp</description>
 <packages>
-<package name="COMPONENTS_C0603" urn="urn:adsk.eagle:footprint:14733102/1" library_version="1">
+<package name="C0603" urn="urn:adsk.eagle:footprint:14733102/2" library_version="32">
 <wire x1="1" y1="-0.7" x2="1.6" y2="-0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="-0.7" x2="1.6" y2="0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="0.7" x2="1" y2="0.7" width="0.1524" layer="21"/>
@@ -209,7 +209,7 @@ by exp-lbrs.ulp</description>
 <text x="8.41375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">GND</text>
 <text x="10.95375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">3.3V</text>
 </package>
-<package name="COMPONENTS_R0603" urn="urn:adsk.eagle:footprint:14733101/1" library_version="1">
+<package name="R0603" urn="urn:adsk.eagle:footprint:14733101/2" library_version="32">
 <wire x1="1" y1="-0.7" x2="1.6" y2="-0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="-0.7" x2="1.6" y2="0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="0.7" x2="1" y2="0.7" width="0.1524" layer="21"/>
@@ -221,7 +221,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="1.45" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-1.45" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_2512" urn="urn:adsk.eagle:footprint:14733092/1" library_version="1">
+<package name="R2512" urn="urn:adsk.eagle:footprint:14733092/2" library_version="32">
 <description>&lt;b&gt;RESISTOR 2512 (Metric 6432)&lt;/b&gt;</description>
 <wire x1="-3.973" y1="1.983" x2="3.973" y2="1.983" width="0.0508" layer="39"/>
 <wire x1="3.973" y1="1.983" x2="3.973" y2="-1.983" width="0.0508" layer="39"/>
@@ -239,7 +239,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="3" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-3" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:footprint:14733091/1" library_version="1">
+<package name="SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:footprint:14733091/2" library_version="32">
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.1524" layer="21"/>
 <wire x1="1.397" y1="1.016" x2="1.651" y2="0.762" width="0.1524" layer="21" curve="-90"/>
 <wire x1="-1.651" y1="0.762" x2="-1.397" y2="1.016" width="0.1524" layer="21" curve="-90"/>
@@ -268,7 +268,7 @@ by exp-lbrs.ulp</description>
 <vertex x="1.143" y="0.7366"/>
 </polygon>
 </package>
-<package name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:footprint:14733098/1" library_version="1">
+<package name="PRTR5V0U2X" urn="urn:adsk.eagle:footprint:14733098/2" library_version="32">
 <wire x1="1.5" y1="0.9" x2="1.7" y2="0.9" width="0.1524" layer="21"/>
 <wire x1="1.7" y1="0.9" x2="1.7" y2="-0.9" width="0.1524" layer="21"/>
 <wire x1="1.7" y1="-0.9" x2="1.5" y2="-0.9" width="0.1524" layer="21"/>
@@ -284,7 +284,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2" size="1" layer="21" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2" size="1" layer="21" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOT23-8" urn="urn:adsk.eagle:footprint:14733121/1" library_version="1">
+<package name="SOT23-8" urn="urn:adsk.eagle:footprint:14733121/2" library_version="32">
 <description>&lt;b&gt;Source: &lt;/b&gt;http://www.ti.com/lit/ml/mpds099c/mpds099c.pdf</description>
 <circle x="-1.3" y="-0.4" radius="0.05" width="0.1524" layer="21"/>
 <wire x1="1.5" y1="-1" x2="1.7" y2="-1" width="0.1524" layer="21"/>
@@ -312,7 +312,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="TYR_SOT-23-6P" urn="urn:adsk.eagle:footprint:14733123/1" library_version="1">
+<package name="SOT-23-6P" urn="urn:adsk.eagle:footprint:14733123/2" library_version="32">
 <description>&lt;b&gt;SOT-23-6L&lt;/b&gt;&lt;br&gt;</description>
 <circle x="-0.3048" y="1.3176" radius="0.03591875" width="0.1524" layer="21"/>
 <wire x1="-1" y1="1.5" x2="-1" y2="1.7" width="0.1524" layer="21"/>
@@ -330,7 +330,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/2" library_version="23" library_locally_modified="yes">
+<package name="USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/3" library_version="32">
 <wire x1="-5" y1="-4.475" x2="5" y2="-4.475" width="0.127" layer="49"/>
 <wire x1="-5.575" y1="1.175" x2="-5.875" y2="1.475" width="0.01" layer="46" curve="-90"/>
 <wire x1="-5.875" y1="1.475" x2="-5.875" y2="2.275" width="0.01" layer="46"/>
@@ -384,7 +384,7 @@ by exp-lbrs.ulp</description>
 <pad name="P$11" x="-5.575" y="-2.125" drill="0.6" diameter="0.8"/>
 <pad name="P$12" x="5.575" y="-2.125" drill="0.6" diameter="0.8"/>
 </package>
-<package name="CONTROLLER_CRYSTAL-3.2X2.5" urn="urn:adsk.eagle:footprint:14733099/1" library_version="1">
+<package name="CRYSTAL-3.2X2.5" urn="urn:adsk.eagle:footprint:14733099/2" library_version="32">
 <wire x1="-1.1" y1="-1.6" x2="-1.95" y2="-1.6" width="0.1524" layer="21"/>
 <wire x1="-1.95" y1="-1.6" x2="-1.95" y2="-0.4" width="0.1524" layer="21"/>
 <wire x1="-1.95" y1="0.4" x2="-1.95" y2="1.6" width="0.1524" layer="21"/>
@@ -405,7 +405,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.412" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.412" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/4" locally_modified="yes" library_version="28" library_locally_modified="yes">
+<package name="MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/6" library_version="32">
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -443,7 +443,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="5.465" y="5.08" dx="4" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/4" library_version="27">
+<package name="MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/5" library_version="32">
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -481,7 +481,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="5.465" y="5.08" dx="4" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="COMPONENTS_SOD-123" urn="urn:adsk.eagle:footprint:14733100/1" library_version="1">
+<package name="SOD-123" urn="urn:adsk.eagle:footprint:14733100/2" library_version="32">
 <description>SOD-123 footprint</description>
 <wire x1="-1.7" y1="0.8" x2="-2.3" y2="0.8" width="0.1524" layer="21"/>
 <wire x1="-2.3" y1="0.8" x2="-2.3" y2="-0.8" width="0.1524" layer="21"/>
@@ -499,7 +499,7 @@ by exp-lbrs.ulp</description>
 <vertex x="0.4" y="0"/>
 </polygon>
 </package>
-<package name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/4" library_version="27">
+<package name="MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/5" library_version="32">
 <description>Keyboard switch package!</description>
 <wire x1="-7.8" y1="-6.8" x2="-7.8" y2="6.8" width="0.125" layer="47"/>
 <wire x1="-7.8" y1="6.8" x2="-6.8" y2="7.8" width="0.125" layer="47" curve="-90"/>
@@ -541,7 +541,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="5.465" y="5.08" dx="4" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:footprint:14733125/1" library_version="1">
+<package name="WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:footprint:14733125/2" library_version="32">
 <circle x="-4" y="-1" radius="0.1" width="0.2032" layer="21"/>
 <wire x1="-1.7" y1="1.4" x2="-1.7" y2="-1.4" width="0.01" layer="46"/>
 <wire x1="-1.7" y1="-1.4" x2="-1.6" y2="-1.5" width="0.01" layer="46" curve="90"/>
@@ -1491,9 +1491,9 @@ by exp-lbrs.ulp</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="COMPONENTS_C0603" urn="urn:adsk.eagle:package:14733142/2" type="model" library_version="3">
+<package3d name="COMPONENTS_C0603" urn="urn:adsk.eagle:package:14733142/3" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="COMPONENTS_C0603"/>
+<packageinstance name="C0603"/>
 </packageinstances>
 </package3d>
 <package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/3" type="empty" library_version="23" library_locally_modified="yes">
@@ -1506,80 +1506,76 @@ by exp-lbrs.ulp</description>
 <packageinstance name="TYR_TYR_DISPLAY"/>
 </packageinstances>
 </package3d>
-<package3d name="COMPONENTS_R0603" urn="urn:adsk.eagle:package:14733141/2" type="model" library_version="3">
+<package3d name="COMPONENTS_R0603" urn="urn:adsk.eagle:package:14733141/3" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="COMPONENTS_R0603"/>
+<packageinstance name="R0603"/>
 </packageinstances>
 </package3d>
-<package3d name="MICROBUILDER_2512" urn="urn:adsk.eagle:package:14733132/2" type="model" library_version="10">
+<package3d name="MICROBUILDER_2512" urn="urn:adsk.eagle:package:14733132/3" type="model" library_version="32">
 <description>&lt;b&gt;RESISTOR 2512 (Metric 6432)&lt;/b&gt;</description>
 <packageinstances>
-<packageinstance name="MICROBUILDER_2512"/>
+<packageinstance name="R2512"/>
 </packageinstances>
 </package3d>
-<package3d name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:package:14733131/2" type="empty" library_version="10">
+<package3d name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:package:14733131/3" type="empty" library_version="32">
 <packageinstances>
-<packageinstance name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE"/>
+<packageinstance name="SOLDERJUMPER_ARROW_NOPASTE"/>
 </packageinstances>
 </package3d>
-<package3d name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:package:14733138/4" type="model" library_version="10">
-<description>4-SOT143, 1.90 mm pitch, 2.30 mm span, 2.90 X 1.30 X 1.10 mm body
-&lt;p&gt;4-pin SOT143 package with 1.90 mm pitch, 2.30 mm span with body size 2.90 X 1.30 X 1.10 mm&lt;/p&gt;</description>
+<package3d name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:package:14733138/5" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="CONTROLLER_PRTR5V0U2X"/>
+<packageinstance name="PRTR5V0U2X"/>
 </packageinstances>
 </package3d>
-<package3d name="MICROBUILDER_SOT23-8" urn="urn:adsk.eagle:package:14733130/3" type="model" library_version="10">
+<package3d name="MICROBUILDER_SOT23-8" urn="urn:adsk.eagle:package:14733130/4" type="model" library_version="32">
 <description>&lt;b&gt;Source: &lt;/b&gt;http://www.ti.com/lit/ml/mpds099c/mpds099c.pdf</description>
 <packageinstances>
-<packageinstance name="MICROBUILDER_SOT23-8"/>
+<packageinstance name="SOT23-8"/>
 </packageinstances>
 </package3d>
-<package3d name="TYR_SOT-23-6P" urn="urn:adsk.eagle:package:14733128/3" type="model" library_version="10">
+<package3d name="TYR_SOT-23-6P" urn="urn:adsk.eagle:package:14733128/4" type="model" library_version="32">
 <description>&lt;b&gt;SOT-23-6L&lt;/b&gt;&lt;br&gt;</description>
 <packageinstances>
-<packageinstance name="TYR_SOT-23-6P"/>
+<packageinstance name="SOT-23-6P"/>
 </packageinstances>
 </package3d>
-<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/3" type="model" library_version="23" library_locally_modified="yes">
+<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/4" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="CONTROLLER_USB-C-12P-INBOARD"/>
+<packageinstance name="USB-C-12P-INBOARD"/>
 </packageinstances>
 </package3d>
-<package3d name="OSCCC320X250X70L" urn="urn:adsk.eagle:package:14733139/4" type="model" library_version="10">
-<description>Oscillator Corner Concave, 3.20 X 2.50 X 0.70 mm body
-&lt;p&gt;Oscillator Corner Concave package with body size 3.20 X 2.50 X 0.70 mm&lt;/p&gt;</description>
+<package3d name="OSCCC320X250X70L" urn="urn:adsk.eagle:package:14733139/5" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="CONTROLLER_CRYSTAL-3.2X2.5"/>
+<packageinstance name="CRYSTAL-3.2X2.5"/>
 </packageinstances>
 </package3d>
-<package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/5" type="model" library_version="27">
+<package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/6" type="model" library_version="32">
 <description>Keyboard switch package!</description>
 <packageinstances>
-<packageinstance name="KEYBOARD_MX-2U-HOTSWAP"/>
+<packageinstance name="MX-2U-HOTSWAP"/>
 </packageinstances>
 </package3d>
-<package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/5" type="model" library_version="28" library_locally_modified="yes">
+<package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/7" type="model" library_version="32">
 <description>Keyboard switch package!</description>
 <packageinstances>
-<packageinstance name="KEYBOARD_MX-1U-HOTSWAP"/>
+<packageinstance name="MX-1U-HOTSWAP"/>
 </packageinstances>
 </package3d>
-<package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/5" type="model" library_version="27">
+<package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/6" type="model" library_version="32">
 <description>Keyboard switch package!</description>
 <packageinstances>
-<packageinstance name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK"/>
+<packageinstance name="MX-1U-HOTSWAP-CAPSLOCK"/>
 </packageinstances>
 </package3d>
-<package3d name="COMPONENTS_SOD-123" urn="urn:adsk.eagle:package:14733140/2" type="model" library_version="3">
+<package3d name="COMPONENTS_SOD-123" urn="urn:adsk.eagle:package:14733140/3" type="model" library_version="32">
 <description>SOD-123 footprint</description>
 <packageinstances>
-<packageinstance name="COMPONENTS_SOD-123"/>
+<packageinstance name="SOD-123"/>
 </packageinstances>
 </package3d>
-<package3d name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:package:14733126/2" type="model" library_version="10">
+<package3d name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:package:14733126/3" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="TYR_WS2812B_3528_REVERS-MOUNT"/>
+<packageinstance name="WS2812B_3528_REVERS-MOUNT"/>
 </packageinstances>
 </package3d>
 <package3d name="C0402" urn="urn:adsk.eagle:package:14872700/1" type="box" library_version="16">
@@ -1637,7 +1633,7 @@ by exp-lbrs.ulp</description>
 </package3d>
 </packages3d>
 <symbols>
-<symbol name="COMPONENTS_CAPACITOR" urn="urn:adsk.eagle:symbol:14733120/1" library_version="1">
+<symbol name="CAPACITOR" urn="urn:adsk.eagle:symbol:14733120/2" library_version="32">
 <rectangle x1="-1.524" y1="-0.254" x2="2.54" y2="0.254" layer="94" rot="R90"/>
 <rectangle x1="-2.54" y1="-0.254" x2="1.524" y2="0.254" layer="94" rot="R90"/>
 <wire x1="-2.54" y1="0" x2="-0.762" y2="0" width="0.1524" layer="94"/>
@@ -1673,7 +1669,7 @@ by exp-lbrs.ulp</description>
 <text x="343.916" y="4.953" size="2.54" layer="94">Sheet:</text>
 <frame x1="0" y1="0" x2="387.35" y2="260.35" columns="8" rows="5" layer="94"/>
 </symbol>
-<symbol name="HOLE_HOLE" urn="urn:adsk.eagle:symbol:14733113/2" library_version="28" library_locally_modified="yes">
+<symbol name="HOLE" urn="urn:adsk.eagle:symbol:14733113/3" library_version="32">
 <circle x="0" y="0" radius="2.54" width="0.254" layer="94"/>
 <pin name="CASE" x="0" y="0" length="short" rot="R90"/>
 </symbol>
@@ -1697,7 +1693,7 @@ by exp-lbrs.ulp</description>
 <pin name="4" x="5.08" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
 <pin name="5" x="12.7" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
 </symbol>
-<symbol name="COMPONENTS_RESISTOR" urn="urn:adsk.eagle:symbol:14733118/1" library_version="1">
+<symbol name="RESISTOR" urn="urn:adsk.eagle:symbol:14733118/2" library_version="32">
 <wire x1="-2.54" y1="-0.889" x2="2.54" y2="-0.889" width="0.254" layer="94"/>
 <wire x1="2.54" y1="0.889" x2="-2.54" y2="0.889" width="0.254" layer="94"/>
 <wire x1="2.54" y1="-0.889" x2="2.54" y2="0.889" width="0.254" layer="94"/>
@@ -1707,17 +1703,7 @@ by exp-lbrs.ulp</description>
 <text x="-3.81" y="1.4986" size="1.778" layer="95">&gt;NAME</text>
 <text x="-3.81" y="-3.302" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_RESISTOR" urn="urn:adsk.eagle:symbol:14733110/1" library_version="1">
-<wire x1="-2.54" y1="1.27" x2="2.54" y2="1.27" width="0.254" layer="94"/>
-<wire x1="2.54" y1="1.27" x2="2.54" y2="-1.27" width="0.254" layer="94"/>
-<wire x1="2.54" y1="-1.27" x2="-2.54" y2="-1.27" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="-1.27" x2="-2.54" y2="1.27" width="0.254" layer="94"/>
-<pin name="1" x="-5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1"/>
-<pin name="2" x="5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<text x="-2.54" y="2.032" size="1.27" layer="95" font="vector">&gt;NAME</text>
-<text x="-2.54" y="-3.175" size="1.27" layer="96" font="vector">&gt;VALUE</text>
-</symbol>
-<symbol name="MICROBUILDER_SOLDERJUMPER" urn="urn:adsk.eagle:symbol:14733109/1" library_version="1">
+<symbol name="SOLDERJUMPER" urn="urn:adsk.eagle:symbol:14733109/2" library_version="32">
 <wire x1="0.381" y1="0.635" x2="0.381" y2="-0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
 <wire x1="-0.381" y1="-0.635" x2="-0.381" y2="0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
 <wire x1="2.54" y1="0" x2="1.651" y2="0" width="0.1524" layer="94"/>
@@ -1727,19 +1713,17 @@ by exp-lbrs.ulp</description>
 <text x="-2.54" y="2.54" size="1.778" layer="95">&gt;NAME</text>
 <text x="-2.54" y="-3.81" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="SUPPLY2_VCC" urn="urn:adsk.eagle:symbol:14733107/1" library_version="1">
+<symbol name="VCC" urn="urn:adsk.eagle:symbol:14733107/2" locally_modified="yes" library_version="32" library_locally_modified="yes">
 <circle x="0" y="1.27" radius="1.27" width="0.254" layer="94"/>
 <pin name="VCC" x="0" y="-2.54" visible="off" length="short" direction="sup" rot="R90"/>
-<text x="-1.905" y="3.175" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="SUPPLY2_GND" urn="urn:adsk.eagle:symbol:14733108/1" library_version="1">
+<symbol name="GND" urn="urn:adsk.eagle:symbol:14733108/2" locally_modified="yes" library_version="32" library_locally_modified="yes">
 <wire x1="-1.27" y1="0" x2="1.27" y2="0" width="0.254" layer="94"/>
 <wire x1="1.27" y1="0" x2="0" y2="-1.27" width="0.254" layer="94"/>
 <wire x1="0" y1="-1.27" x2="-1.27" y2="0" width="0.254" layer="94"/>
 <pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
-<text x="-1.905" y="-3.175" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:symbol:14733116/1" library_version="1">
+<symbol name="PRTR5V0U2X" urn="urn:adsk.eagle:symbol:14733116/2" library_version="32">
 <circle x="-7.62" y="1.27" radius="0.254" width="0.254" layer="94"/>
 <circle x="7.62" y="1.27" radius="0.254" width="0.254" layer="94"/>
 <circle x="-7.62" y="5.08" radius="0.254" width="0.254" layer="94"/>
@@ -1821,7 +1805,7 @@ by exp-lbrs.ulp</description>
 <text x="-7.366" y="-6.35" size="1.27" layer="97" font="vector" align="center">I/O 1</text>
 <text x="7.62" y="-6.35" size="1.27" layer="97" font="vector" align="center">I/O 2</text>
 </symbol>
-<symbol name="MICROBUILDER_INA219" urn="urn:adsk.eagle:symbol:14733111/1" library_version="1">
+<symbol name="INA219" urn="urn:adsk.eagle:symbol:14733111/2" library_version="32">
 <wire x1="-10.16" y1="17.78" x2="10.16" y2="17.78" width="0.254" layer="94"/>
 <wire x1="10.16" y1="17.78" x2="10.16" y2="10.16" width="0.254" layer="94"/>
 <wire x1="10.16" y1="10.16" x2="10.16" y2="-12.7" width="0.254" layer="94"/>
@@ -1847,7 +1831,7 @@ by exp-lbrs.ulp</description>
 <text x="-7.62" y="-15.24" size="1.27" layer="94">VCC:</text>
 <text x="0" y="-15.24" size="1.27" layer="94">3-5.5V</text>
 </symbol>
-<symbol name="TYR_TPS2552" urn="urn:adsk.eagle:symbol:14733105/1" library_version="1">
+<symbol name="TPS2552" urn="urn:adsk.eagle:symbol:14733105/2" library_version="32">
 <wire x1="-7.62" y1="12.7" x2="-7.62" y2="5.08" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="5.08" x2="-7.62" y2="-10.16" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-10.16" x2="7.62" y2="-10.16" width="0.254" layer="94"/>
@@ -1865,7 +1849,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="10.16" size="1.778" layer="94" align="center">TPS2552</text>
 <text x="0" y="7.62" size="1.778" layer="94" align="center">Curr Limiting</text>
 </symbol>
-<symbol name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:symbol:14733115/1" library_version="1">
+<symbol name="USB-C-12P" urn="urn:adsk.eagle:symbol:14733115/2" library_version="32">
 <wire x1="-2.54" y1="20.32" x2="-2.54" y2="-17.526" width="0.254" layer="94"/>
 <wire x1="-2.54" y1="-17.526" x2="-1.27" y2="-19.05" width="0.254" layer="94" curve="90"/>
 <wire x1="5.08" y1="-19.05" x2="6.35" y2="-17.78" width="0.254" layer="94" curve="90"/>
@@ -1898,7 +1882,7 @@ by exp-lbrs.ulp</description>
 <text x="2.54" y="22.86" size="1.778" layer="95" align="center">&gt;NAME</text>
 <text x="2.54" y="-20.32" size="1.778" layer="96" rot="R180" align="center">&gt;VALUE</text>
 </symbol>
-<symbol name="CONTROLLER_CRYSTAL-4PAD" urn="urn:adsk.eagle:symbol:14733117/1" library_version="1">
+<symbol name="CRYSTAL-4PAD" urn="urn:adsk.eagle:symbol:14733117/2" library_version="32">
 <wire x1="-3.683" y1="1.524" x2="-3.683" y2="-1.524" width="0.254" layer="94"/>
 <wire x1="-3.683" y1="-1.524" x2="-1.397" y2="-1.524" width="0.254" layer="94"/>
 <wire x1="-1.397" y1="-1.524" x2="-1.397" y2="1.524" width="0.254" layer="94"/>
@@ -1914,7 +1898,7 @@ by exp-lbrs.ulp</description>
 <text x="-1.016" y="-1.143" size="0.8636" layer="93">2</text>
 <text x="-3.048" y="-2.667" size="0.8636" layer="93" align="top-right">GND</text>
 </symbol>
-<symbol name="KEYBOARD_KEYSWITCH-PLAIN" urn="urn:adsk.eagle:symbol:14733112/1" library_version="1">
+<symbol name="KEYSWITCH-PLAIN" urn="urn:adsk.eagle:symbol:14733112/2" library_version="32">
 <description>Keyboard switch without LEDs.</description>
 <wire x1="-7.54" y1="7.54" x2="7.54" y2="7.54" width="0.254" layer="94"/>
 <wire x1="7.54" y1="7.54" x2="7.54" y2="-7.54" width="0.254" layer="94"/>
@@ -1937,7 +1921,7 @@ by exp-lbrs.ulp</description>
 <pin name="P1" x="2.54" y="10.16" length="short" swaplevel="1" rot="R270"/>
 <text x="-6.81" y="5.318" size="1" layer="95">&gt;NAME</text>
 </symbol>
-<symbol name="COMPONENTS_DIODE" urn="urn:adsk.eagle:symbol:14733119/1" library_version="1">
+<symbol name="DIODE" urn="urn:adsk.eagle:symbol:14733119/2" library_version="32">
 <wire x1="-1.27" y1="-1.905" x2="1.27" y2="0" width="0.254" layer="94"/>
 <wire x1="1.27" y1="0" x2="-1.27" y2="1.905" width="0.254" layer="94"/>
 <wire x1="-1.27" y1="1.905" x2="-1.27" y2="0" width="0.254" layer="94"/>
@@ -1950,7 +1934,7 @@ by exp-lbrs.ulp</description>
 <text x="-2.3114" y="2.6416" size="1.778" layer="95">&gt;NAME</text>
 <text x="-2.5654" y="-4.4958" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:symbol:14733103/1" library_version="1">
+<symbol name="WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:symbol:14733103/2" library_version="32">
 <wire x1="-7.62" y1="7.62" x2="-7.62" y2="-5.08" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-5.08" x2="-7.62" y2="-7.62" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-7.62" x2="0" y2="-7.62" width="0.254" layer="94"/>
@@ -2168,18 +2152,18 @@ by exp-lbrs.ulp</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="COMPONENTS_CAPACITOR" urn="urn:adsk.eagle:component:14733161/3" prefix="C" uservalue="yes" library_version="16">
+<deviceset name="CAPACITOR" urn="urn:adsk.eagle:component:14733161/5" prefix="C" uservalue="yes" library_version="32">
 <gates>
-<gate name="G$1" symbol="COMPONENTS_CAPACITOR" x="0" y="0"/>
+<gate name="G$1" symbol="CAPACITOR" x="0" y="0"/>
 </gates>
 <devices>
-<device name="-0603" package="COMPONENTS_C0603">
+<device name="-0603" package="C0603">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733142/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733142/3"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2199,7 +2183,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="FRAMES_A3L-LOC" urn="urn:adsk.eagle:component:14733155/1" prefix="FRAME" uservalue="yes" library_version="1">
+<deviceset name="A3L-LOC" urn="urn:adsk.eagle:component:14733155/2" prefix="FRAME" uservalue="yes" library_version="30" library_locally_modified="yes">
 <description>&lt;b&gt;FRAME&lt;/b&gt;&lt;p&gt;
 DIN A3, landscape with location and doc. field</description>
 <gates>
@@ -2213,9 +2197,9 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="HOLE_MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/7" prefix="HOLE" library_version="28" library_locally_modified="yes">
+<deviceset name="MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/9" prefix="HOLE" library_version="32">
 <gates>
-<gate name="G$1" symbol="HOLE_HOLE" x="0" y="0"/>
+<gate name="G$1" symbol="HOLE" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="HOLE_M3_OVAL">
@@ -2242,7 +2226,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/4" prefix="J" library_version="23" library_locally_modified="yes">
+<deviceset name="TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/5" prefix="J" library_version="30" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="TYR_TYR_DISPLAY" x="0" y="0"/>
 </gates>
@@ -2264,18 +2248,30 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="COMPONENTS_RESISTOR" urn="urn:adsk.eagle:component:14733159/2" prefix="R" uservalue="yes" library_version="3">
+<deviceset name="RESISTOR" urn="urn:adsk.eagle:component:14733159/5" prefix="R" uservalue="yes" library_version="32">
 <gates>
-<gate name="G$1" symbol="COMPONENTS_RESISTOR" x="0" y="0"/>
+<gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
 <devices>
-<device name="-0603" package="COMPONENTS_R0603">
+<device name="-0603" package="R0603">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733141/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733141/3"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-2512" package="R2512">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733132/3"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2283,107 +2279,23 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_RESISTOR" urn="urn:adsk.eagle:component:14733150/2" prefix="R" uservalue="yes" library_version="10">
-<description>&lt;p&gt;&lt;b&gt;Resistors&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt;0402&lt;/b&gt; - 0402 Surface Mount Package
-&lt;ul&gt;
-&lt;li&gt;22 Ohm 1% 1/16W [Digikey: 311-22.0LRTR-ND]&lt;/li&gt;
-&lt;li&gt;33 Ohm 5% 1/16W&lt;/li&gt;
-&lt;li&gt;1.0K 5% 1/16W&lt;/li&gt;
-&lt;li&gt;1.5K 5% 1/16W&lt;/li&gt;
-&lt;li&gt;2.0K 1% 1/16W&lt;/li&gt;
-&lt;li&gt;10.0K 1% 1/16W [Digikey: 311-10.0KLRTR-ND]&lt;/li&gt;
-&lt;li&gt;10.0K 5% 1/16W [Digikey: RMCF0402JT10K0TR-ND]&lt;/li&gt;
-&lt;li&gt;12.1K 1% 1/16W [Digikey: 311-22.0LRTR-ND]&lt;/li&gt;
-&lt;li&gt;100.0K 5% 1/16W&lt;/li&gt;
-&lt;/ul&gt;
-&lt;b&gt;0603&lt;/b&gt; - 0603 Surface Mount Package&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;0 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;15 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;33 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;49.9 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;100 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;150 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;240 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;390 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;560 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;680 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;750 Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;1.0K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;1.5K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;2.0K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;2.2K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;3.3K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;4.7K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;10.0K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;12.0K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;12.1K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;20.0K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;33.0K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;100.0K Ohm 1/10 Watt 1% Resistor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;b&gt;0805&lt;/b&gt; - 0805 Surface Mount Package
-&lt;ul&gt;
-&lt;li&gt;0 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;33 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;100 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;150 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;200 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;240 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;330 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;390 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;470 Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;1.0K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;1.5K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;2.0K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;4.7K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;5.1K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;5.6K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;10.0K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;22.0K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;33.0K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;li&gt;100K Ohm 1/8 Watt 1% Resistor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;b&gt;1206&lt;/b&gt; - 1206 Surface Mount Package&lt;br/&gt;
-&lt;br/&gt;
-&lt;b&gt;2012&lt;/b&gt; - 2010 Surface Mount Package&lt;br/&gt;
-&lt;ul&gt;&lt;li&gt;0.11 Ohm 1/2 Watt 1% Resistor - Digikey: RHM.11UCT-ND&lt;/li&gt;&lt;/ul&gt;</description>
-<gates>
-<gate name="G$1" symbol="MICROBUILDER_RESISTOR" x="0" y="0"/>
-</gates>
-<devices>
-<device name="2512" package="MICROBUILDER_2512">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733132/2"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="MICROBUILDER_SOLDERJUMPER" urn="urn:adsk.eagle:component:14733149/2" prefix="SJ" uservalue="yes" library_version="10">
+<deviceset name="SOLDERJUMPER" urn="urn:adsk.eagle:component:14733149/4" prefix="SJ" uservalue="yes" library_version="32">
 <description>&lt;p&gt;&lt;b&gt;SMD Solder JUMPER&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Solder the two pads together to create a connection, or remove the solder to break it.&lt;/p&gt;
 &lt;b&gt;REFLOW&lt;/b&gt; - Use this footprint for solder paste and reflow ovens.&lt;br/&gt;
 &lt;b&gt;WAVE&lt;/b&gt; - Use this footprint for hand-soldering (larger pads).
 &lt;p&gt;&lt;b&gt;CLOSED&lt;/b&gt; - Has a trace between the two pads to ensure it is closed by default.  The trace needs to be cut to disable the jumper, and can be closed again by creating a solder bridge between the two pads.&lt;/p&gt;</description>
 <gates>
-<gate name="1" symbol="MICROBUILDER_SOLDERJUMPER" x="0" y="0"/>
+<gate name="1" symbol="SOLDERJUMPER" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE">
+<device name="" package="SOLDERJUMPER_ARROW_NOPASTE">
 <connects>
 <connect gate="1" pin="1" pad="1"/>
 <connect gate="1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733131/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733131/3"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2393,10 +2305,10 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SUPPLY2_VCC" urn="urn:adsk.eagle:component:14733147/1" prefix="SUPPLY" library_version="1">
+<deviceset name="VCC" urn="urn:adsk.eagle:component:14733147/3" prefix="SUPPLY" library_version="32" library_locally_modified="yes">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
-<gate name="G$1" symbol="SUPPLY2_VCC" x="0" y="0"/>
+<gate name="G$1" symbol="VCC" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -2406,10 +2318,10 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SUPPLY2_GND" urn="urn:adsk.eagle:component:14733148/1" prefix="SUPPLY" library_version="1">
+<deviceset name="GND" urn="urn:adsk.eagle:component:14733148/3" prefix="SUPPLY" library_version="32" library_locally_modified="yes">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
-<gate name="GND" symbol="SUPPLY2_GND" x="0" y="0"/>
+<gate name="GND" symbol="GND" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -2419,12 +2331,12 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:component:14733157/2" prefix="U" library_version="10">
+<deviceset name="PRTR5V0U2X" urn="urn:adsk.eagle:component:14733157/4" prefix="U" library_version="32">
 <gates>
-<gate name="G$1" symbol="CONTROLLER_PRTR5V0U2X" x="0" y="0"/>
+<gate name="G$1" symbol="PRTR5V0U2X" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="CONTROLLER_PRTR5V0U2X">
+<device name="" package="PRTR5V0U2X">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -2432,7 +2344,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="4" pad="4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733138/4"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733138/5"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2440,7 +2352,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_INA219" urn="urn:adsk.eagle:component:14733151/2" prefix="U" uservalue="yes" library_version="10">
+<deviceset name="INA219" urn="urn:adsk.eagle:component:14733151/4" prefix="U" uservalue="yes" library_version="32">
 <description>&lt;b&gt;INA219 - I2C Current/Power Monitor&lt;/b&gt;
 &lt;ul&gt;
 &lt;li&gt;Voltage Range: 0-26V&lt;/li&gt;
@@ -2448,10 +2360,10 @@ DIN A3, landscape with location and doc. field</description>
 &lt;li&gt;Temperature: -40°C - 125°C&lt;/li&gt;
 &lt;/ul&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_INA219" x="0" y="0"/>
+<gate name="G$1" symbol="INA219" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_SOT23-8">
+<device name="" package="SOT23-8">
 <connects>
 <connect gate="G$1" pin="A0" pad="7"/>
 <connect gate="G$1" pin="A1" pad="8"/>
@@ -2463,7 +2375,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="VIN-" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733130/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733130/4"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2471,12 +2383,12 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_TPS2552" urn="urn:adsk.eagle:component:14733145/2" prefix="U" library_version="10">
+<deviceset name="TPS2552" urn="urn:adsk.eagle:component:14733145/4" prefix="U" library_version="32">
 <gates>
-<gate name="G$1" symbol="TYR_TPS2552" x="0" y="0"/>
+<gate name="G$1" symbol="TPS2552" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="TYR_SOT-23-6P">
+<device name="" package="SOT-23-6P">
 <connects>
 <connect gate="G$1" pin="EN" pad="3"/>
 <connect gate="G$1" pin="FAULT" pad="4"/>
@@ -2486,7 +2398,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="OUT" pad="6"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733128/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733128/4"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2494,12 +2406,12 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:component:14733156/4" prefix="X" library_version="28" library_locally_modified="yes">
+<deviceset name="CONTROLLER_USB-C-12P" urn="urn:adsk.eagle:component:14733156/5" prefix="X" library_version="32">
 <gates>
-<gate name="G$1" symbol="CONTROLLER_USB-C-12P" x="-2.54" y="0"/>
+<gate name="G$1" symbol="USB-C-12P" x="-2.54" y="0"/>
 </gates>
 <devices>
-<device name="USB-C-12P-INBOARD" package="CONTROLLER_USB-C-12P-INBOARD">
+<device name="USB-C-12P-INBOARD" package="USB-C-12P-INBOARD">
 <connects>
 <connect gate="G$1" pin="CC1" pad="CC1"/>
 <connect gate="G$1" pin="CC2" pad="CC2"/>
@@ -2516,7 +2428,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="VBUS2" pad="VBUS2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733137/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733137/4"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2524,19 +2436,19 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CONTROLLER_CRYSTAL-4PIN" urn="urn:adsk.eagle:component:14733158/2" prefix="Y" uservalue="yes" library_version="10">
+<deviceset name="CRYSTAL-4PIN" urn="urn:adsk.eagle:component:14733158/4" prefix="Y" uservalue="yes" library_version="32">
 <gates>
-<gate name="G$1" symbol="CONTROLLER_CRYSTAL-4PAD" x="0" y="0"/>
+<gate name="G$1" symbol="CRYSTAL-4PAD" x="0" y="0"/>
 </gates>
 <devices>
-<device name="-3.2X2.5" package="CONTROLLER_CRYSTAL-3.2X2.5">
+<device name="-3.2X2.5" package="CRYSTAL-3.2X2.5">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="3"/>
 <connect gate="G$1" pin="GND" pad="2 4"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733139/4"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733139/5"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2544,32 +2456,32 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" urn="urn:adsk.eagle:component:14733153/5" locally_modified="yes" prefix="SW" library_version="28" library_locally_modified="yes">
+<deviceset name="KEYSWITCH-MX-1U-HOTSWAP" urn="urn:adsk.eagle:component:14733153/8" prefix="SW" library_version="32">
 <gates>
-<gate name="G$1" symbol="KEYBOARD_KEYSWITCH-PLAIN" x="0" y="0"/>
+<gate name="G$1" symbol="KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="KEYBOARD_MX-1U-HOTSWAP">
+<device name="" package="MX-1U-HOTSWAP">
 <connects>
 <connect gate="G$1" pin="HOLE" pad="HOLE1 HOLE4 HOLE5"/>
 <connect gate="G$1" pin="P0" pad="HOLE2 P$2"/>
 <connect gate="G$1" pin="P1" pad="HOLE3 P$1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733135/5"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733135/7"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
-<device name="CAPSLOCK" package="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK">
+<device name="CAPSLOCK" package="MX-1U-HOTSWAP-CAPSLOCK">
 <connects>
 <connect gate="G$1" pin="HOLE" pad="HOLE1 HOLE4 HOLE5"/>
 <connect gate="G$1" pin="P0" pad="HOLE2 P$2"/>
 <connect gate="G$1" pin="P1" pad="HOLE3 P$1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733134/5"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733134/6"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2577,19 +2489,19 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="COMPONENTS_DIODE" urn="urn:adsk.eagle:component:14733160/2" prefix="D" uservalue="yes" library_version="3">
+<deviceset name="DIODE" urn="urn:adsk.eagle:component:14733160/4" prefix="D" uservalue="yes" library_version="32">
 <description>Standard 1N4148 diode</description>
 <gates>
-<gate name="D$1" symbol="COMPONENTS_DIODE" x="0" y="0"/>
+<gate name="D$1" symbol="DIODE" x="0" y="0"/>
 </gates>
 <devices>
-<device name="-SOD-123" package="COMPONENTS_SOD-123">
+<device name="-SOD-123" package="SOD-123">
 <connects>
 <connect gate="D$1" pin="A" pad="A"/>
 <connect gate="D$1" pin="C" pad="C"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733140/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733140/3"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2599,19 +2511,19 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" urn="urn:adsk.eagle:component:14733152/5" locally_modified="yes" prefix="SW" library_version="28" library_locally_modified="yes">
+<deviceset name="KEYSWITCH-MX-2U-HOTSWAP" urn="urn:adsk.eagle:component:14733152/8" prefix="SW" library_version="32">
 <gates>
-<gate name="G$1" symbol="KEYBOARD_KEYSWITCH-PLAIN" x="0" y="0"/>
+<gate name="G$1" symbol="KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="KEYBOARD_MX-2U-HOTSWAP">
+<device name="" package="MX-2U-HOTSWAP">
 <connects>
 <connect gate="G$1" pin="HOLE" pad="HOLE1 HOLE4 HOLE5 HOLE6 HOLE7 HOLE8 HOLE9"/>
 <connect gate="G$1" pin="P0" pad="HOLE2 P$2"/>
 <connect gate="G$1" pin="P1" pad="HOLE3 P$1"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733133/5"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733133/6"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2619,12 +2531,12 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:component:14733143/2" prefix="LED" library_version="10">
+<deviceset name="WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:component:14733143/4" prefix="LED" library_version="32">
 <gates>
-<gate name="G$1" symbol="TYR_WS2812B_3528_REVERS-MOUNT" x="0" y="0"/>
+<gate name="G$1" symbol="WS2812B_3528_REVERS-MOUNT" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="TYR_WS2812B_3528_REVERS-MOUNT">
+<device name="" package="WS2812B_3528_REVERS-MOUNT">
 <connects>
 <connect gate="G$1" pin="DI" pad="DIN"/>
 <connect gate="G$1" pin="DO" pad="DOUT"/>
@@ -2632,7 +2544,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="VDD" pad="VDD"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733126/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733126/3"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2787,20 +2699,20 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DIODE_SCHOTTKY" urn="urn:adsk.eagle:component:14977226/1" prefix="D" library_version="21" library_locally_modified="yes">
+<deviceset name="DIODE_SCHOTTKY" urn="urn:adsk.eagle:component:14977226/2" prefix="D" library_version="32">
 <description>&lt;b&gt;Schottky barrier diode&lt;/b&gt;&lt;p&gt;
 Source: www.st.com, BAT60J.pdf</description>
 <gates>
 <gate name="G$1" symbol="SCHOTTKY" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="COMPONENTS_SOD-123">
+<device name="" package="SOD-123">
 <connects>
 <connect gate="G$1" pin="A" pad="A"/>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733140/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733140/3"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2808,7 +2720,7 @@ Source: www.st.com, BAT60J.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MB85RC256V" urn="urn:adsk.eagle:component:14977225/2" locally_modified="yes" prefix="U" library_version="28" library_locally_modified="yes">
+<deviceset name="MB85RC256V" urn="urn:adsk.eagle:component:14977225/3" prefix="U" library_version="29" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="MB85RC256V" x="0" y="0"/>
 </gates>
@@ -2833,7 +2745,7 @@ Source: www.st.com, BAT60J.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="LOGO_TYR" urn="urn:adsk.eagle:component:14993496/2" locally_modified="yes" prefix="LOGO" library_version="28" library_locally_modified="yes">
+<deviceset name="LOGO_TYR" urn="urn:adsk.eagle:component:14993496/3" prefix="LOGO" library_version="29" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="LOGO_TYR" x="0" y="0"/>
 </gates>
@@ -2860,323 +2772,323 @@ Source: www.st.com, BAT60J.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK"/>
-<part name="D27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/5"/>
-<part name="D34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/5"/>
-<part name="D43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/5"/>
-<part name="D44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/3" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD"/>
-<part name="SUPPLY10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
-<part name="SUPPLY8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
-<part name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_TYR_DISPLAY" device="" package3d_urn="urn:adsk.eagle:package:14733127/4"/>
-<part name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_PRTR5V0U2X" device="" package3d_urn="urn:adsk.eagle:package:14733138/4" value="CONTROLLER_PRTR5V0U2X"/>
-<part name="SUPPLY13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="LED41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/2"/>
-<part name="U6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_TPS2552" device="" package3d_urn="urn:adsk.eagle:package:14733128/3"/>
-<part name="U5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MICROBUILDER_INA219" device="" package3d_urn="urn:adsk.eagle:package:14733130/3"/>
-<part name="C15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u"/>
-<part name="SUPPLY22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MICROBUILDER_RESISTOR" device="2512" package3d_urn="urn:adsk.eagle:package:14733132/2" value="0.1/1% (PT2512FK-070R1L)"/>
-<part name="R11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="54.9k"/>
-<part name="SUPPLY25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="FRAME1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="FRAME2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="FRAME3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="R12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
-<part name="SUPPLY27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY59" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY60" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY61" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY62" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY63" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY64" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY72" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY73" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY74" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY75" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY76" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY77" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY85" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY86" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY87" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY88" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY89" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY96" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY97" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY98" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104"/>
-<part name="SUPPLY99" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY58" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY57" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY56" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY55" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY54" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY53" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY65" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY66" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY67" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY68" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY69" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY70" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY71" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY84" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY83" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY82" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY81" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY80" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY79" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY78" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY90" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY91" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY92" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY93" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY94" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY95" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY104" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY103" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY102" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY101" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY100" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u"/>
-<part name="SUPPLY21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="HOLE3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
-<part name="HOLE4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
-<part name="HOLE5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
-<part name="HOLE6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
-<part name="SJ1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MICROBUILDER_SOLDERJUMPER" device="" package3d_urn="urn:adsk.eagle:package:14733131/2"/>
-<part name="SUPPLY28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="R6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k"/>
-<part name="R1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k"/>
-<part name="R3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k"/>
+<part name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/6" value="KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK"/>
+<part name="D27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/6"/>
+<part name="D34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-2U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733133/6"/>
+<part name="D43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX-1U-HOTSWAP" device="" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="D44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/4" value="USB-C-12P-INBOARD"/>
+<part name="SUPPLY10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="VCC" device=""/>
+<part name="SUPPLY8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="VCC" device=""/>
+<part name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_DISPLAY" device="" package3d_urn="urn:adsk.eagle:package:14733127/4"/>
+<part name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="PRTR5V0U2X" device="" package3d_urn="urn:adsk.eagle:package:14733138/5" value="PRTR5V0U2X"/>
+<part name="SUPPLY13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="LED41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
+<part name="U6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TPS2552" device="" package3d_urn="urn:adsk.eagle:package:14733128/4"/>
+<part name="U5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="INA219" device="" package3d_urn="urn:adsk.eagle:package:14733130/4"/>
+<part name="C15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="0.1u"/>
+<part name="SUPPLY22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-2512" package3d_urn="urn:adsk.eagle:package:14733132/3" value="0.1/1% (PT2512FK-070R1L)"/>
+<part name="R11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="54.9k"/>
+<part name="SUPPLY25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="FRAME1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="A3L-LOC" device=""/>
+<part name="FRAME2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="A3L-LOC" device=""/>
+<part name="FRAME3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="A3L-LOC" device=""/>
+<part name="R12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="10k"/>
+<part name="SUPPLY27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY59" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY60" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY61" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY62" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY63" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY64" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY72" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY73" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY74" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY75" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY76" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY77" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY85" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY86" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY87" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY88" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY89" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY96" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY97" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY98" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="SUPPLY99" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY58" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY57" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY56" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY55" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY54" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY53" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY65" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY66" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY67" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY68" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY69" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY70" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY71" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY84" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY83" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY82" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY81" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY80" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY79" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY78" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY90" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY91" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY92" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY93" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY94" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY95" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY104" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY103" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY102" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY101" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY100" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="0.1u"/>
+<part name="SUPPLY21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="HOLE3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
+<part name="HOLE4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
+<part name="HOLE5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
+<part name="HOLE6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="" package3d_urn="urn:adsk.eagle:package:14733136/3"/>
+<part name="SJ1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SOLDERJUMPER" device="" package3d_urn="urn:adsk.eagle:package:14733131/3"/>
+<part name="SUPPLY28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="R6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="100k"/>
+<part name="R1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="5.1k"/>
+<part name="R3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="5.1k"/>
 <part name="U3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="STM32F303CC" device="" package3d_urn="urn:adsk.eagle:package:14872699/4"/>
-<part name="Y1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_CRYSTAL-4PIN" device="-3.2X2.5" package3d_urn="urn:adsk.eagle:package:14733139/4" value="8Mhz"/>
-<part name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p"/>
-<part name="C11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p"/>
-<part name="SUPPLY15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10n"/>
-<part name="C4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="1u"/>
-<part name="C1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="100n"/>
-<part name="C2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="100n"/>
-<part name="C5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="100n"/>
-<part name="C6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u"/>
-<part name="SUPPLY3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="Y1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CRYSTAL-4PIN" device="-3.2X2.5" package3d_urn="urn:adsk.eagle:package:14733139/5" value="8Mhz"/>
+<part name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="22p"/>
+<part name="C11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="22p"/>
+<part name="SUPPLY15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="10n"/>
+<part name="C4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="1u"/>
+<part name="C1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
+<part name="C2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
+<part name="C5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
+<part name="C6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7u"/>
+<part name="SUPPLY3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
 <part name="U1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MCP1700T" device="" package3d_urn="urn:adsk.eagle:package:14872841/4"/>
-<part name="C7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="1u"/>
-<part name="C8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="1u"/>
-<part name="SUPPLY9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="D1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE_SCHOTTKY" device="" package3d_urn="urn:adsk.eagle:package:14733140/2"/>
-<part name="SUPPLY7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="C7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="1u"/>
+<part name="C8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="1u"/>
+<part name="SUPPLY9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="D1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE_SCHOTTKY" device="" package3d_urn="urn:adsk.eagle:package:14733140/3"/>
+<part name="SUPPLY7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="VCC" device=""/>
 <part name="Q1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DTC123J" device="" package3d_urn="urn:adsk.eagle:package:14883423/4"/>
-<part name="SUPPLY14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7n"/>
-<part name="SUPPLY12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="D2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="C13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10u"/>
-<part name="R5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k"/>
-<part name="SUPPLY18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="SUPPLY14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7n"/>
+<part name="SUPPLY12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="D2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="C13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="10u"/>
+<part name="R5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="100k"/>
+<part name="SUPPLY18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
 <part name="SW1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="BUTTON" device="" package3d_urn="urn:adsk.eagle:package:14967027/2"/>
 <part name="PH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="PINHEADER_1X6" device="" package3d_urn="urn:adsk.eagle:package:14967026/4"/>
 <part name="U4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MB85RC256V" device="" package3d_urn="urn:adsk.eagle:package:14977222/2"/>
-<part name="SUPPLY24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="C17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10u"/>
-<part name="R7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
-<part name="R8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k"/>
-<part name="SUPPLY20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_VCC" device=""/>
+<part name="SUPPLY24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="C17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="10u"/>
+<part name="R7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="10k"/>
+<part name="R8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="10k"/>
+<part name="SUPPLY20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="VCC" device=""/>
 <part name="LOGO1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="LOGO_TYR" device="" package3d_urn="urn:adsk.eagle:package:14993495/2"/>
-<part name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/4"/>
-<part name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="HOLE_MOUNT_HOLE" device="5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/4"/>
-<part name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1.5k"/>
-<part name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M"/>
-<part name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u"/>
-<part name="SUPPLY11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="SUPPLY16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
-<part name="D3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148"/>
-<part name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M"/>
-<part name="C16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="COMPONENTS_CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u"/>
-<part name="SUPPLY23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="SUPPLY2_GND" device=""/>
+<part name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/4"/>
+<part name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/4"/>
+<part name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="1.5k"/>
+<part name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="1M"/>
+<part name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7u"/>
+<part name="SUPPLY11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="SUPPLY16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
+<part name="D3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
+<part name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="1M"/>
+<part name="C16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7u"/>
+<part name="SUPPLY23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -3244,23 +3156,15 @@ Protection</text>
 <attribute name="NAME" x="248.92" y="236.22" size="1.778" layer="95" rot="MR0" align="center"/>
 <attribute name="VALUE" x="248.92" y="193.04" size="1.778" layer="96" rot="MR180" align="center"/>
 </instance>
-<instance part="SUPPLY10" gate="GND" x="190.5" y="198.12" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="192.405" y="194.945" size="1.778" layer="96" rot="MR0"/>
-</instance>
-<instance part="SUPPLY5" gate="G$1" x="203.2" y="228.6" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="205.105" y="231.775" size="1.778" layer="96" rot="MR0"/>
-</instance>
-<instance part="SUPPLY8" gate="G$1" x="190.5" y="205.74" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="192.405" y="208.915" size="1.778" layer="96" rot="MR0"/>
-</instance>
+<instance part="SUPPLY10" gate="GND" x="190.5" y="198.12" smashed="yes" rot="MR0"/>
+<instance part="SUPPLY5" gate="G$1" x="203.2" y="228.6" smashed="yes" rot="MR0"/>
+<instance part="SUPPLY8" gate="G$1" x="190.5" y="205.74" smashed="yes" rot="MR0"/>
 <instance part="J1" gate="G$1" x="299.72" y="157.48" smashed="yes" rot="R270"/>
 <instance part="U2" gate="G$1" x="220.98" y="182.88" smashed="yes" rot="MR0">
 <attribute name="NAME" x="220.98" y="193.04" size="1.27" layer="95" font="vector" rot="MR0" align="center"/>
 <attribute name="VALUE" x="220.98" y="173.355" size="1.27" layer="95" font="vector" rot="MR0" align="center"/>
 </instance>
-<instance part="SUPPLY13" gate="GND" x="281.94" y="142.24" smashed="yes">
-<attribute name="VALUE" x="280.035" y="139.065" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY13" gate="GND" x="281.94" y="142.24" smashed="yes"/>
 <instance part="U6" gate="G$1" x="116.84" y="35.56" smashed="yes">
 <attribute name="NAME" x="109.22" y="49.53" size="1.778" layer="95"/>
 </instance>
@@ -3272,42 +3176,32 @@ Protection</text>
 <attribute name="NAME" x="19.812" y="45.72" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="20.574" y="51.816" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY22" gate="GND" x="20.32" y="40.64" smashed="yes">
-<attribute name="VALUE" x="18.415" y="37.465" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY26" gate="GND" x="35.56" y="15.24" smashed="yes">
-<attribute name="VALUE" x="33.655" y="12.065" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY22" gate="GND" x="20.32" y="40.64" smashed="yes"/>
+<instance part="SUPPLY26" gate="GND" x="35.56" y="15.24" smashed="yes"/>
 <instance part="R10" gate="G$1" x="81.28" y="38.1" smashed="yes">
-<attribute name="NAME" x="78.74" y="40.132" size="1.27" layer="95" font="vector"/>
-<attribute name="VALUE" x="71.12" y="34.925" size="1.27" layer="96" font="vector"/>
+<attribute name="NAME" x="77.47" y="39.5986" size="1.778" layer="95"/>
+<attribute name="VALUE" x="77.47" y="34.798" size="1.778" layer="96"/>
 </instance>
 <instance part="R11" gate="G$1" x="139.7" y="27.94" smashed="yes" rot="R90">
-<attribute name="NAME" x="138.2014" y="26.67" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="143.256" y="25.654" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="138.2014" y="24.13" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="143.002" y="24.13" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="SUPPLY25" gate="GND" x="134.62" y="20.32" smashed="yes">
-<attribute name="VALUE" x="132.715" y="17.145" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY25" gate="GND" x="134.62" y="20.32" smashed="yes"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes">
 <attribute name="DRAWING_NAME" x="344.17" y="15.24" size="2.54" layer="94"/>
 <attribute name="LAST_DATE_TIME" x="344.17" y="10.16" size="2.286" layer="94"/>
 <attribute name="SHEET" x="357.505" y="5.08" size="2.54" layer="94"/>
 </instance>
 <instance part="R12" gate="G$1" x="101.6" y="20.32" smashed="yes" rot="R90">
-<attribute name="NAME" x="100.1014" y="19.05" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="105.156" y="18.034" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="100.1014" y="16.51" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="104.902" y="16.51" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="SUPPLY27" gate="GND" x="101.6" y="12.7" smashed="yes">
-<attribute name="VALUE" x="99.695" y="9.525" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY27" gate="GND" x="101.6" y="12.7" smashed="yes"/>
 <instance part="C14" gate="G$1" x="73.66" y="55.88" smashed="yes" rot="R90">
 <attribute name="NAME" x="73.152" y="50.8" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="73.914" y="56.896" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY21" gate="GND" x="73.66" y="45.72" smashed="yes">
-<attribute name="VALUE" x="71.755" y="42.545" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY21" gate="GND" x="73.66" y="45.72" smashed="yes"/>
 <instance part="HOLE3" gate="G$1" x="347.98" y="149.86" smashed="yes"/>
 <instance part="HOLE4" gate="G$1" x="353.06" y="149.86" smashed="yes"/>
 <instance part="HOLE5" gate="G$1" x="358.14" y="149.86" smashed="yes"/>
@@ -3317,16 +3211,16 @@ Protection</text>
 <attribute name="VALUE" x="83.82" y="39.37" size="1.778" layer="96"/>
 </instance>
 <instance part="R6" gate="G$1" x="101.6" y="55.88" smashed="yes" rot="R90">
-<attribute name="NAME" x="100.1014" y="54.61" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="105.156" y="53.594" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="100.1014" y="52.07" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="104.902" y="52.07" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R1" gate="G$1" x="223.52" y="220.98" smashed="yes" rot="MR0">
-<attribute name="NAME" x="227.33" y="219.9386" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="222.25" y="220.218" size="1.778" layer="96" rot="MR0"/>
+<attribute name="NAME" x="227.33" y="222.4786" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="227.33" y="217.678" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="R3" gate="G$1" x="223.52" y="205.74" smashed="yes" rot="MR0">
-<attribute name="NAME" x="227.33" y="204.6986" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="222.25" y="204.978" size="1.778" layer="96" rot="MR0"/>
+<attribute name="NAME" x="227.33" y="207.2386" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="227.33" y="202.438" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="U3" gate="G$1" x="55.88" y="154.94" smashed="yes"/>
 <instance part="Y1" gate="G$1" x="139.7" y="134.62" smashed="yes">
@@ -3341,12 +3235,8 @@ Protection</text>
 <attribute name="NAME" x="146.812" y="121.92" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="147.574" y="128.016" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY15" gate="GND" x="137.16" y="114.3" smashed="yes">
-<attribute name="VALUE" x="135.255" y="111.125" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY17" gate="GND" x="48.26" y="88.9" smashed="yes">
-<attribute name="VALUE" x="46.355" y="85.725" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY15" gate="GND" x="137.16" y="114.3" smashed="yes"/>
+<instance part="SUPPLY17" gate="GND" x="48.26" y="88.9" smashed="yes"/>
 <instance part="C3" gate="G$1" x="45.72" y="226.06" smashed="yes" rot="R90">
 <attribute name="NAME" x="45.212" y="220.98" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="45.974" y="227.076" size="1.778" layer="96" rot="R90" align="top-left"/>
@@ -3371,18 +3261,10 @@ Protection</text>
 <attribute name="NAME" x="70.612" y="220.98" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="71.374" y="227.076" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY3" gate="GND" x="48.26" y="238.76" smashed="yes" rot="R180">
-<attribute name="VALUE" x="50.165" y="241.935" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="SUPPLY1" gate="GND" x="55.88" y="243.84" smashed="yes" rot="R180">
-<attribute name="VALUE" x="57.785" y="247.015" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="SUPPLY2" gate="GND" x="60.96" y="243.84" smashed="yes" rot="R180">
-<attribute name="VALUE" x="62.865" y="247.015" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="SUPPLY4" gate="GND" x="68.58" y="238.76" smashed="yes" rot="R180">
-<attribute name="VALUE" x="70.485" y="241.935" size="1.778" layer="96" rot="R180"/>
-</instance>
+<instance part="SUPPLY3" gate="GND" x="48.26" y="238.76" smashed="yes" rot="R180"/>
+<instance part="SUPPLY1" gate="GND" x="55.88" y="243.84" smashed="yes" rot="R180"/>
+<instance part="SUPPLY2" gate="GND" x="60.96" y="243.84" smashed="yes" rot="R180"/>
+<instance part="SUPPLY4" gate="GND" x="68.58" y="238.76" smashed="yes" rot="R180"/>
 <instance part="U1" gate="G$1" x="327.66" y="223.52" smashed="yes"/>
 <instance part="C7" gate="G$1" x="312.42" y="215.9" smashed="yes" rot="MR90">
 <attribute name="NAME" x="312.928" y="210.82" size="1.778" layer="95" rot="MR90"/>
@@ -3392,33 +3274,23 @@ Protection</text>
 <attribute name="NAME" x="343.408" y="210.82" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="342.646" y="216.916" size="1.778" layer="96" rot="MR90" align="top-left"/>
 </instance>
-<instance part="SUPPLY9" gate="GND" x="327.66" y="200.66" smashed="yes">
-<attribute name="VALUE" x="325.755" y="197.485" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY9" gate="GND" x="327.66" y="200.66" smashed="yes"/>
 <instance part="D1" gate="G$1" x="302.26" y="218.44" smashed="yes" rot="R90">
 <attribute name="NAME" x="300.355" y="216.154" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="305.689" y="216.154" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="SUPPLY7" gate="GND" x="302.26" y="210.82" smashed="yes">
-<attribute name="VALUE" x="300.355" y="207.645" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY6" gate="G$1" x="294.64" y="223.52" smashed="yes" rot="R90">
-<attribute name="VALUE" x="291.465" y="221.615" size="1.778" layer="96" rot="R90"/>
-</instance>
+<instance part="SUPPLY7" gate="GND" x="302.26" y="210.82" smashed="yes"/>
+<instance part="SUPPLY6" gate="G$1" x="294.64" y="223.52" smashed="yes" rot="R90"/>
 <instance part="Q1" gate="G$1" x="220.98" y="121.92" smashed="yes">
 <attribute name="NAME" x="223.52" y="129.54" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="220.98" y="129.54" size="1.778" layer="96" rot="MR90"/>
 </instance>
-<instance part="SUPPLY14" gate="GND" x="205.74" y="124.46" smashed="yes" rot="R270">
-<attribute name="VALUE" x="202.565" y="126.365" size="1.778" layer="96" rot="R270"/>
-</instance>
+<instance part="SUPPLY14" gate="GND" x="205.74" y="124.46" smashed="yes" rot="R270"/>
 <instance part="C9" gate="G$1" x="241.3" y="132.08" smashed="yes" rot="MR90">
 <attribute name="NAME" x="241.808" y="127" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="241.046" y="133.096" size="1.778" layer="96" rot="MR90" align="top-left"/>
 </instance>
-<instance part="SUPPLY12" gate="GND" x="241.3" y="142.24" smashed="yes" rot="R180">
-<attribute name="VALUE" x="243.205" y="145.415" size="1.778" layer="96" rot="R180"/>
-</instance>
+<instance part="SUPPLY12" gate="GND" x="241.3" y="142.24" smashed="yes" rot="R180"/>
 <instance part="D2" gate="D$1" x="228.6" y="109.22" smashed="yes">
 <attribute name="NAME" x="226.2886" y="111.8616" size="1.778" layer="95"/>
 <attribute name="VALUE" x="226.0346" y="104.7242" size="1.778" layer="96"/>
@@ -3431,72 +3303,58 @@ Protection</text>
 <attribute name="NAME" x="240.2586" y="102.87" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="235.458" y="102.87" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="SUPPLY18" gate="GND" x="238.76" y="88.9" smashed="yes">
-<attribute name="VALUE" x="236.855" y="85.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY19" gate="GND" x="246.38" y="88.9" smashed="yes">
-<attribute name="VALUE" x="244.475" y="85.725" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY18" gate="GND" x="238.76" y="88.9" smashed="yes"/>
+<instance part="SUPPLY19" gate="GND" x="246.38" y="88.9" smashed="yes"/>
 <instance part="SW1" gate="G$1" x="208.28" y="109.22" smashed="yes" rot="MR0"/>
 <instance part="PH1" gate="G$1" x="147.32" y="172.72" smashed="yes">
 <attribute name="NAME" x="140.97" y="183.515" size="1.778" layer="95"/>
 <attribute name="VALUE" x="140.97" y="162.56" size="1.778" layer="96"/>
 </instance>
 <instance part="U4" gate="G$1" x="223.52" y="40.64" smashed="yes"/>
-<instance part="SUPPLY24" gate="GND" x="236.22" y="27.94" smashed="yes">
-<attribute name="VALUE" x="234.315" y="24.765" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY24" gate="GND" x="236.22" y="27.94" smashed="yes"/>
 <instance part="C17" gate="G$1" x="236.22" y="40.64" smashed="yes" rot="MR90">
 <attribute name="NAME" x="236.728" y="35.56" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="235.966" y="41.656" size="1.778" layer="96" rot="MR90" align="top-left"/>
 </instance>
 <instance part="R7" gate="G$1" x="27.94" y="48.26" smashed="yes" rot="R90">
-<attribute name="NAME" x="26.4414" y="46.99" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="31.496" y="45.974" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="26.4414" y="44.45" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="31.242" y="44.45" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R8" gate="G$1" x="35.56" y="48.26" smashed="yes" rot="R90">
-<attribute name="NAME" x="34.0614" y="46.99" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="39.116" y="45.974" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="34.0614" y="44.45" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="38.862" y="44.45" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="SUPPLY20" gate="G$1" x="68.58" y="66.04" smashed="yes">
-<attribute name="VALUE" x="66.675" y="69.215" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY20" gate="G$1" x="68.58" y="66.04" smashed="yes"/>
 <instance part="LOGO1" gate="G$1" x="350.52" y="114.3" smashed="yes"/>
 <instance part="HOLE1" gate="G$1" x="337.82" y="149.86" smashed="yes"/>
 <instance part="HOLE2" gate="G$1" x="342.9" y="149.86" smashed="yes"/>
 <instance part="R2" gate="G$1" x="198.12" y="210.82" smashed="yes" rot="R90">
-<attribute name="NAME" x="199.1614" y="207.01" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="198.882" y="212.09" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="196.6214" y="207.01" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="201.422" y="207.01" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R4" gate="G$1" x="292.1" y="101.6" smashed="yes" rot="MR0">
-<attribute name="NAME" x="295.91" y="100.5586" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="290.83" y="100.838" size="1.778" layer="96" rot="MR0"/>
+<attribute name="NAME" x="295.91" y="103.0986" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="295.91" y="98.298" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="C12" gate="G$1" x="292.1" y="106.68" smashed="yes" rot="R180">
 <attribute name="NAME" x="297.18" y="106.172" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="291.084" y="106.934" size="1.778" layer="96" rot="R180" align="top-left"/>
 </instance>
-<instance part="SUPPLY11" gate="GND" x="218.44" y="195.58" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="220.345" y="192.405" size="1.778" layer="96" rot="MR0"/>
-</instance>
-<instance part="SUPPLY16" gate="GND" x="281.94" y="96.52" smashed="yes">
-<attribute name="VALUE" x="280.035" y="93.345" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY11" gate="GND" x="218.44" y="195.58" smashed="yes" rot="MR0"/>
+<instance part="SUPPLY16" gate="GND" x="281.94" y="96.52" smashed="yes"/>
 <instance part="D3" gate="D$1" x="297.18" y="50.8" smashed="yes" rot="R180">
 <attribute name="NAME" x="299.4914" y="48.1584" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="299.7454" y="55.2958" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="R9" gate="G$1" x="289.56" y="45.72" smashed="yes" rot="MR270">
-<attribute name="NAME" x="290.6014" y="49.53" size="1.778" layer="95" rot="MR270"/>
-<attribute name="VALUE" x="290.322" y="44.45" size="1.778" layer="96" rot="MR270"/>
+<attribute name="NAME" x="288.0614" y="49.53" size="1.778" layer="95" rot="MR270"/>
+<attribute name="VALUE" x="292.862" y="49.53" size="1.778" layer="96" rot="MR270"/>
 </instance>
 <instance part="C16" gate="G$1" x="281.94" y="45.72" smashed="yes" rot="R270">
 <attribute name="NAME" x="282.448" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="281.686" y="44.704" size="1.778" layer="96" rot="R270" align="top-left"/>
 </instance>
-<instance part="SUPPLY23" gate="GND" x="281.94" y="35.56" smashed="yes">
-<attribute name="VALUE" x="280.035" y="32.385" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY23" gate="GND" x="281.94" y="35.56" smashed="yes"/>
 </instances>
 <busses>
 </busses>
@@ -4590,9 +4448,7 @@ Protection</text>
 <attribute name="LAST_DATE_TIME" x="344.17" y="10.16" size="2.286" layer="94"/>
 <attribute name="SHEET" x="357.505" y="5.08" size="2.54" layer="94"/>
 </instance>
-<instance part="SUPPLY28" gate="GND" x="97.79" y="10.16" smashed="yes" rot="R270">
-<attribute name="VALUE" x="94.615" y="12.065" size="1.778" layer="96" rot="R270"/>
-</instance>
+<instance part="SUPPLY28" gate="GND" x="97.79" y="10.16" smashed="yes" rot="R270"/>
 </instances>
 <busses>
 </busses>
@@ -5380,370 +5236,218 @@ Protection</text>
 <attribute name="NAME" x="98.552" y="236.22" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="99.314" y="242.316" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY29" gate="GND" x="99.06" y="231.14" smashed="yes">
-<attribute name="VALUE" x="97.155" y="227.965" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY29" gate="GND" x="99.06" y="231.14" smashed="yes"/>
 <instance part="C19" gate="G$1" x="134.62" y="241.3" smashed="yes" rot="R90">
 <attribute name="NAME" x="134.112" y="236.22" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="134.874" y="242.316" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY30" gate="GND" x="134.62" y="231.14" smashed="yes">
-<attribute name="VALUE" x="132.715" y="227.965" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY30" gate="GND" x="134.62" y="231.14" smashed="yes"/>
 <instance part="C20" gate="G$1" x="170.18" y="241.3" smashed="yes" rot="R90">
 <attribute name="NAME" x="169.672" y="236.22" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="170.434" y="242.316" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY31" gate="GND" x="170.18" y="231.14" smashed="yes">
-<attribute name="VALUE" x="168.275" y="227.965" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY31" gate="GND" x="170.18" y="231.14" smashed="yes"/>
 <instance part="C21" gate="G$1" x="205.74" y="241.3" smashed="yes" rot="R90">
 <attribute name="NAME" x="205.232" y="236.22" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="205.994" y="242.316" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY32" gate="GND" x="205.74" y="231.14" smashed="yes">
-<attribute name="VALUE" x="203.835" y="227.965" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY32" gate="GND" x="205.74" y="231.14" smashed="yes"/>
 <instance part="C22" gate="G$1" x="241.3" y="241.3" smashed="yes" rot="R90">
 <attribute name="NAME" x="240.792" y="236.22" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="241.554" y="242.316" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY33" gate="GND" x="241.3" y="231.14" smashed="yes">
-<attribute name="VALUE" x="239.395" y="227.965" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY33" gate="GND" x="241.3" y="231.14" smashed="yes"/>
 <instance part="C23" gate="G$1" x="276.86" y="241.3" smashed="yes" rot="R90">
 <attribute name="NAME" x="276.352" y="236.22" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="277.114" y="242.316" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY34" gate="GND" x="276.86" y="231.14" smashed="yes">
-<attribute name="VALUE" x="274.955" y="227.965" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY34" gate="GND" x="276.86" y="231.14" smashed="yes"/>
 <instance part="C24" gate="G$1" x="312.42" y="241.3" smashed="yes" rot="R90">
 <attribute name="NAME" x="311.912" y="236.22" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="312.674" y="242.316" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY35" gate="GND" x="312.42" y="231.14" smashed="yes">
-<attribute name="VALUE" x="310.515" y="227.965" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY35" gate="GND" x="312.42" y="231.14" smashed="yes"/>
 <instance part="C25" gate="G$1" x="99.06" y="200.66" smashed="yes" rot="R90">
 <attribute name="NAME" x="98.552" y="195.58" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="99.314" y="201.676" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY44" gate="GND" x="99.06" y="190.5" smashed="yes">
-<attribute name="VALUE" x="97.155" y="187.325" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY44" gate="GND" x="99.06" y="190.5" smashed="yes"/>
 <instance part="C26" gate="G$1" x="134.62" y="200.66" smashed="yes" rot="R90">
 <attribute name="NAME" x="134.112" y="195.58" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="134.874" y="201.676" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY45" gate="GND" x="134.62" y="190.5" smashed="yes">
-<attribute name="VALUE" x="132.715" y="187.325" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY45" gate="GND" x="134.62" y="190.5" smashed="yes"/>
 <instance part="C27" gate="G$1" x="170.18" y="200.66" smashed="yes" rot="R90">
 <attribute name="NAME" x="169.672" y="195.58" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="170.434" y="201.676" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY46" gate="GND" x="170.18" y="190.5" smashed="yes">
-<attribute name="VALUE" x="168.275" y="187.325" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY46" gate="GND" x="170.18" y="190.5" smashed="yes"/>
 <instance part="C28" gate="G$1" x="205.74" y="200.66" smashed="yes" rot="R90">
 <attribute name="NAME" x="205.232" y="195.58" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="205.994" y="201.676" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY47" gate="GND" x="205.74" y="190.5" smashed="yes">
-<attribute name="VALUE" x="203.835" y="187.325" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY47" gate="GND" x="205.74" y="190.5" smashed="yes"/>
 <instance part="C29" gate="G$1" x="241.3" y="200.66" smashed="yes" rot="R90">
 <attribute name="NAME" x="240.792" y="195.58" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="241.554" y="201.676" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY48" gate="GND" x="241.3" y="190.5" smashed="yes">
-<attribute name="VALUE" x="239.395" y="187.325" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY48" gate="GND" x="241.3" y="190.5" smashed="yes"/>
 <instance part="C30" gate="G$1" x="276.86" y="200.66" smashed="yes" rot="R90">
 <attribute name="NAME" x="276.352" y="195.58" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="277.114" y="201.676" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY49" gate="GND" x="276.86" y="190.5" smashed="yes">
-<attribute name="VALUE" x="274.955" y="187.325" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY49" gate="GND" x="276.86" y="190.5" smashed="yes"/>
 <instance part="C31" gate="G$1" x="312.42" y="200.66" smashed="yes" rot="R90">
 <attribute name="NAME" x="311.912" y="195.58" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="312.674" y="201.676" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY50" gate="GND" x="312.42" y="190.5" smashed="yes">
-<attribute name="VALUE" x="310.515" y="187.325" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY50" gate="GND" x="312.42" y="190.5" smashed="yes"/>
 <instance part="C32" gate="G$1" x="99.06" y="160.02" smashed="yes" rot="R90">
 <attribute name="NAME" x="98.552" y="154.94" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="99.314" y="161.036" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY59" gate="GND" x="99.06" y="149.86" smashed="yes">
-<attribute name="VALUE" x="97.155" y="146.685" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY59" gate="GND" x="99.06" y="149.86" smashed="yes"/>
 <instance part="C33" gate="G$1" x="134.62" y="160.02" smashed="yes" rot="R90">
 <attribute name="NAME" x="134.112" y="154.94" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="134.874" y="161.036" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY60" gate="GND" x="134.62" y="149.86" smashed="yes">
-<attribute name="VALUE" x="132.715" y="146.685" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY60" gate="GND" x="134.62" y="149.86" smashed="yes"/>
 <instance part="C34" gate="G$1" x="170.18" y="160.02" smashed="yes" rot="R90">
 <attribute name="NAME" x="169.672" y="154.94" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="170.434" y="161.036" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY61" gate="GND" x="170.18" y="149.86" smashed="yes">
-<attribute name="VALUE" x="168.275" y="146.685" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY61" gate="GND" x="170.18" y="149.86" smashed="yes"/>
 <instance part="C35" gate="G$1" x="205.74" y="160.02" smashed="yes" rot="R90">
 <attribute name="NAME" x="205.232" y="154.94" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="205.994" y="161.036" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY62" gate="GND" x="205.74" y="149.86" smashed="yes">
-<attribute name="VALUE" x="203.835" y="146.685" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY62" gate="GND" x="205.74" y="149.86" smashed="yes"/>
 <instance part="C36" gate="G$1" x="241.3" y="160.02" smashed="yes" rot="R90">
 <attribute name="NAME" x="240.792" y="154.94" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="241.554" y="161.036" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY63" gate="GND" x="241.3" y="149.86" smashed="yes">
-<attribute name="VALUE" x="239.395" y="146.685" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY63" gate="GND" x="241.3" y="149.86" smashed="yes"/>
 <instance part="C37" gate="G$1" x="276.86" y="160.02" smashed="yes" rot="R90">
 <attribute name="NAME" x="276.352" y="154.94" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="277.114" y="161.036" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY64" gate="GND" x="276.86" y="149.86" smashed="yes">
-<attribute name="VALUE" x="274.955" y="146.685" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY64" gate="GND" x="276.86" y="149.86" smashed="yes"/>
 <instance part="C38" gate="G$1" x="99.06" y="119.38" smashed="yes" rot="R90">
 <attribute name="NAME" x="98.552" y="114.3" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="99.314" y="120.396" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY72" gate="GND" x="99.06" y="109.22" smashed="yes">
-<attribute name="VALUE" x="97.155" y="106.045" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY72" gate="GND" x="99.06" y="109.22" smashed="yes"/>
 <instance part="C39" gate="G$1" x="134.62" y="119.38" smashed="yes" rot="R90">
 <attribute name="NAME" x="134.112" y="114.3" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="134.874" y="120.396" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY73" gate="GND" x="134.62" y="109.22" smashed="yes">
-<attribute name="VALUE" x="132.715" y="106.045" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY73" gate="GND" x="134.62" y="109.22" smashed="yes"/>
 <instance part="C40" gate="G$1" x="170.18" y="119.38" smashed="yes" rot="R90">
 <attribute name="NAME" x="169.672" y="114.3" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="170.434" y="120.396" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY74" gate="GND" x="170.18" y="109.22" smashed="yes">
-<attribute name="VALUE" x="168.275" y="106.045" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY74" gate="GND" x="170.18" y="109.22" smashed="yes"/>
 <instance part="C41" gate="G$1" x="205.74" y="119.38" smashed="yes" rot="R90">
 <attribute name="NAME" x="205.232" y="114.3" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="205.994" y="120.396" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY75" gate="GND" x="205.74" y="109.22" smashed="yes">
-<attribute name="VALUE" x="203.835" y="106.045" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY75" gate="GND" x="205.74" y="109.22" smashed="yes"/>
 <instance part="C42" gate="G$1" x="241.3" y="119.38" smashed="yes" rot="R90">
 <attribute name="NAME" x="240.792" y="114.3" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="241.554" y="120.396" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY76" gate="GND" x="241.3" y="109.22" smashed="yes">
-<attribute name="VALUE" x="239.395" y="106.045" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY76" gate="GND" x="241.3" y="109.22" smashed="yes"/>
 <instance part="C43" gate="G$1" x="276.86" y="119.38" smashed="yes" rot="R90">
 <attribute name="NAME" x="276.352" y="114.3" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="277.114" y="120.396" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY77" gate="GND" x="276.86" y="109.22" smashed="yes">
-<attribute name="VALUE" x="274.955" y="106.045" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY77" gate="GND" x="276.86" y="109.22" smashed="yes"/>
 <instance part="C44" gate="G$1" x="99.06" y="78.74" smashed="yes" rot="R90">
 <attribute name="NAME" x="98.552" y="73.66" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="99.314" y="79.756" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY85" gate="GND" x="99.06" y="68.58" smashed="yes">
-<attribute name="VALUE" x="97.155" y="65.405" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY85" gate="GND" x="99.06" y="68.58" smashed="yes"/>
 <instance part="C45" gate="G$1" x="134.62" y="78.74" smashed="yes" rot="R90">
 <attribute name="NAME" x="134.112" y="73.66" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="134.874" y="79.756" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY86" gate="GND" x="134.62" y="68.58" smashed="yes">
-<attribute name="VALUE" x="132.715" y="65.405" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY86" gate="GND" x="134.62" y="68.58" smashed="yes"/>
 <instance part="C46" gate="G$1" x="170.18" y="78.74" smashed="yes" rot="R90">
 <attribute name="NAME" x="169.672" y="73.66" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="170.434" y="79.756" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY87" gate="GND" x="170.18" y="68.58" smashed="yes">
-<attribute name="VALUE" x="168.275" y="65.405" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY87" gate="GND" x="170.18" y="68.58" smashed="yes"/>
 <instance part="C47" gate="G$1" x="205.74" y="78.74" smashed="yes" rot="R90">
 <attribute name="NAME" x="205.232" y="73.66" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="205.994" y="79.756" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY88" gate="GND" x="205.74" y="68.58" smashed="yes">
-<attribute name="VALUE" x="203.835" y="65.405" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY88" gate="GND" x="205.74" y="68.58" smashed="yes"/>
 <instance part="C48" gate="G$1" x="241.3" y="78.74" smashed="yes" rot="R90">
 <attribute name="NAME" x="240.792" y="73.66" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="241.554" y="79.756" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY89" gate="GND" x="241.3" y="68.58" smashed="yes">
-<attribute name="VALUE" x="239.395" y="65.405" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY89" gate="GND" x="241.3" y="68.58" smashed="yes"/>
 <instance part="C49" gate="G$1" x="99.06" y="35.56" smashed="yes" rot="R90">
 <attribute name="NAME" x="98.552" y="30.48" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="99.314" y="36.576" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY96" gate="GND" x="99.06" y="25.4" smashed="yes">
-<attribute name="VALUE" x="97.155" y="22.225" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY96" gate="GND" x="99.06" y="25.4" smashed="yes"/>
 <instance part="C50" gate="G$1" x="134.62" y="35.56" smashed="yes" rot="R90">
 <attribute name="NAME" x="134.112" y="30.48" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="134.874" y="36.576" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY97" gate="GND" x="134.62" y="25.4" smashed="yes">
-<attribute name="VALUE" x="132.715" y="22.225" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY97" gate="GND" x="134.62" y="25.4" smashed="yes"/>
 <instance part="C51" gate="G$1" x="170.18" y="35.56" smashed="yes" rot="R90">
 <attribute name="NAME" x="169.672" y="30.48" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="170.434" y="36.576" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY98" gate="GND" x="170.18" y="25.4" smashed="yes">
-<attribute name="VALUE" x="168.275" y="22.225" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY98" gate="GND" x="170.18" y="25.4" smashed="yes"/>
 <instance part="C52" gate="G$1" x="205.74" y="35.56" smashed="yes" rot="R90">
 <attribute name="NAME" x="205.232" y="30.48" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="205.994" y="36.576" size="1.778" layer="96" rot="R90" align="top-left"/>
 </instance>
-<instance part="SUPPLY99" gate="GND" x="205.74" y="25.4" smashed="yes">
-<attribute name="VALUE" x="203.835" y="22.225" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY36" gate="GND" x="83.82" y="215.9" smashed="yes">
-<attribute name="VALUE" x="81.915" y="212.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY37" gate="GND" x="119.38" y="215.9" smashed="yes">
-<attribute name="VALUE" x="117.475" y="212.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY38" gate="GND" x="154.94" y="215.9" smashed="yes">
-<attribute name="VALUE" x="153.035" y="212.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY39" gate="GND" x="190.5" y="215.9" smashed="yes">
-<attribute name="VALUE" x="188.595" y="212.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY40" gate="GND" x="226.06" y="215.9" smashed="yes">
-<attribute name="VALUE" x="224.155" y="212.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY41" gate="GND" x="261.62" y="215.9" smashed="yes">
-<attribute name="VALUE" x="259.715" y="212.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY42" gate="GND" x="297.18" y="215.9" smashed="yes">
-<attribute name="VALUE" x="295.275" y="212.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY43" gate="GND" x="332.74" y="215.9" smashed="yes">
-<attribute name="VALUE" x="330.835" y="212.725" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY58" gate="GND" x="332.74" y="175.26" smashed="yes">
-<attribute name="VALUE" x="330.835" y="172.085" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY57" gate="GND" x="297.18" y="175.26" smashed="yes">
-<attribute name="VALUE" x="295.275" y="172.085" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY56" gate="GND" x="261.62" y="175.26" smashed="yes">
-<attribute name="VALUE" x="259.715" y="172.085" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY55" gate="GND" x="226.06" y="175.26" smashed="yes">
-<attribute name="VALUE" x="224.155" y="172.085" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY54" gate="GND" x="190.5" y="175.26" smashed="yes">
-<attribute name="VALUE" x="188.595" y="172.085" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY53" gate="GND" x="154.94" y="175.26" smashed="yes">
-<attribute name="VALUE" x="153.035" y="172.085" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY52" gate="GND" x="119.38" y="175.26" smashed="yes">
-<attribute name="VALUE" x="117.475" y="172.085" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY51" gate="GND" x="83.82" y="175.26" smashed="yes">
-<attribute name="VALUE" x="81.915" y="172.085" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY65" gate="GND" x="83.82" y="134.62" smashed="yes">
-<attribute name="VALUE" x="81.915" y="131.445" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY66" gate="GND" x="119.38" y="134.62" smashed="yes">
-<attribute name="VALUE" x="117.475" y="131.445" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY67" gate="GND" x="154.94" y="134.62" smashed="yes">
-<attribute name="VALUE" x="153.035" y="131.445" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY68" gate="GND" x="190.5" y="134.62" smashed="yes">
-<attribute name="VALUE" x="188.595" y="131.445" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY69" gate="GND" x="226.06" y="134.62" smashed="yes">
-<attribute name="VALUE" x="224.155" y="131.445" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY70" gate="GND" x="261.62" y="134.62" smashed="yes">
-<attribute name="VALUE" x="259.715" y="131.445" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY71" gate="GND" x="332.74" y="134.62" smashed="yes">
-<attribute name="VALUE" x="330.835" y="131.445" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY84" gate="GND" x="332.74" y="93.98" smashed="yes">
-<attribute name="VALUE" x="330.835" y="90.805" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY83" gate="GND" x="261.62" y="93.98" smashed="yes">
-<attribute name="VALUE" x="259.715" y="90.805" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY82" gate="GND" x="226.06" y="93.98" smashed="yes">
-<attribute name="VALUE" x="224.155" y="90.805" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY81" gate="GND" x="190.5" y="93.98" smashed="yes">
-<attribute name="VALUE" x="188.595" y="90.805" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY80" gate="GND" x="154.94" y="93.98" smashed="yes">
-<attribute name="VALUE" x="153.035" y="90.805" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY79" gate="GND" x="119.38" y="93.98" smashed="yes">
-<attribute name="VALUE" x="117.475" y="90.805" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY78" gate="GND" x="83.82" y="93.98" smashed="yes">
-<attribute name="VALUE" x="81.915" y="90.805" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY90" gate="GND" x="83.82" y="53.34" smashed="yes">
-<attribute name="VALUE" x="81.915" y="50.165" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY91" gate="GND" x="119.38" y="53.34" smashed="yes">
-<attribute name="VALUE" x="117.475" y="50.165" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY92" gate="GND" x="154.94" y="53.34" smashed="yes">
-<attribute name="VALUE" x="153.035" y="50.165" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY93" gate="GND" x="190.5" y="53.34" smashed="yes">
-<attribute name="VALUE" x="188.595" y="50.165" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY94" gate="GND" x="226.06" y="53.34" smashed="yes">
-<attribute name="VALUE" x="224.155" y="50.165" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY95" gate="GND" x="261.62" y="53.34" smashed="yes">
-<attribute name="VALUE" x="259.715" y="50.165" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY104" gate="GND" x="261.62" y="10.16" smashed="yes">
-<attribute name="VALUE" x="259.715" y="6.985" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY103" gate="GND" x="190.5" y="10.16" smashed="yes">
-<attribute name="VALUE" x="188.595" y="6.985" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY102" gate="GND" x="154.94" y="10.16" smashed="yes">
-<attribute name="VALUE" x="153.035" y="6.985" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY101" gate="GND" x="119.38" y="10.16" smashed="yes">
-<attribute name="VALUE" x="117.475" y="6.985" size="1.778" layer="96"/>
-</instance>
-<instance part="SUPPLY100" gate="GND" x="83.82" y="10.16" smashed="yes">
-<attribute name="VALUE" x="81.915" y="6.985" size="1.778" layer="96"/>
-</instance>
+<instance part="SUPPLY99" gate="GND" x="205.74" y="25.4" smashed="yes"/>
+<instance part="SUPPLY36" gate="GND" x="83.82" y="215.9" smashed="yes"/>
+<instance part="SUPPLY37" gate="GND" x="119.38" y="215.9" smashed="yes"/>
+<instance part="SUPPLY38" gate="GND" x="154.94" y="215.9" smashed="yes"/>
+<instance part="SUPPLY39" gate="GND" x="190.5" y="215.9" smashed="yes"/>
+<instance part="SUPPLY40" gate="GND" x="226.06" y="215.9" smashed="yes"/>
+<instance part="SUPPLY41" gate="GND" x="261.62" y="215.9" smashed="yes"/>
+<instance part="SUPPLY42" gate="GND" x="297.18" y="215.9" smashed="yes"/>
+<instance part="SUPPLY43" gate="GND" x="332.74" y="215.9" smashed="yes"/>
+<instance part="SUPPLY58" gate="GND" x="332.74" y="175.26" smashed="yes"/>
+<instance part="SUPPLY57" gate="GND" x="297.18" y="175.26" smashed="yes"/>
+<instance part="SUPPLY56" gate="GND" x="261.62" y="175.26" smashed="yes"/>
+<instance part="SUPPLY55" gate="GND" x="226.06" y="175.26" smashed="yes"/>
+<instance part="SUPPLY54" gate="GND" x="190.5" y="175.26" smashed="yes"/>
+<instance part="SUPPLY53" gate="GND" x="154.94" y="175.26" smashed="yes"/>
+<instance part="SUPPLY52" gate="GND" x="119.38" y="175.26" smashed="yes"/>
+<instance part="SUPPLY51" gate="GND" x="83.82" y="175.26" smashed="yes"/>
+<instance part="SUPPLY65" gate="GND" x="83.82" y="134.62" smashed="yes"/>
+<instance part="SUPPLY66" gate="GND" x="119.38" y="134.62" smashed="yes"/>
+<instance part="SUPPLY67" gate="GND" x="154.94" y="134.62" smashed="yes"/>
+<instance part="SUPPLY68" gate="GND" x="190.5" y="134.62" smashed="yes"/>
+<instance part="SUPPLY69" gate="GND" x="226.06" y="134.62" smashed="yes"/>
+<instance part="SUPPLY70" gate="GND" x="261.62" y="134.62" smashed="yes"/>
+<instance part="SUPPLY71" gate="GND" x="332.74" y="134.62" smashed="yes"/>
+<instance part="SUPPLY84" gate="GND" x="332.74" y="93.98" smashed="yes"/>
+<instance part="SUPPLY83" gate="GND" x="261.62" y="93.98" smashed="yes"/>
+<instance part="SUPPLY82" gate="GND" x="226.06" y="93.98" smashed="yes"/>
+<instance part="SUPPLY81" gate="GND" x="190.5" y="93.98" smashed="yes"/>
+<instance part="SUPPLY80" gate="GND" x="154.94" y="93.98" smashed="yes"/>
+<instance part="SUPPLY79" gate="GND" x="119.38" y="93.98" smashed="yes"/>
+<instance part="SUPPLY78" gate="GND" x="83.82" y="93.98" smashed="yes"/>
+<instance part="SUPPLY90" gate="GND" x="83.82" y="53.34" smashed="yes"/>
+<instance part="SUPPLY91" gate="GND" x="119.38" y="53.34" smashed="yes"/>
+<instance part="SUPPLY92" gate="GND" x="154.94" y="53.34" smashed="yes"/>
+<instance part="SUPPLY93" gate="GND" x="190.5" y="53.34" smashed="yes"/>
+<instance part="SUPPLY94" gate="GND" x="226.06" y="53.34" smashed="yes"/>
+<instance part="SUPPLY95" gate="GND" x="261.62" y="53.34" smashed="yes"/>
+<instance part="SUPPLY104" gate="GND" x="261.62" y="10.16" smashed="yes"/>
+<instance part="SUPPLY103" gate="GND" x="190.5" y="10.16" smashed="yes"/>
+<instance part="SUPPLY102" gate="GND" x="154.94" y="10.16" smashed="yes"/>
+<instance part="SUPPLY101" gate="GND" x="119.38" y="10.16" smashed="yes"/>
+<instance part="SUPPLY100" gate="GND" x="83.82" y="10.16" smashed="yes"/>
 </instances>
 <busses>
 </busses>

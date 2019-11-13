@@ -875,7 +875,7 @@ JLCJLCJLC</text>
 <description>Generated from &lt;b&gt;Tyr.sch&lt;/b&gt;&lt;p&gt;
 by exp-lbrs.ulp</description>
 <packages>
-<package name="COMPONENTS_C0603" urn="urn:adsk.eagle:footprint:14733102/1" library_version="1">
+<package name="C0603" urn="urn:adsk.eagle:footprint:14733102/2" library_version="32">
 <wire x1="1" y1="-0.7" x2="1.6" y2="-0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="-0.7" x2="1.6" y2="0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="0.7" x2="1" y2="0.7" width="0.1524" layer="21"/>
@@ -917,7 +917,7 @@ by exp-lbrs.ulp</description>
 <text x="8.41375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">GND</text>
 <text x="10.95375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">3.3V</text>
 </package>
-<package name="COMPONENTS_R0603" urn="urn:adsk.eagle:footprint:14733101/1" library_version="1">
+<package name="R0603" urn="urn:adsk.eagle:footprint:14733101/2" library_version="32">
 <wire x1="1" y1="-0.7" x2="1.6" y2="-0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="-0.7" x2="1.6" y2="0.7" width="0.1524" layer="21"/>
 <wire x1="1.6" y1="0.7" x2="1" y2="0.7" width="0.1524" layer="21"/>
@@ -929,7 +929,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="1.45" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-1.45" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_2512" urn="urn:adsk.eagle:footprint:14733092/1" library_version="1">
+<package name="R2512" urn="urn:adsk.eagle:footprint:14733092/2" library_version="32">
 <description>&lt;b&gt;RESISTOR 2512 (Metric 6432)&lt;/b&gt;</description>
 <wire x1="-3.973" y1="1.983" x2="3.973" y2="1.983" width="0.0508" layer="39"/>
 <wire x1="3.973" y1="1.983" x2="3.973" y2="-1.983" width="0.0508" layer="39"/>
@@ -947,7 +947,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="3" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-3" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:footprint:14733091/1" library_version="1">
+<package name="SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:footprint:14733091/2" library_version="32">
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.1524" layer="21"/>
 <wire x1="1.397" y1="1.016" x2="1.651" y2="0.762" width="0.1524" layer="21" curve="-90"/>
 <wire x1="-1.651" y1="0.762" x2="-1.397" y2="1.016" width="0.1524" layer="21" curve="-90"/>
@@ -976,7 +976,7 @@ by exp-lbrs.ulp</description>
 <vertex x="1.143" y="0.7366"/>
 </polygon>
 </package>
-<package name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:footprint:14733098/1" library_version="1">
+<package name="PRTR5V0U2X" urn="urn:adsk.eagle:footprint:14733098/2" library_version="32">
 <wire x1="1.5" y1="0.9" x2="1.7" y2="0.9" width="0.1524" layer="21"/>
 <wire x1="1.7" y1="0.9" x2="1.7" y2="-0.9" width="0.1524" layer="21"/>
 <wire x1="1.7" y1="-0.9" x2="1.5" y2="-0.9" width="0.1524" layer="21"/>
@@ -992,7 +992,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2" size="1" layer="21" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2" size="1" layer="21" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOT23-8" urn="urn:adsk.eagle:footprint:14733121/1" library_version="1">
+<package name="SOT23-8" urn="urn:adsk.eagle:footprint:14733121/2" library_version="32">
 <description>&lt;b&gt;Source: &lt;/b&gt;http://www.ti.com/lit/ml/mpds099c/mpds099c.pdf</description>
 <circle x="-1.3" y="-0.4" radius="0.05" width="0.1524" layer="21"/>
 <wire x1="1.5" y1="-1" x2="1.7" y2="-1" width="0.1524" layer="21"/>
@@ -1020,7 +1020,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="TYR_SOT-23-6P" urn="urn:adsk.eagle:footprint:14733123/1" library_version="1">
+<package name="SOT-23-6P" urn="urn:adsk.eagle:footprint:14733123/2" library_version="32">
 <description>&lt;b&gt;SOT-23-6L&lt;/b&gt;&lt;br&gt;</description>
 <circle x="-0.3048" y="1.3176" radius="0.03591875" width="0.1524" layer="21"/>
 <wire x1="-1" y1="1.5" x2="-1" y2="1.7" width="0.1524" layer="21"/>
@@ -1038,7 +1038,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.54" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.54" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/2" library_version="23" library_locally_modified="yes">
+<package name="USB-C-12P-INBOARD" urn="urn:adsk.eagle:footprint:14733097/3" library_version="32">
 <wire x1="-5" y1="-4.475" x2="5" y2="-4.475" width="0.127" layer="49"/>
 <wire x1="-5.575" y1="1.175" x2="-5.875" y2="1.475" width="0.01" layer="46" curve="-90"/>
 <wire x1="-5.875" y1="1.475" x2="-5.875" y2="2.275" width="0.01" layer="46"/>
@@ -1092,7 +1092,7 @@ by exp-lbrs.ulp</description>
 <pad name="P$11" x="-5.575" y="-2.125" drill="0.6" diameter="0.8"/>
 <pad name="P$12" x="5.575" y="-2.125" drill="0.6" diameter="0.8"/>
 </package>
-<package name="CONTROLLER_CRYSTAL-3.2X2.5" urn="urn:adsk.eagle:footprint:14733099/1" library_version="1">
+<package name="CRYSTAL-3.2X2.5" urn="urn:adsk.eagle:footprint:14733099/2" library_version="32">
 <wire x1="-1.1" y1="-1.6" x2="-1.95" y2="-1.6" width="0.1524" layer="21"/>
 <wire x1="-1.95" y1="-1.6" x2="-1.95" y2="-0.4" width="0.1524" layer="21"/>
 <wire x1="-1.95" y1="0.4" x2="-1.95" y2="1.6" width="0.1524" layer="21"/>
@@ -1113,7 +1113,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="2.412" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-2.412" size="1" layer="27" font="vector" ratio="13" align="center">&gt;VALUE</text>
 </package>
-<package name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/4" locally_modified="yes" library_version="28" library_locally_modified="yes">
+<package name="MX-1U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733095/6" library_version="32">
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -1151,7 +1151,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="5.465" y="5.08" dx="4" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/4" library_version="27">
+<package name="MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:footprint:14733094/5" library_version="32">
 <description>Keyboard switch package!</description>
 <wire x1="6.8" y1="-7.8" x2="-6.8" y2="-7.8" width="0.125" layer="47"/>
 <wire x1="-6.8" y1="-7.8" x2="-7.8" y2="-6.8" width="0.125" layer="47" curve="-90"/>
@@ -1189,7 +1189,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="5.465" y="5.08" dx="4" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="COMPONENTS_SOD-123" urn="urn:adsk.eagle:footprint:14733100/1" library_version="1">
+<package name="SOD-123" urn="urn:adsk.eagle:footprint:14733100/2" library_version="32">
 <description>SOD-123 footprint</description>
 <wire x1="-1.7" y1="0.8" x2="-2.3" y2="0.8" width="0.1524" layer="21"/>
 <wire x1="-2.3" y1="0.8" x2="-2.3" y2="-0.8" width="0.1524" layer="21"/>
@@ -1207,7 +1207,7 @@ by exp-lbrs.ulp</description>
 <vertex x="0.4" y="0"/>
 </polygon>
 </package>
-<package name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/4" library_version="27">
+<package name="MX-2U-HOTSWAP" urn="urn:adsk.eagle:footprint:14733093/5" library_version="32">
 <description>Keyboard switch package!</description>
 <wire x1="-7.8" y1="-6.8" x2="-7.8" y2="6.8" width="0.125" layer="47"/>
 <wire x1="-7.8" y1="6.8" x2="-6.8" y2="7.8" width="0.125" layer="47" curve="-90"/>
@@ -1249,7 +1249,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="5.465" y="5.08" dx="4" dy="2.55" layer="16"/>
 <text x="0" y="-8.941" size="1" layer="25" font="vector" ratio="13" align="center">&gt;NAME</text>
 </package>
-<package name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:footprint:14733125/1" library_version="1">
+<package name="WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:footprint:14733125/2" library_version="32">
 <circle x="-4" y="-1" radius="0.1" width="0.2032" layer="21"/>
 <wire x1="-1.7" y1="1.4" x2="-1.7" y2="-1.4" width="0.01" layer="46"/>
 <wire x1="-1.7" y1="-1.4" x2="-1.6" y2="-1.5" width="0.01" layer="46" curve="90"/>
@@ -2185,50 +2185,48 @@ by exp-lbrs.ulp</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/5" type="model" library_version="28" library_locally_modified="yes">
+<package3d name="KEYBOARD_MX-1U-HOTSWAP" urn="urn:adsk.eagle:package:14733135/7" type="model" library_version="32">
 <description>Keyboard switch package!</description>
 <packageinstances>
-<packageinstance name="KEYBOARD_MX-1U-HOTSWAP"/>
+<packageinstance name="MX-1U-HOTSWAP"/>
 </packageinstances>
 </package3d>
-<package3d name="COMPONENTS_SOD-123" urn="urn:adsk.eagle:package:14733140/2" type="model" library_version="3">
+<package3d name="COMPONENTS_SOD-123" urn="urn:adsk.eagle:package:14733140/3" type="model" library_version="32">
 <description>SOD-123 footprint</description>
 <packageinstances>
-<packageinstance name="COMPONENTS_SOD-123"/>
+<packageinstance name="SOD-123"/>
 </packageinstances>
 </package3d>
-<package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/5" type="model" library_version="27">
+<package3d name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" urn="urn:adsk.eagle:package:14733134/6" type="model" library_version="32">
 <description>Keyboard switch package!</description>
 <packageinstances>
-<packageinstance name="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK"/>
+<packageinstance name="MX-1U-HOTSWAP-CAPSLOCK"/>
 </packageinstances>
 </package3d>
-<package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/5" type="model" library_version="27">
+<package3d name="KEYBOARD_MX-2U-HOTSWAP" urn="urn:adsk.eagle:package:14733133/6" type="model" library_version="32">
 <description>Keyboard switch package!</description>
 <packageinstances>
-<packageinstance name="KEYBOARD_MX-2U-HOTSWAP"/>
+<packageinstance name="MX-2U-HOTSWAP"/>
 </packageinstances>
 </package3d>
-<package3d name="COMPONENTS_C0603" urn="urn:adsk.eagle:package:14733142/2" type="model" library_version="3">
+<package3d name="COMPONENTS_C0603" urn="urn:adsk.eagle:package:14733142/3" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="COMPONENTS_C0603"/>
+<packageinstance name="C0603"/>
 </packageinstances>
 </package3d>
-<package3d name="COMPONENTS_R0603" urn="urn:adsk.eagle:package:14733141/2" type="model" library_version="3">
+<package3d name="COMPONENTS_R0603" urn="urn:adsk.eagle:package:14733141/3" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="COMPONENTS_R0603"/>
+<packageinstance name="R0603"/>
 </packageinstances>
 </package3d>
-<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/3" type="model" library_version="23" library_locally_modified="yes">
+<package3d name="CONTROLLER_USB-C-12P-INBOARD" urn="urn:adsk.eagle:package:14733137/4" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="CONTROLLER_USB-C-12P-INBOARD"/>
+<packageinstance name="USB-C-12P-INBOARD"/>
 </packageinstances>
 </package3d>
-<package3d name="OSCCC320X250X70L" urn="urn:adsk.eagle:package:14733139/4" type="model" library_version="10">
-<description>Oscillator Corner Concave, 3.20 X 2.50 X 0.70 mm body
-&lt;p&gt;Oscillator Corner Concave package with body size 3.20 X 2.50 X 0.70 mm&lt;/p&gt;</description>
+<package3d name="OSCCC320X250X70L" urn="urn:adsk.eagle:package:14733139/5" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="CONTROLLER_CRYSTAL-3.2X2.5"/>
+<packageinstance name="CRYSTAL-3.2X2.5"/>
 </packageinstances>
 </package3d>
 <package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/4" type="empty" library_version="23" library_locally_modified="yes">
@@ -2236,39 +2234,37 @@ by exp-lbrs.ulp</description>
 <packageinstance name="TYR_TYR_DISPLAY"/>
 </packageinstances>
 </package3d>
-<package3d name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:package:14733138/4" type="model" library_version="10">
-<description>4-SOT143, 1.90 mm pitch, 2.30 mm span, 2.90 X 1.30 X 1.10 mm body
-&lt;p&gt;4-pin SOT143 package with 1.90 mm pitch, 2.30 mm span with body size 2.90 X 1.30 X 1.10 mm&lt;/p&gt;</description>
+<package3d name="CONTROLLER_PRTR5V0U2X" urn="urn:adsk.eagle:package:14733138/5" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="CONTROLLER_PRTR5V0U2X"/>
+<packageinstance name="PRTR5V0U2X"/>
 </packageinstances>
 </package3d>
-<package3d name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:package:14733126/2" type="model" library_version="10">
+<package3d name="TYR_WS2812B_3528_REVERS-MOUNT" urn="urn:adsk.eagle:package:14733126/3" type="model" library_version="32">
 <packageinstances>
-<packageinstance name="TYR_WS2812B_3528_REVERS-MOUNT"/>
+<packageinstance name="WS2812B_3528_REVERS-MOUNT"/>
 </packageinstances>
 </package3d>
-<package3d name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:package:14733131/2" type="empty" library_version="10">
+<package3d name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" urn="urn:adsk.eagle:package:14733131/3" type="empty" library_version="32">
 <packageinstances>
-<packageinstance name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE"/>
+<packageinstance name="SOLDERJUMPER_ARROW_NOPASTE"/>
 </packageinstances>
 </package3d>
-<package3d name="TYR_SOT-23-6P" urn="urn:adsk.eagle:package:14733128/3" type="model" library_version="10">
+<package3d name="TYR_SOT-23-6P" urn="urn:adsk.eagle:package:14733128/4" type="model" library_version="32">
 <description>&lt;b&gt;SOT-23-6L&lt;/b&gt;&lt;br&gt;</description>
 <packageinstances>
-<packageinstance name="TYR_SOT-23-6P"/>
+<packageinstance name="SOT-23-6P"/>
 </packageinstances>
 </package3d>
-<package3d name="MICROBUILDER_SOT23-8" urn="urn:adsk.eagle:package:14733130/3" type="model" library_version="10">
+<package3d name="MICROBUILDER_SOT23-8" urn="urn:adsk.eagle:package:14733130/4" type="model" library_version="32">
 <description>&lt;b&gt;Source: &lt;/b&gt;http://www.ti.com/lit/ml/mpds099c/mpds099c.pdf</description>
 <packageinstances>
-<packageinstance name="MICROBUILDER_SOT23-8"/>
+<packageinstance name="SOT23-8"/>
 </packageinstances>
 </package3d>
-<package3d name="MICROBUILDER_2512" urn="urn:adsk.eagle:package:14733132/2" type="model" library_version="10">
+<package3d name="MICROBUILDER_2512" urn="urn:adsk.eagle:package:14733132/3" type="model" library_version="32">
 <description>&lt;b&gt;RESISTOR 2512 (Metric 6432)&lt;/b&gt;</description>
 <packageinstances>
-<packageinstance name="MICROBUILDER_2512"/>
+<packageinstance name="R2512"/>
 </packageinstances>
 </package3d>
 <package3d name="HOLE_M3_OVAL" urn="urn:adsk.eagle:package:14733136/3" type="empty" library_version="23" library_locally_modified="yes">
@@ -2513,442 +2509,442 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </pass>
 </autorouter>
 <elements>
-<element name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="42.8625" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="59.53125" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="128.5875" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="90.4875" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK" x="16.66875" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="11.90625" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="80.9625" y="47.625" smashed="yes" rot="R180"/>
-<element name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="21.43125" y="84.534375" smashed="yes" rot="MR90">
+<element name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="42.8625" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="59.53125" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="128.5875" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="90.4875" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP-CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/6" value="KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK" x="16.66875" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="11.90625" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="80.9625" y="47.625" smashed="yes" rot="R180"/>
+<element name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="21.43125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="19.79625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="23.06625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="40.48125" y="84.534375" smashed="yes" rot="MR90">
+<element name="D14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="40.48125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="38.84625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="42.11625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="59.53125" y="84.534375" smashed="yes" rot="MR90">
+<element name="D15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="59.53125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="57.89625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="61.16625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="78.58125" y="84.534375" smashed="yes" rot="MR90">
+<element name="D16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="78.58125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="76.94625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="80.21625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="97.63125" y="84.534375" smashed="yes" rot="MR90">
+<element name="D17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="97.63125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="95.99625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="99.26625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="116.68125" y="84.534375" smashed="yes" rot="MR90">
+<element name="D18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="116.68125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="115.04625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="118.31625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="35.71875" y="46.434375" smashed="yes" rot="MR90">
+<element name="D28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="35.71875" y="46.434375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="34.08375" y="46.434375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="37.35375" y="46.434375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="52.3875" y="8.334375" smashed="yes" rot="MR90">
+<element name="D42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="52.3875" y="8.334375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="50.7525" y="8.334375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="54.0225" y="8.334375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="121.44375" y="27.384375" smashed="yes" rot="MR90">
+<element name="D39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="121.44375" y="27.384375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="119.80875" y="27.384375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="123.07875" y="27.384375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="83.34375" y="27.384375" smashed="yes" rot="MR90">
+<element name="D37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="83.34375" y="27.384375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="81.70875" y="27.384375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="84.97875" y="27.384375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="9.525" y="46.434375" smashed="yes" rot="MR90">
+<element name="D27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="9.525" y="46.434375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="9.525" y="49.710703125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" value="1N4148" x="11.16" y="46.434375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="4.7625" y="8.334375" smashed="yes" rot="MR90">
+<element name="D40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="4.7625" y="8.334375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="3.1275" y="8.334375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="6.3975" y="8.334375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="73.81875" y="46.434375" smashed="yes" rot="MR90">
+<element name="D30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="73.81875" y="46.434375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="72.18375" y="46.434375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="75.45375" y="46.434375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="69.05625" y="65.484375" smashed="yes" rot="MR90">
+<element name="D23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="69.05625" y="65.484375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="67.42125" y="65.484375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="70.69125" y="65.484375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="2.38125" y="103.584375" smashed="yes" rot="MR90">
+<element name="D4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="2.38125" y="103.584375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="0.74625" y="103.584375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="4.01625" y="103.584375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="92.86875" y="46.434375" smashed="yes" rot="MR90">
+<element name="D31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="92.86875" y="46.434375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="91.23375" y="46.434375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="94.50375" y="46.434375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="21.43125" y="103.584375" smashed="yes" rot="MR90">
+<element name="D5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="21.43125" y="103.584375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="19.79625" y="103.584375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="23.06625" y="103.584375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="40.48125" y="103.584375" smashed="yes" rot="MR90">
+<element name="D6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="40.48125" y="103.584375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="38.84625" y="103.584375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="42.11625" y="103.584375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="59.53125" y="103.584375" smashed="yes" rot="MR90">
+<element name="D7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="59.53125" y="103.584375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="57.89625" y="103.584375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="61.16625" y="103.584375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="78.58125" y="103.584375" smashed="yes" rot="MR90">
+<element name="D8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="78.58125" y="103.584375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="76.94625" y="103.584375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="80.21625" y="103.584375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="97.63125" y="103.584375" smashed="yes" rot="MR90">
+<element name="D9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="97.63125" y="103.584375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="95.99625" y="103.584375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="99.26625" y="103.584375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="116.68125" y="103.584375" smashed="yes" rot="MR90">
+<element name="D10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="116.68125" y="103.584375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="115.04625" y="103.584375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="118.31625" y="103.584375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="119.0625" y="8.334375" smashed="yes" rot="MR90">
+<element name="D44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="119.0625" y="8.334375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="117.4275" y="7.7390625" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="120.6975" y="8.334375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="111.91875" y="46.434375" smashed="yes" rot="MR90">
+<element name="D32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="111.91875" y="46.434375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="110.28375" y="46.434375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="113.55375" y="46.434375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="2.38125" y="84.534375" smashed="yes" rot="MR90">
+<element name="D12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="2.38125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="0.74625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="4.01625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="133.35" y="46.434375" smashed="yes" rot="MR90">
+<element name="D33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="133.35" y="46.434375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="131.715" y="46.434375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="134.985" y="46.434375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="135.73125" y="103.584375" smashed="yes" rot="MR90">
+<element name="D11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="135.73125" y="103.584375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="134.09625" y="103.584375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="137.36625" y="103.584375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="135.73125" y="84.534375" smashed="yes" rot="MR90">
+<element name="D19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="135.73125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="134.09625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="137.36625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="30.95625" y="65.484375" smashed="yes" rot="MR90">
+<element name="D21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="30.95625" y="65.484375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="29.32125" y="65.484375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="32.59125" y="65.484375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="88.10625" y="65.484375" smashed="yes" rot="MR90">
+<element name="D24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="88.10625" y="65.484375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="86.47125" y="65.484375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="89.74125" y="65.484375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="54.76875" y="46.434375" smashed="yes" rot="MR90">
+<element name="D29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="54.76875" y="46.434375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="53.13375" y="46.434375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="56.40375" y="46.434375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="14.2875" y="27.384375" smashed="yes" rot="MR90">
+<element name="D34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="14.2875" y="27.384375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="12.6525" y="27.384375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="15.9225" y="27.384375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="85.725" y="8.334375" smashed="yes" rot="MR90">
+<element name="D43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="85.725" y="8.334375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="84.09" y="8.334375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="87.36" y="8.334375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="107.15625" y="65.484375" smashed="yes" rot="MR90">
+<element name="D25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="107.15625" y="65.484375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="105.52125" y="65.484375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="108.79125" y="65.484375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="7.14375" y="65.484375" smashed="yes" rot="MR90">
+<element name="D20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="7.14375" y="65.484375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="5.50875" y="65.484375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="8.77875" y="65.484375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="102.39375" y="27.384375" smashed="yes" rot="MR90">
+<element name="D38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="102.39375" y="27.384375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="100.75875" y="27.384375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="104.02875" y="27.384375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="50.00625" y="65.484375" smashed="yes" rot="MR90">
+<element name="D22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="50.00625" y="65.484375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="48.37125" y="65.484375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="51.64125" y="65.484375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="28.575" y="8.334375" smashed="yes" rot="MR90">
+<element name="D41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="28.575" y="8.334375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="26.94" y="8.334375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="30.21" y="8.334375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="64.29375" y="27.384375" smashed="yes" rot="MR90">
+<element name="D36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="64.29375" y="27.384375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="62.65875" y="27.384375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="65.92875" y="27.384375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="130.96875" y="65.484375" smashed="yes" rot="MR90">
+<element name="D26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="130.96875" y="65.484375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="129.33375" y="65.484375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="132.60375" y="65.484375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="45.24375" y="27.384375" smashed="yes" rot="MR90">
+<element name="D35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="45.24375" y="27.384375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="43.60875" y="27.384375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="46.87875" y="27.384375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="76.2" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="100.0125" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="126.20625" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="119.0625" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="140.49375" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="38.1" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="95.25" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="61.9125" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/5" value="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" x="21.43125" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/5" value="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" x="92.86875" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="114.3" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="14.2875" y="66.675" smashed="yes" rot="R180"/>
-<element name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="CONTROLLER_USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/3" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD" x="19.05" y="111.91875" smashed="yes" rot="MR180"/>
-<element name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_TYR_DISPLAY" package3d_urn="urn:adsk.eagle:package:14733127/4" value="TYR_TYR_DISPLAY" x="138.1125" y="0" smashed="yes"/>
-<element name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="CONTROLLER_PRTR5V0U2X" package3d_urn="urn:adsk.eagle:package:14733138/4" value="CONTROLLER_PRTR5V0U2X" x="150.01875" y="110.1328125" smashed="yes" rot="MR90">
+<element name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="76.2" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="100.0125" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="126.20625" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="119.0625" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="140.49375" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="38.1" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="95.25" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="61.9125" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6" value="KEYSWITCH-MX-2U-HOTSWAP" x="21.43125" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6" value="KEYSWITCH-MX-2U-HOTSWAP" x="92.86875" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="114.3" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="14.2875" y="66.675" smashed="yes" rot="R180"/>
+<element name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/4" value="USB-C-12P-INBOARD" x="19.05" y="111.91875" smashed="yes" rot="MR180"/>
+<element name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_TYR_DISPLAY" package3d_urn="urn:adsk.eagle:package:14733127/4" value="TYR_DISPLAY" x="138.1125" y="0" smashed="yes"/>
+<element name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="PRTR5V0U2X" package3d_urn="urn:adsk.eagle:package:14733138/5" value="PRTR5V0U2X" x="150.01875" y="110.1328125" smashed="yes" rot="MR90">
 <attribute name="NAME" x="150.01875" y="112.579296875" size="1" layer="22" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="109.5375" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="57.15" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="35.71875" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="71.4375" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="138.1125" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="52.3875" y="28.575" smashed="yes" rot="R180"/>
-<element name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="8.9296875" y="109.5375" smashed="yes" rot="MR0"/>
-<element name="LED2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="29.1703125" y="109.5375" smashed="yes" rot="MR0"/>
-<element name="LED3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="47.625" y="109.5375" smashed="yes" rot="MR0"/>
-<element name="LED4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="66.675" y="109.5375" smashed="yes" rot="MR0"/>
-<element name="LED5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="85.725" y="109.5375" smashed="yes" rot="MR0"/>
-<element name="LED6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="104.775" y="109.5375" smashed="yes" rot="MR0"/>
-<element name="LED7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="123.825" y="109.5375" smashed="yes" rot="MR0"/>
-<element name="LED8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="142.875" y="109.5375" smashed="yes" rot="MR0"/>
-<element name="LED9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="9.525" y="90.4875" smashed="yes" rot="MR0"/>
-<element name="LED10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="28.575" y="90.4875" smashed="yes" rot="MR0"/>
-<element name="LED11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="47.625" y="90.4875" smashed="yes" rot="MR0"/>
-<element name="LED12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="66.675" y="90.4875" smashed="yes" rot="MR0"/>
-<element name="LED13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="85.725" y="90.4875" smashed="yes" rot="MR0"/>
-<element name="LED14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="104.775" y="90.4875" smashed="yes" rot="MR0"/>
-<element name="LED15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="123.825" y="90.4875" smashed="yes" rot="MR0"/>
-<element name="LED16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="142.875" y="90.4875" smashed="yes" rot="MR0"/>
-<element name="LED17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="14.2875" y="71.4375" smashed="yes" rot="MR0"/>
-<element name="LED18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="38.1" y="71.4375" smashed="yes" rot="MR0"/>
-<element name="LED19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="57.15" y="71.4375" smashed="yes" rot="MR0"/>
-<element name="LED20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="76.2" y="71.4375" smashed="yes" rot="MR0"/>
-<element name="LED21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="95.25" y="71.4375" smashed="yes" rot="MR0"/>
-<element name="LED22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="114.3" y="71.4375" smashed="yes" rot="MR0"/>
-<element name="LED23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="138.1125" y="71.4375" smashed="yes" rot="MR0"/>
-<element name="LED24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="16.66875" y="52.3875" smashed="yes" rot="MR0"/>
-<element name="LED25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="42.8625" y="52.3875" smashed="yes" rot="MR0"/>
-<element name="LED26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="61.9125" y="52.3875" smashed="yes" rot="MR0"/>
-<element name="LED27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="80.9625" y="52.3875" smashed="yes" rot="MR0"/>
-<element name="LED28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="100.0125" y="52.3875" smashed="yes" rot="MR0"/>
-<element name="LED29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="119.0625" y="52.3875" smashed="yes" rot="MR0"/>
-<element name="LED30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="140.49375" y="52.3875" smashed="yes" rot="MR0"/>
-<element name="LED31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="21.43125" y="33.3375" smashed="yes" rot="MR0"/>
-<element name="LED32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="52.3875" y="33.3375" smashed="yes" rot="MR0"/>
-<element name="LED33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="71.4375" y="33.3375" smashed="yes" rot="MR0"/>
-<element name="LED34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="90.4875" y="33.3375" smashed="yes" rot="MR0"/>
-<element name="LED35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="109.5375" y="33.3375" smashed="yes" rot="MR0"/>
-<element name="LED36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="128.5875" y="33.3375" smashed="yes" rot="MR0"/>
-<element name="LED37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="11.90625" y="14.2875" smashed="yes" rot="MR0"/>
-<element name="LED38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="35.71875" y="14.2875" smashed="yes" rot="MR0"/>
-<element name="LED39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="59.53125" y="14.2875" smashed="yes" rot="MR0"/>
-<element name="LED40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="92.86875" y="14.2875" smashed="yes" rot="MR0"/>
-<element name="LED41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="126.20625" y="14.2875" smashed="yes" rot="MR0"/>
-<element name="U6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_SOT-23-6P" package3d_urn="urn:adsk.eagle:package:14733128/3" value="TYR_TPS2552" x="6.5484375" y="25.5984375" smashed="yes" rot="MR90">
+<element name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="109.5375" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="57.15" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="35.71875" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="71.4375" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="138.1125" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="52.3875" y="28.575" smashed="yes" rot="R180"/>
+<element name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="8.9296875" y="109.5375" smashed="yes" rot="MR0"/>
+<element name="LED2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="29.1703125" y="109.5375" smashed="yes" rot="MR0"/>
+<element name="LED3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="47.625" y="109.5375" smashed="yes" rot="MR0"/>
+<element name="LED4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="66.675" y="109.5375" smashed="yes" rot="MR0"/>
+<element name="LED5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="85.725" y="109.5375" smashed="yes" rot="MR0"/>
+<element name="LED6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="104.775" y="109.5375" smashed="yes" rot="MR0"/>
+<element name="LED7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="123.825" y="109.5375" smashed="yes" rot="MR0"/>
+<element name="LED8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="142.875" y="109.5375" smashed="yes" rot="MR0"/>
+<element name="LED9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="9.525" y="90.4875" smashed="yes" rot="MR0"/>
+<element name="LED10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="28.575" y="90.4875" smashed="yes" rot="MR0"/>
+<element name="LED11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="47.625" y="90.4875" smashed="yes" rot="MR0"/>
+<element name="LED12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="66.675" y="90.4875" smashed="yes" rot="MR0"/>
+<element name="LED13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="85.725" y="90.4875" smashed="yes" rot="MR0"/>
+<element name="LED14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="104.775" y="90.4875" smashed="yes" rot="MR0"/>
+<element name="LED15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="123.825" y="90.4875" smashed="yes" rot="MR0"/>
+<element name="LED16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="142.875" y="90.4875" smashed="yes" rot="MR0"/>
+<element name="LED17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="14.2875" y="71.4375" smashed="yes" rot="MR0"/>
+<element name="LED18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="38.1" y="71.4375" smashed="yes" rot="MR0"/>
+<element name="LED19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="57.15" y="71.4375" smashed="yes" rot="MR0"/>
+<element name="LED20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="76.2" y="71.4375" smashed="yes" rot="MR0"/>
+<element name="LED21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="95.25" y="71.4375" smashed="yes" rot="MR0"/>
+<element name="LED22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="114.3" y="71.4375" smashed="yes" rot="MR0"/>
+<element name="LED23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="138.1125" y="71.4375" smashed="yes" rot="MR0"/>
+<element name="LED24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="16.66875" y="52.3875" smashed="yes" rot="MR0"/>
+<element name="LED25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="42.8625" y="52.3875" smashed="yes" rot="MR0"/>
+<element name="LED26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="61.9125" y="52.3875" smashed="yes" rot="MR0"/>
+<element name="LED27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="80.9625" y="52.3875" smashed="yes" rot="MR0"/>
+<element name="LED28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="100.0125" y="52.3875" smashed="yes" rot="MR0"/>
+<element name="LED29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="119.0625" y="52.3875" smashed="yes" rot="MR0"/>
+<element name="LED30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="140.49375" y="52.3875" smashed="yes" rot="MR0"/>
+<element name="LED31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="21.43125" y="33.3375" smashed="yes" rot="MR0"/>
+<element name="LED32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="52.3875" y="33.3375" smashed="yes" rot="MR0"/>
+<element name="LED33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="71.4375" y="33.3375" smashed="yes" rot="MR0"/>
+<element name="LED34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="90.4875" y="33.3375" smashed="yes" rot="MR0"/>
+<element name="LED35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="109.5375" y="33.3375" smashed="yes" rot="MR0"/>
+<element name="LED36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="128.5875" y="33.3375" smashed="yes" rot="MR0"/>
+<element name="LED37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="11.90625" y="14.2875" smashed="yes" rot="MR0"/>
+<element name="LED38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="35.71875" y="14.2875" smashed="yes" rot="MR0"/>
+<element name="LED39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="59.53125" y="14.2875" smashed="yes" rot="MR0"/>
+<element name="LED40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="92.86875" y="14.2875" smashed="yes" rot="MR0"/>
+<element name="LED41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="126.20625" y="14.2875" smashed="yes" rot="MR0"/>
+<element name="U6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOT-23-6P" package3d_urn="urn:adsk.eagle:package:14733128/4" value="TPS2552" x="6.5484375" y="25.5984375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="6.5484375" y="28.27734375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="4.0084375" y="25.5984375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="U5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MICROBUILDER_SOT23-8" package3d_urn="urn:adsk.eagle:package:14733130/3" value="" x="2.38125" y="25.5984375" smashed="yes" rot="MR180">
+<element name="U5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOT23-8" package3d_urn="urn:adsk.eagle:package:14733130/4" value="" x="2.38125" y="25.5984375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="2.38125" y="28.27734375" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="2.38125" y="28.1384375" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u" x="1.7859375" y="30.65859375" smashed="yes" rot="MR90">
+<element name="C15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="0.1u" x="1.7859375" y="30.65859375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="1.7859375" y="33.783984375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" x="3.3639375" y="30.65859375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MICROBUILDER_2512" package3d_urn="urn:adsk.eagle:package:14733132/2" value="0.1/1% (PT2512FK-070R1L)" x="4.46484375" y="17.859375" smashed="yes" rot="MR90">
+<element name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R2512" package3d_urn="urn:adsk.eagle:package:14733132/3" value="0.1/1% (PT2512FK-070R1L)" x="4.46484375" y="17.859375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="4.46484375" y="22.473046875" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="1.46484375" y="17.859375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="54.9k" x="7.14375" y="30.65859375" smashed="yes" rot="MR270">
+<element name="R11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="54.9k" x="7.14375" y="30.65859375" smashed="yes" rot="MR270">
 <attribute name="NAME" x="7.14375" y="33.783984375" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="8.59375" y="30.65859375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="R12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="5.3578125" y="30.65859375" smashed="yes" rot="MR270">
+<element name="R12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="10k" x="5.3578125" y="30.65859375" smashed="yes" rot="MR270">
 <attribute name="NAME" x="5.3578125" y="33.783984375" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="6.8078125" y="30.65859375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="3.423046875" y="108.64453125" smashed="yes" rot="MR180">
+<element name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="3.423046875" y="108.64453125" smashed="yes" rot="MR180">
 <attribute name="NAME" x="1.041796875" y="108.346875" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="3.423046875" y="107.06653125" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="38.1" y="109.5375" smashed="yes" rot="MR180">
+<element name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="38.1" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="38.1" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="38.1" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="57.15" y="109.5375" smashed="yes" rot="MR180">
+<element name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="57.15" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="57.15" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="57.15" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="109.5375" smashed="yes" rot="MR180">
+<element name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="76.2" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="76.2" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="76.2" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="95.25" y="109.5375" smashed="yes" rot="MR180">
+<element name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="95.25" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="95.25" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="95.25" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="114.3" y="109.5375" smashed="yes" rot="MR180">
+<element name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="114.3" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="114.3" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="114.3" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="133.35" y="109.5375" smashed="yes" rot="MR180">
+<element name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="133.35" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="133.35" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="133.35" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="19.05" y="90.4875" smashed="yes" rot="MR180">
+<element name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="19.05" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="19.05" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="19.05" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="38.1" y="90.4875" smashed="yes" rot="MR180">
+<element name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="38.1" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="38.1" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="38.1" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="57.15" y="90.4875" smashed="yes" rot="MR180">
+<element name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="57.15" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="57.15" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="57.15" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="90.4875" smashed="yes" rot="MR180">
+<element name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="76.2" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="76.2" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="76.2" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="95.25" y="90.4875" smashed="yes" rot="MR180">
+<element name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="95.25" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="95.25" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="95.25" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="114.3" y="90.4875" smashed="yes" rot="MR180">
+<element name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="114.3" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="114.3" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="114.3" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="133.35" y="90.4875" smashed="yes" rot="MR180">
+<element name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="133.35" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="133.35" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="133.35" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="26.19375" y="71.4375" smashed="yes" rot="MR180">
+<element name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="26.19375" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="26.19375" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="26.19375" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="47.625" y="71.4375" smashed="yes" rot="MR180">
+<element name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="47.625" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="47.625" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="47.625" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="66.675" y="71.4375" smashed="yes" rot="MR180">
+<element name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="66.675" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="66.675" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="66.675" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="85.725" y="71.4375" smashed="yes" rot="MR180">
+<element name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="85.725" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="85.725" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="85.725" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="104.775" y="71.4375" smashed="yes" rot="MR180">
+<element name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="104.775" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="104.775" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="104.775" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="126.20625" y="71.4375" smashed="yes" rot="MR180">
+<element name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="126.20625" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="126.20625" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="126.20625" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="29.765625" y="52.3875" smashed="yes" rot="MR180">
+<element name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="29.765625" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="29.765625" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="29.765625" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="52.3875" y="52.3875" smashed="yes" rot="MR180">
+<element name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="52.3875" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="52.3875" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="52.3875" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="71.4375" y="52.3875" smashed="yes" rot="MR180">
+<element name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="71.4375" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="71.4375" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="71.4375" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="90.4875" y="52.3875" smashed="yes" rot="MR180">
+<element name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="90.4875" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="90.4875" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="90.4875" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="109.5375" y="52.3875" smashed="yes" rot="MR180">
+<element name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="109.5375" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="109.5375" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="109.5375" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="129.778125" y="52.3875" smashed="yes" rot="MR180">
+<element name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="129.778125" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="129.778125" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="129.778125" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="36.909375" y="33.3375" smashed="yes" rot="MR180">
+<element name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="36.909375" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="36.909375" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="36.909375" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="61.9125" y="33.3375" smashed="yes" rot="MR180">
+<element name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="61.9125" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="61.9125" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="61.9125" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="80.9625" y="33.3375" smashed="yes" rot="MR180">
+<element name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="80.9625" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="80.9625" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="80.9625" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="100.0125" y="33.3375" smashed="yes" rot="MR180">
+<element name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="100.0125" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="100.0125" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="100.0125" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="119.0625" y="33.3375" smashed="yes" rot="MR180">
+<element name="C48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="119.0625" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="119.0625" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="119.0625" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="23.8125" y="14.2875" smashed="yes" rot="MR180">
+<element name="C49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="23.8125" y="14.2875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="23.8125" y="15.7385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="23.8125" y="12.7095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="47.625" y="14.2875" smashed="yes" rot="MR180">
+<element name="C50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="47.625" y="14.2875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="47.625" y="15.7385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="47.625" y="12.7095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="14.2875" smashed="yes" rot="MR180">
+<element name="C51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="76.2" y="14.2875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="76.2" y="15.7385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="76.2" y="12.7095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="109.5375" y="14.2875" smashed="yes" rot="MR180">
+<element name="C52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104" x="109.5375" y="14.2875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="109.5375" y="15.7385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="109.5375" y="12.7095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="0.1u" x="3.571875" y="30.65859375" smashed="yes" rot="MR90">
+<element name="C14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="0.1u" x="3.571875" y="30.65859375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="3.571875" y="33.783984375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" x="5.149875" y="30.65859375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="HOLE3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_M3_OVAL" package3d_urn="urn:adsk.eagle:package:14733136/3" value="HOLE_MOUNT_HOLE" x="23.8125" y="1.65" smashed="yes" rot="R90"/>
-<element name="HOLE4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_M3_OVAL" package3d_urn="urn:adsk.eagle:package:14733136/3" value="HOLE_MOUNT_HOLE" x="1.65" y="95.25" smashed="yes"/>
-<element name="HOLE5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_M3_OVAL" package3d_urn="urn:adsk.eagle:package:14733136/3" value="HOLE_MOUNT_HOLE" x="150.75" y="95.25" smashed="yes"/>
-<element name="HOLE6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_M3_OVAL" package3d_urn="urn:adsk.eagle:package:14733136/3" value="HOLE_MOUNT_HOLE" x="113.109375" y="1.65" smashed="yes" rot="R90"/>
-<element name="SJ1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE" package3d_urn="urn:adsk.eagle:package:14733131/2" value="" x="4.46484375" y="17.859375" smashed="yes" rot="MR90">
+<element name="HOLE3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_M3_OVAL" package3d_urn="urn:adsk.eagle:package:14733136/3" value="MOUNT_HOLE" x="23.8125" y="1.65" smashed="yes" rot="R90"/>
+<element name="HOLE4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_M3_OVAL" package3d_urn="urn:adsk.eagle:package:14733136/3" value="MOUNT_HOLE" x="1.65" y="95.25" smashed="yes"/>
+<element name="HOLE5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_M3_OVAL" package3d_urn="urn:adsk.eagle:package:14733136/3" value="MOUNT_HOLE" x="150.75" y="95.25" smashed="yes"/>
+<element name="HOLE6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_M3_OVAL" package3d_urn="urn:adsk.eagle:package:14733136/3" value="MOUNT_HOLE" x="113.109375" y="1.65" smashed="yes" rot="R90"/>
+<element name="SJ1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOLDERJUMPER_ARROW_NOPASTE" package3d_urn="urn:adsk.eagle:package:14733131/3" value="" x="4.46484375" y="17.859375" smashed="yes" rot="MR90">
 <attribute name="BOM" value="EXCLUDE" x="4.46484375" y="17.859375" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="2.46484375" y="17.859375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k" x="9.376171875" y="25.5984375" smashed="yes" rot="MR90">
+<element name="R6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="100k" x="9.376171875" y="25.5984375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="9.376171875" y="27.94140625" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="7.926171875" y="25.5984375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k" x="3.423046875" y="112.21640625" smashed="yes" rot="MR0">
+<element name="R1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="5.1k" x="3.423046875" y="112.21640625" smashed="yes" rot="MR0">
 <attribute name="NAME" x="1.041796875" y="112.21640625" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" x="3.423046875" y="110.76640625" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="R3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k" x="3.423046875" y="110.43046875" smashed="yes" rot="MR0">
+<element name="R3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="5.1k" x="3.423046875" y="110.43046875" smashed="yes" rot="MR0">
 <attribute name="NAME" x="1.041796875" y="110.43046875" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" x="3.423046875" y="108.98046875" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
@@ -2956,39 +2952,39 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="148.828125" y="26.7890625" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="138.8682375" y="22.0265625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="Y1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="CONTROLLER_CRYSTAL-3.2X2.5" package3d_urn="urn:adsk.eagle:package:14733139/4" value="8Mhz" x="144.6609375" y="12.5015625" smashed="yes" rot="MR0">
+<element name="Y1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="CRYSTAL-3.2X2.5" package3d_urn="urn:adsk.eagle:package:14733139/5" value="8Mhz" x="144.6609375" y="12.5015625" smashed="yes" rot="MR0">
 <attribute name="NAME" x="144.6609375" y="14.9135625" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="144.6609375" y="10.0895625" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p" x="147.6375" y="12.5015625" smashed="yes" rot="MR270">
+<element name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="22p" x="147.6375" y="12.5015625" smashed="yes" rot="MR270">
 <attribute name="NAME" x="147.6375" y="14.8828125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="146.0595" y="12.5015625" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="C11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p" x="141.684375" y="12.5015625" smashed="yes" rot="MR90">
+<element name="C11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="22p" x="141.684375" y="12.5015625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="141.684375" y="14.8828125" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="143.262375" y="12.5015625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="C3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10n" x="149.12578125" y="31.5515625" smashed="yes" rot="MR90">
+<element name="C3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="10n" x="149.12578125" y="31.5515625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="149.12578125" y="33.9328125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="150.70378125" y="31.5515625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="C4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="1u" x="147.33984375" y="31.5515625" smashed="yes" rot="MR90">
+<element name="C4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="1u" x="147.33984375" y="31.5515625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="147.33984375" y="33.9328125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="148.91784375" y="31.5515625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="C1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="100n" x="145.55390625" y="31.5515625" smashed="yes" rot="MR90">
+<element name="C1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n" x="145.55390625" y="31.5515625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="145.55390625" y="33.9328125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="147.13190625" y="31.5515625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="C2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="100n" x="143.76796875" y="31.5515625" smashed="yes" rot="MR90">
+<element name="C2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n" x="143.76796875" y="31.5515625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="143.76796875" y="33.9328125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="145.34596875" y="31.5515625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="C5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="100n" x="141.98203125" y="31.5515625" smashed="yes" rot="MR90">
+<element name="C5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n" x="141.98203125" y="31.5515625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="141.98203125" y="33.9328125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="143.56003125" y="31.5515625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="C6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u" x="140.19609375" y="31.5515625" smashed="yes" rot="MR90">
+<element name="C6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7u" x="140.19609375" y="31.5515625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="140.19609375" y="33.9328125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="141.77409375" y="31.5515625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
@@ -2996,15 +2992,15 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="147.0421875" y="72.181640625" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="147.0471875" y="67.0765625" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="C7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="1u" x="149.4234375" y="70.8421875" smashed="yes" rot="MR90">
+<element name="C7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="1u" x="149.4234375" y="70.8421875" smashed="yes" rot="MR90">
 <attribute name="NAME" x="150.91171875" y="70.8421875" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" x="151.0014375" y="70.8421875" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="C8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="1u" x="144.6609375" y="70.8421875" smashed="yes" rot="MR270">
+<element name="C8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="1u" x="144.6609375" y="70.8421875" smashed="yes" rot="MR270">
 <attribute name="NAME" x="143.17265625" y="70.8421875" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="143.0829375" y="70.8421875" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="DIODE_SCHOTTKY" x="147.0421875" y="73.81875" smashed="yes" rot="MR180">
+<element name="D1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="DIODE_SCHOTTKY" x="147.0421875" y="73.81875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="147.0421875" y="75.45375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="147.0421875" y="72.18375" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
@@ -3012,19 +3008,19 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="145.479496875" y="6.5484375" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="142.939496875" y="8.9296875" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="C9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7n" x="147.6375" y="8.9296875" smashed="yes" rot="MR270">
+<element name="C9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7n" x="147.6375" y="8.9296875" smashed="yes" rot="MR270">
 <attribute name="NAME" x="147.6375" y="6.5484375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="146.0595" y="8.9296875" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="149.4234375" y="10.715625" smashed="yes" rot="MR90">
+<element name="D2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="149.4234375" y="10.715625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="149.4234375" y="7.590234375" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="151.0584375" y="10.715625" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="C13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10u" x="143.321484375" y="8.9296875" smashed="yes" rot="MR90">
+<element name="C13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="10u" x="143.321484375" y="8.9296875" smashed="yes" rot="MR90">
 <attribute name="NAME" x="143.321484375" y="6.5484375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="144.899484375" y="8.9296875" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k" x="141.684375" y="8.9296875" smashed="yes" rot="MR270">
+<element name="R5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="100k" x="141.684375" y="8.9296875" smashed="yes" rot="MR270">
 <attribute name="NAME" x="141.0890625" y="6.5484375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="143.134375" y="8.9296875" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
@@ -3036,42 +3032,42 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="4.46484375" y="49.3812125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="4.46484375" y="49.3240625" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10u" x="4.46484375" y="41.671875" smashed="yes" rot="MR180">
+<element name="C17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="10u" x="4.46484375" y="41.671875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="2.08359375" y="41.671875" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="4.46484375" y="40.093875" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="R7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="4.46484375" y="39.8859375" smashed="yes" rot="MR0">
+<element name="R7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="10k" x="4.46484375" y="39.8859375" smashed="yes" rot="MR0">
 <attribute name="NAME" x="6.84609375" y="39.8859375" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="4.46484375" y="38.4359375" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="R8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="4.46484375" y="38.1" smashed="yes" rot="MR0">
+<element name="R8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="10k" x="4.46484375" y="38.1" smashed="yes" rot="MR0">
 <attribute name="NAME" x="2.08359375" y="38.1" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="4.46484375" y="36.65" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
 <element name="LOGO1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="LOGO_TYR_COPPER" package3d_urn="urn:adsk.eagle:package:14993495/2" value="LOGO_TYR" x="29.58203125" y="47.57578125" smashed="yes"/>
-<element name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_5MM_OVAL" package3d_urn="urn:adsk.eagle:package:15041619/4" value="HOLE_MOUNT_HOLE5MM_NOTCH" x="150.75" y="57.15" smashed="yes"/>
-<element name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_5MM_OVAL" package3d_urn="urn:adsk.eagle:package:15041619/4" value="HOLE_MOUNT_HOLE5MM_NOTCH" x="1.65" y="57.15" smashed="yes"/>
-<element name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1.5k" x="150.01875" y="107.15625" smashed="yes" rot="MR0">
+<element name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_5MM_OVAL" package3d_urn="urn:adsk.eagle:package:15041619/4" value="MOUNT_HOLE5MM_NOTCH" x="150.75" y="57.15" smashed="yes"/>
+<element name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_5MM_OVAL" package3d_urn="urn:adsk.eagle:package:15041619/4" value="MOUNT_HOLE5MM_NOTCH" x="1.65" y="57.15" smashed="yes"/>
+<element name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="1.5k" x="150.01875" y="107.15625" smashed="yes" rot="MR0">
 <attribute name="NAME" x="150.01875" y="105.6296875" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="150.01875" y="105.70625" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M" x="36.3140625" y="112.5140625" smashed="yes" rot="MR180">
+<element name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="1M" x="36.3140625" y="112.5140625" smashed="yes" rot="MR180">
 <attribute name="NAME" x="33.63515625" y="112.5140625" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="36.3140625" y="113.9640625" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u" x="39.8859375" y="112.5140625" smashed="yes" rot="MR180">
+<element name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7u" x="39.8859375" y="112.5140625" smashed="yes" rot="MR180">
 <attribute name="NAME" x="42.8625" y="112.5140625" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="39.8859375" y="110.9360625" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="D3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="3.571875" y="73.81875" smashed="yes" rot="MR180">
+<element name="D3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="3.571875" y="73.81875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="7.14375" y="73.81875" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="3.571875" y="72.18375" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M" x="3.571875" y="72.0328125" smashed="yes" rot="MR0">
+<element name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="R0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="1M" x="3.571875" y="72.0328125" smashed="yes" rot="MR0">
 <attribute name="NAME" x="7.14375" y="72.0328125" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="3.571875" y="70.5828125" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="C16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u" x="3.571875" y="70.246875" smashed="yes" rot="MR0">
+<element name="C16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="C0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7u" x="3.571875" y="70.246875" smashed="yes" rot="MR0">
 <attribute name="NAME" x="6.84609375" y="70.246875" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="3.571875" y="71.824875" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
@@ -5054,8 +5050,6 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <via x="8.334375" y="31.5515625" extent="1-16" drill="0.35"/>
 <wire x1="8.334375" y1="31.5515625" x2="8.334375" y2="32.44453125" width="0.1524" layer="16"/>
 <wire x1="8.334375" y1="32.44453125" x2="5.3578125" y2="35.42109375" width="0.1524" layer="16"/>
-<wire x1="5.3578125" y1="38.08203125" x2="5.348828125" y2="38.091015625" width="0.1524" layer="16"/>
-<wire x1="5.348828125" y1="38.091015625" x2="5.33984375" y2="38.1" width="0.1524" layer="16"/>
 <wire x1="5.3578125" y1="35.42109375" x2="5.3578125" y2="36.3140625" width="0.1524" layer="16"/>
 <via x="5.3578125" y="36.3140625" extent="1-16" drill="0.35"/>
 <wire x1="5.06015625" y1="47.0296875" x2="5.06015625" y2="36.61171875" width="0.1524" layer="1"/>
