@@ -2513,19 +2513,19 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </pass>
 </autorouter>
 <elements>
-<element name="KEYSWITCH10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="85.725" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="85.725" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="85.725" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="85.725" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="85.725" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="85.725" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="42.8625" y="47.625" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="59.53125" y="9.525" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="128.5875" y="28.575" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="90.4875" y="28.575" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK" x="16.66875" y="47.625" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="11.90625" y="9.525" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="80.9625" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="42.8625" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="59.53125" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="128.5875" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="90.4875" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP-CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK" x="16.66875" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="11.90625" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="80.9625" y="47.625" smashed="yes" rot="R180"/>
 <element name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="21.43125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="19.79625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="23.06625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
@@ -2690,39 +2690,39 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="43.60875" y="27.384375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="46.87875" y="27.384375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="KEYSWITCH20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="76.2" y="66.675" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="104.775" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="100.0125" y="47.625" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="104.775" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="104.775" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="104.775" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="104.775" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="104.775" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="104.775" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="126.20625" y="9.525" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="119.0625" y="47.625" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="85.725" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="140.49375" y="47.625" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="104.775" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="85.725" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="38.1" y="66.675" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="95.25" y="66.675" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="61.9125" y="47.625" smashed="yes" rot="R180"/>
-<element name="SWITCH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/5" value="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" x="21.43125" y="28.575" smashed="yes" rot="R180"/>
-<element name="SWITCH2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/5" value="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" x="92.86875" y="9.525" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="114.3" y="66.675" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="14.2875" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="76.2" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="100.0125" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="126.20625" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="119.0625" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="140.49375" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="38.1" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="95.25" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="61.9125" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/5" value="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" x="21.43125" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/5" value="KEYBOARD_KEYSWITCH-MX-2U-HOTSWAP" x="92.86875" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="114.3" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="14.2875" y="66.675" smashed="yes" rot="R180"/>
 <element name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="CONTROLLER_USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/3" value="CONTROLLER_USB-C-12PUSB-C-12P-INBOARD" x="19.05" y="111.91875" smashed="yes" rot="MR180"/>
 <element name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_TYR_DISPLAY" package3d_urn="urn:adsk.eagle:package:14733127/4" value="TYR_TYR_DISPLAY" x="138.1125" y="0" smashed="yes"/>
 <element name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="CONTROLLER_PRTR5V0U2X" package3d_urn="urn:adsk.eagle:package:14733138/4" value="CONTROLLER_PRTR5V0U2X" x="150.01875" y="110.1328125" smashed="yes" rot="MR90">
 <attribute name="NAME" x="150.01875" y="112.579296875" size="1" layer="22" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="KEYSWITCH34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="109.5375" y="28.575" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="57.15" y="66.675" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="35.71875" y="9.525" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="71.4375" y="28.575" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="138.1125" y="66.675" smashed="yes" rot="R180"/>
-<element name="KEYSWITCH31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="52.3875" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="109.5375" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="57.15" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="35.71875" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="71.4375" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="138.1125" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="KEYBOARD_MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/5" value="KEYBOARD_KEYSWITCH-MX-1U-HOTSWAP" x="52.3875" y="28.575" smashed="yes" rot="R180"/>
 <element name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="8.9296875" y="109.5375" smashed="yes" rot="MR0"/>
 <element name="LED2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="29.1703125" y="109.5375" smashed="yes" rot="MR0"/>
 <element name="LED3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/2" value="TYR_WS2812B_3528_REVERS-MOUNT" x="47.625" y="109.5375" smashed="yes" rot="MR0"/>
@@ -2776,155 +2776,155 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="1.7859375" y="33.783984375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" x="3.3639375" y="30.65859375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MICROBUILDER_2512" package3d_urn="urn:adsk.eagle:package:14733132/2" value="0.1/1% (PT2512FK-070R1L)" x="4.46484375" y="17.859375" smashed="yes" rot="MR90">
+<element name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MICROBUILDER_2512" package3d_urn="urn:adsk.eagle:package:14733132/2" value="0.1/1% (PT2512FK-070R1L)" x="4.46484375" y="17.859375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="4.46484375" y="22.473046875" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="1.46484375" y="17.859375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="54.9k" x="7.14375" y="30.65859375" smashed="yes" rot="MR270">
+<element name="R11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="54.9k" x="7.14375" y="30.65859375" smashed="yes" rot="MR270">
 <attribute name="NAME" x="7.14375" y="33.783984375" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="8.59375" y="30.65859375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="R13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="5.3578125" y="30.65859375" smashed="yes" rot="MR270">
+<element name="R12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="5.3578125" y="30.65859375" smashed="yes" rot="MR270">
 <attribute name="NAME" x="5.3578125" y="33.783984375" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="6.8078125" y="30.65859375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="C16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="3.423046875" y="108.64453125" smashed="yes" rot="MR180">
-<attribute name="NAME" x="1.041796875" y="108.04921875" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
+<element name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="3.423046875" y="108.64453125" smashed="yes" rot="MR180">
+<attribute name="NAME" x="1.041796875" y="108.346875" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="3.423046875" y="107.06653125" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="38.1" y="109.5375" smashed="yes" rot="MR180">
+<element name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="38.1" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="38.1" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="38.1" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="57.15" y="109.5375" smashed="yes" rot="MR180">
+<element name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="57.15" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="57.15" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="57.15" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="109.5375" smashed="yes" rot="MR180">
+<element name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="76.2" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="76.2" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="95.25" y="109.5375" smashed="yes" rot="MR180">
+<element name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="95.25" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="95.25" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="95.25" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="114.3" y="109.5375" smashed="yes" rot="MR180">
+<element name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="114.3" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="114.3" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="114.3" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="133.35" y="109.5375" smashed="yes" rot="MR180">
+<element name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="133.35" y="109.5375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="133.35" y="110.9885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="133.35" y="107.9595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="19.05" y="90.4875" smashed="yes" rot="MR180">
+<element name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="19.05" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="19.05" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="19.05" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="38.1" y="90.4875" smashed="yes" rot="MR180">
+<element name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="38.1" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="38.1" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="38.1" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="57.15" y="90.4875" smashed="yes" rot="MR180">
+<element name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="57.15" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="57.15" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="57.15" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="90.4875" smashed="yes" rot="MR180">
+<element name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="76.2" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="76.2" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="95.25" y="90.4875" smashed="yes" rot="MR180">
+<element name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="95.25" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="95.25" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="95.25" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="114.3" y="90.4875" smashed="yes" rot="MR180">
+<element name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="114.3" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="114.3" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="114.3" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="133.35" y="90.4875" smashed="yes" rot="MR180">
+<element name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="133.35" y="90.4875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="133.35" y="91.9385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="133.35" y="88.9095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="26.19375" y="71.4375" smashed="yes" rot="MR180">
+<element name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="26.19375" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="26.19375" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="26.19375" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="47.625" y="71.4375" smashed="yes" rot="MR180">
+<element name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="47.625" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="47.625" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="47.625" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="66.675" y="71.4375" smashed="yes" rot="MR180">
+<element name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="66.675" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="66.675" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="66.675" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="85.725" y="71.4375" smashed="yes" rot="MR180">
+<element name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="85.725" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="85.725" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="85.725" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="104.775" y="71.4375" smashed="yes" rot="MR180">
+<element name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="104.775" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="104.775" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="104.775" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="126.20625" y="71.4375" smashed="yes" rot="MR180">
+<element name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="126.20625" y="71.4375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="126.20625" y="72.8885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="126.20625" y="69.8595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="29.765625" y="52.3875" smashed="yes" rot="MR180">
+<element name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="29.765625" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="29.765625" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="29.765625" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="52.3875" y="52.3875" smashed="yes" rot="MR180">
+<element name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="52.3875" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="52.3875" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="52.3875" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="71.4375" y="52.3875" smashed="yes" rot="MR180">
+<element name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="71.4375" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="71.4375" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="71.4375" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="90.4875" y="52.3875" smashed="yes" rot="MR180">
+<element name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="90.4875" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="90.4875" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="90.4875" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="109.5375" y="52.3875" smashed="yes" rot="MR180">
+<element name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="109.5375" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="109.5375" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="109.5375" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="129.778125" y="52.3875" smashed="yes" rot="MR180">
+<element name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="129.778125" y="52.3875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="129.778125" y="53.8385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="129.778125" y="50.8095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="36.909375" y="33.3375" smashed="yes" rot="MR180">
+<element name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="36.909375" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="36.909375" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="36.909375" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="61.9125" y="33.3375" smashed="yes" rot="MR180">
+<element name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="61.9125" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="61.9125" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="61.9125" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="80.9625" y="33.3375" smashed="yes" rot="MR180">
+<element name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="80.9625" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="80.9625" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="80.9625" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="100.0125" y="33.3375" smashed="yes" rot="MR180">
+<element name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="100.0125" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="100.0125" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="100.0125" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="119.0625" y="33.3375" smashed="yes" rot="MR180">
+<element name="C48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="119.0625" y="33.3375" smashed="yes" rot="MR180">
 <attribute name="NAME" x="119.0625" y="34.7885" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="119.0625" y="31.7595" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="23.8125" y="14.2875" smashed="yes" rot="MR180">
+<element name="C49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="23.8125" y="14.2875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="23.8125" y="15.7385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="23.8125" y="12.7095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="47.625" y="14.2875" smashed="yes" rot="MR180">
+<element name="C50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="47.625" y="14.2875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="47.625" y="15.7385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="47.625" y="12.7095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="14.2875" smashed="yes" rot="MR180">
+<element name="C51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="76.2" y="14.2875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="76.2" y="15.7385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="76.2" y="12.7095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="109.5375" y="14.2875" smashed="yes" rot="MR180">
+<element name="C52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="104" x="109.5375" y="14.2875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="109.5375" y="15.7385" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="109.5375" y="12.7095" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
@@ -2940,16 +2940,16 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="BOM" value="EXCLUDE" x="4.46484375" y="17.859375" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="2.46484375" y="17.859375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k" x="9.376171875" y="25.5984375" smashed="yes" rot="MR90">
+<element name="R6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k" x="9.376171875" y="25.5984375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="9.376171875" y="27.94140625" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="7.926171875" y="25.5984375" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
 <element name="R1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k" x="3.423046875" y="112.21640625" smashed="yes" rot="MR0">
-<attribute name="NAME" x="1.041796875" y="112.5140625" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
+<attribute name="NAME" x="1.041796875" y="112.21640625" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" x="3.423046875" y="110.76640625" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k" x="3.423046875" y="110.43046875" smashed="yes" rot="MR0">
-<attribute name="NAME" x="1.080078125" y="110.43046875" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
+<element name="R3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="5.1k" x="3.423046875" y="110.43046875" smashed="yes" rot="MR0">
+<attribute name="NAME" x="1.041796875" y="110.43046875" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" x="3.423046875" y="108.98046875" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
 <element name="U3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="LQFP48" package3d_urn="urn:adsk.eagle:package:14872699/4" value="STM32F303CC" x="144.6609375" y="22.0265625" smashed="yes" rot="MR90">
@@ -2960,11 +2960,11 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="144.6609375" y="14.9135625" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="144.6609375" y="10.0895625" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="C11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p" x="147.6375" y="12.5015625" smashed="yes" rot="MR270">
+<element name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p" x="147.6375" y="12.5015625" smashed="yes" rot="MR270">
 <attribute name="NAME" x="147.6375" y="14.8828125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="146.0595" y="12.5015625" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p" x="141.684375" y="12.5015625" smashed="yes" rot="MR90">
+<element name="C11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="22p" x="141.684375" y="12.5015625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="141.684375" y="14.8828125" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="143.262375" y="12.5015625" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
@@ -3004,7 +3004,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="143.17265625" y="70.8421875" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="143.0829375" y="70.8421875" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="DIODE_SCHOTTKY" x="147.0421875" y="73.81875" smashed="yes" rot="MR180">
+<element name="D1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="DIODE_SCHOTTKY" x="147.0421875" y="73.81875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="147.0421875" y="75.45375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="147.0421875" y="72.18375" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
@@ -3016,7 +3016,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="147.6375" y="6.5484375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="146.0595" y="8.9296875" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="D3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="149.4234375" y="10.715625" smashed="yes" rot="MR90">
+<element name="D2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="149.4234375" y="10.715625" smashed="yes" rot="MR90">
 <attribute name="NAME" x="149.4234375" y="7.590234375" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="151.0584375" y="10.715625" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
@@ -3024,54 +3024,54 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="143.321484375" y="6.5484375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="144.899484375" y="8.9296875" size="1" layer="28" font="vector" ratio="13" rot="MR90" align="center"/>
 </element>
-<element name="R7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k" x="141.684375" y="8.9296875" smashed="yes" rot="MR270">
+<element name="R5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="100k" x="141.684375" y="8.9296875" smashed="yes" rot="MR270">
 <attribute name="NAME" x="141.0890625" y="6.5484375" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="143.134375" y="8.9296875" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
 <element name="SW1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="BUTTON_3*6*2.5" package3d_urn="urn:adsk.eagle:package:14967027/2" value="BUTTON" x="138.7078125" y="10.715625" smashed="yes" rot="MR270"/>
-<element name="ISP_HEADER" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="1X06" package3d_urn="urn:adsk.eagle:package:14967026/4" value="PINHEADER_1X6" x="109.5375" y="10.4775" smashed="yes" rot="MR180">
+<element name="PH1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="1X06" package3d_urn="urn:adsk.eagle:package:14967026/4" value="PINHEADER_1X6" x="109.5375" y="10.4775" smashed="yes" rot="MR180">
 <attribute name="VALUE" x="109.5375" y="12.4775" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
 <element name="U4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOP-8" package3d_urn="urn:adsk.eagle:package:14977222/2" value="MB85RC256V" x="4.46484375" y="45.8390625" smashed="yes" rot="MR180">
 <attribute name="NAME" x="4.46484375" y="49.3812125" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="4.46484375" y="49.3240625" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10u" x="4.46484375" y="41.671875" smashed="yes" rot="MR180">
+<element name="C17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="10u" x="4.46484375" y="41.671875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="2.08359375" y="41.671875" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="4.46484375" y="40.093875" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="4.46484375" y="39.8859375" smashed="yes" rot="MR0">
+<element name="R7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="4.46484375" y="39.8859375" smashed="yes" rot="MR0">
 <attribute name="NAME" x="6.84609375" y="39.8859375" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="4.46484375" y="38.4359375" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="R10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="4.46484375" y="38.1" smashed="yes" rot="MR0">
+<element name="R8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="10k" x="4.46484375" y="38.1" smashed="yes" rot="MR0">
 <attribute name="NAME" x="2.08359375" y="38.1" size="1" layer="26" font="vector" ratio="13" rot="MR90" align="center"/>
 <attribute name="VALUE" x="4.46484375" y="36.65" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="U$1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="LOGO_TYR_COPPER" package3d_urn="urn:adsk.eagle:package:14993495/2" value="LOGO_TYR" x="29.58203125" y="47.57578125" smashed="yes"/>
+<element name="LOGO1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="LOGO_TYR_COPPER" package3d_urn="urn:adsk.eagle:package:14993495/2" value="LOGO_TYR" x="29.58203125" y="47.57578125" smashed="yes"/>
 <element name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_5MM_OVAL" package3d_urn="urn:adsk.eagle:package:15041619/4" value="HOLE_MOUNT_HOLE5MM_NOTCH" x="150.75" y="57.15" smashed="yes"/>
 <element name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="HOLE_5MM_OVAL" package3d_urn="urn:adsk.eagle:package:15041619/4" value="HOLE_MOUNT_HOLE5MM_NOTCH" x="1.65" y="57.15" smashed="yes"/>
 <element name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1.5k" x="150.01875" y="107.15625" smashed="yes" rot="MR0">
 <attribute name="NAME" x="150.01875" y="105.6296875" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="150.01875" y="105.70625" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="R3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M" x="36.3140625" y="112.5140625" smashed="yes" rot="MR180">
+<element name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M" x="36.3140625" y="112.5140625" smashed="yes" rot="MR180">
 <attribute name="NAME" x="33.63515625" y="112.5140625" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="36.3140625" y="113.9640625" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="C51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u" x="39.8859375" y="112.5140625" smashed="yes" rot="MR180">
+<element name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u" x="39.8859375" y="112.5140625" smashed="yes" rot="MR180">
 <attribute name="NAME" x="42.8625" y="112.5140625" size="1" layer="26" font="vector" ratio="13" rot="MR180" align="center"/>
 <attribute name="VALUE" x="39.8859375" y="110.9360625" size="1" layer="28" font="vector" ratio="13" rot="MR180" align="center"/>
 </element>
-<element name="D1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="3.571875" y="73.81875" smashed="yes" rot="MR180">
+<element name="D3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/2" value="1N4148" x="3.571875" y="73.81875" smashed="yes" rot="MR180">
 <attribute name="NAME" x="7.14375" y="73.81875" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="3.571875" y="72.18375" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="R5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M" x="3.571875" y="72.0328125" smashed="yes" rot="MR0">
+<element name="R9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_R0603" package3d_urn="urn:adsk.eagle:package:14733141/2" value="1M" x="3.571875" y="72.0328125" smashed="yes" rot="MR0">
 <attribute name="NAME" x="7.14375" y="72.0328125" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="3.571875" y="70.5828125" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="C52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u" x="3.571875" y="70.246875" smashed="yes" rot="MR0">
+<element name="C16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="COMPONENTS_C0603" package3d_urn="urn:adsk.eagle:package:14733142/2" value="4.7u" x="3.571875" y="70.246875" smashed="yes" rot="MR0">
 <attribute name="NAME" x="6.84609375" y="70.246875" size="1" layer="26" font="vector" ratio="13" rot="MR0" align="center"/>
 <attribute name="VALUE" x="3.571875" y="71.824875" size="1" layer="28" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
@@ -3084,8 +3084,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="U6" pad="2"/>
 <contactref element="C15" pad="1"/>
 <contactref element="U5" pad="3"/>
+<contactref element="R11" pad="1"/>
 <contactref element="R12" pad="1"/>
-<contactref element="R13" pad="1"/>
 <contactref element="LED1" pad="GND"/>
 <contactref element="LED2" pad="GND"/>
 <contactref element="LED3" pad="GND"/>
@@ -3127,8 +3127,6 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="LED39" pad="GND"/>
 <contactref element="LED40" pad="GND"/>
 <contactref element="LED41" pad="GND"/>
-<contactref element="C16" pad="1"/>
-<contactref element="C17" pad="1"/>
 <contactref element="C18" pad="1"/>
 <contactref element="C19" pad="1"/>
 <contactref element="C20" pad="1"/>
@@ -3162,6 +3160,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="C48" pad="1"/>
 <contactref element="C49" pad="1"/>
 <contactref element="C50" pad="1"/>
+<contactref element="C51" pad="1"/>
+<contactref element="C52" pad="1"/>
 <contactref element="C14" pad="1"/>
 <wire x1="15.046875" y1="13.096875" x2="14.60625" y2="13.5375" width="0.1524" layer="16"/>
 <wire x1="22.9375" y1="14.2875" x2="21.746875" y2="13.096875" width="0.1524" layer="16"/>
@@ -3459,143 +3459,143 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="2.70625" y1="26.8984375" x2="2.67890625" y2="26.92578125" width="0.1524" layer="16"/>
 <wire x1="2.67890625" y1="27.68203125" x2="2.67890625" y2="26.92578125" width="0.1524" layer="16"/>
 <wire x1="1.7859375" y1="28.575" x2="2.67890625" y2="27.68203125" width="0.1524" layer="16"/>
-<contactref element="KEYSWITCH39" pad="HOLE4"/>
-<contactref element="KEYSWITCH39" pad="HOLE1"/>
-<contactref element="KEYSWITCH39" pad="HOLE5"/>
-<contactref element="KEYSWITCH6" pad="HOLE4"/>
-<contactref element="KEYSWITCH6" pad="HOLE1"/>
-<contactref element="KEYSWITCH6" pad="HOLE5"/>
-<contactref element="KEYSWITCH14" pad="HOLE4"/>
-<contactref element="KEYSWITCH14" pad="HOLE1"/>
-<contactref element="KEYSWITCH14" pad="HOLE5"/>
-<contactref element="KEYSWITCH22" pad="HOLE4"/>
-<contactref element="KEYSWITCH22" pad="HOLE1"/>
-<contactref element="KEYSWITCH22" pad="HOLE5"/>
-<contactref element="KEYSWITCH29" pad="HOLE4"/>
-<contactref element="KEYSWITCH29" pad="HOLE1"/>
-<contactref element="KEYSWITCH29" pad="HOLE5"/>
-<contactref element="KEYSWITCH35" pad="HOLE4"/>
-<contactref element="KEYSWITCH35" pad="HOLE1"/>
-<contactref element="KEYSWITCH35" pad="HOLE5"/>
-<contactref element="KEYSWITCH1" pad="HOLE4"/>
-<contactref element="KEYSWITCH1" pad="HOLE1"/>
-<contactref element="KEYSWITCH1" pad="HOLE5"/>
-<contactref element="KEYSWITCH36" pad="HOLE4"/>
-<contactref element="KEYSWITCH36" pad="HOLE1"/>
-<contactref element="KEYSWITCH36" pad="HOLE5"/>
-<contactref element="KEYSWITCH9" pad="HOLE4"/>
-<contactref element="KEYSWITCH9" pad="HOLE1"/>
-<contactref element="KEYSWITCH9" pad="HOLE5"/>
-<contactref element="KEYSWITCH17" pad="HOLE4"/>
-<contactref element="KEYSWITCH17" pad="HOLE1"/>
-<contactref element="KEYSWITCH17" pad="HOLE5"/>
-<contactref element="KEYSWITCH24" pad="HOLE4"/>
-<contactref element="KEYSWITCH24" pad="HOLE1"/>
-<contactref element="KEYSWITCH24" pad="HOLE5"/>
-<contactref element="SWITCH1" pad="HOLE7"/>
-<contactref element="SWITCH1" pad="HOLE4"/>
-<contactref element="SWITCH1" pad="HOLE5"/>
-<contactref element="SWITCH1" pad="HOLE1"/>
-<contactref element="SWITCH1" pad="HOLE9"/>
-<contactref element="SWITCH1" pad="HOLE8"/>
-<contactref element="SWITCH1" pad="HOLE6"/>
-<contactref element="KEYSWITCH2" pad="HOLE4"/>
-<contactref element="KEYSWITCH2" pad="HOLE1"/>
-<contactref element="KEYSWITCH2" pad="HOLE5"/>
-<contactref element="KEYSWITCH37" pad="HOLE4"/>
-<contactref element="KEYSWITCH37" pad="HOLE1"/>
-<contactref element="KEYSWITCH37" pad="HOLE5"/>
-<contactref element="KEYSWITCH10" pad="HOLE4"/>
-<contactref element="KEYSWITCH10" pad="HOLE1"/>
-<contactref element="KEYSWITCH10" pad="HOLE5"/>
-<contactref element="KEYSWITCH18" pad="HOLE4"/>
-<contactref element="KEYSWITCH18" pad="HOLE1"/>
-<contactref element="KEYSWITCH18" pad="HOLE5"/>
-<contactref element="KEYSWITCH25" pad="HOLE4"/>
-<contactref element="KEYSWITCH25" pad="HOLE1"/>
-<contactref element="KEYSWITCH25" pad="HOLE5"/>
-<contactref element="KEYSWITCH31" pad="HOLE4"/>
-<contactref element="KEYSWITCH31" pad="HOLE1"/>
-<contactref element="KEYSWITCH31" pad="HOLE5"/>
-<contactref element="KEYSWITCH3" pad="HOLE4"/>
-<contactref element="KEYSWITCH3" pad="HOLE1"/>
-<contactref element="KEYSWITCH3" pad="HOLE5"/>
-<contactref element="KEYSWITCH38" pad="HOLE4"/>
-<contactref element="KEYSWITCH38" pad="HOLE1"/>
-<contactref element="KEYSWITCH38" pad="HOLE5"/>
-<contactref element="KEYSWITCH11" pad="HOLE4"/>
-<contactref element="KEYSWITCH11" pad="HOLE1"/>
-<contactref element="KEYSWITCH11" pad="HOLE5"/>
-<contactref element="KEYSWITCH19" pad="HOLE4"/>
-<contactref element="KEYSWITCH19" pad="HOLE1"/>
-<contactref element="KEYSWITCH19" pad="HOLE5"/>
-<contactref element="KEYSWITCH26" pad="HOLE4"/>
-<contactref element="KEYSWITCH26" pad="HOLE1"/>
-<contactref element="KEYSWITCH26" pad="HOLE5"/>
-<contactref element="KEYSWITCH32" pad="HOLE4"/>
-<contactref element="KEYSWITCH32" pad="HOLE1"/>
-<contactref element="KEYSWITCH32" pad="HOLE5"/>
-<contactref element="SWITCH2" pad="HOLE7"/>
-<contactref element="SWITCH2" pad="HOLE4"/>
-<contactref element="SWITCH2" pad="HOLE5"/>
-<contactref element="SWITCH2" pad="HOLE1"/>
-<contactref element="SWITCH2" pad="HOLE9"/>
-<contactref element="SWITCH2" pad="HOLE8"/>
-<contactref element="SWITCH2" pad="HOLE6"/>
-<contactref element="KEYSWITCH4" pad="HOLE4"/>
-<contactref element="KEYSWITCH4" pad="HOLE1"/>
-<contactref element="KEYSWITCH4" pad="HOLE5"/>
-<contactref element="KEYSWITCH12" pad="HOLE4"/>
-<contactref element="KEYSWITCH12" pad="HOLE1"/>
-<contactref element="KEYSWITCH12" pad="HOLE5"/>
-<contactref element="KEYSWITCH20" pad="HOLE4"/>
-<contactref element="KEYSWITCH20" pad="HOLE1"/>
-<contactref element="KEYSWITCH20" pad="HOLE5"/>
-<contactref element="KEYSWITCH27" pad="HOLE4"/>
-<contactref element="KEYSWITCH27" pad="HOLE1"/>
-<contactref element="KEYSWITCH27" pad="HOLE5"/>
-<contactref element="KEYSWITCH33" pad="HOLE4"/>
-<contactref element="KEYSWITCH33" pad="HOLE1"/>
-<contactref element="KEYSWITCH33" pad="HOLE5"/>
-<contactref element="KEYSWITCH5" pad="HOLE4"/>
-<contactref element="KEYSWITCH5" pad="HOLE1"/>
-<contactref element="KEYSWITCH5" pad="HOLE5"/>
-<contactref element="KEYSWITCH34" pad="HOLE4"/>
-<contactref element="KEYSWITCH34" pad="HOLE1"/>
-<contactref element="KEYSWITCH34" pad="HOLE5"/>
-<contactref element="KEYSWITCH13" pad="HOLE4"/>
-<contactref element="KEYSWITCH13" pad="HOLE1"/>
-<contactref element="KEYSWITCH13" pad="HOLE5"/>
-<contactref element="KEYSWITCH21" pad="HOLE4"/>
-<contactref element="KEYSWITCH21" pad="HOLE1"/>
-<contactref element="KEYSWITCH21" pad="HOLE5"/>
-<contactref element="KEYSWITCH28" pad="HOLE4"/>
-<contactref element="KEYSWITCH28" pad="HOLE1"/>
-<contactref element="KEYSWITCH28" pad="HOLE5"/>
-<contactref element="KEYSWITCH7" pad="HOLE4"/>
-<contactref element="KEYSWITCH7" pad="HOLE1"/>
-<contactref element="KEYSWITCH7" pad="HOLE5"/>
-<contactref element="KEYSWITCH15" pad="HOLE4"/>
-<contactref element="KEYSWITCH15" pad="HOLE1"/>
-<contactref element="KEYSWITCH15" pad="HOLE5"/>
-<contactref element="KEYSWITCH8" pad="HOLE4"/>
-<contactref element="KEYSWITCH8" pad="HOLE1"/>
-<contactref element="KEYSWITCH8" pad="HOLE5"/>
-<contactref element="KEYSWITCH30" pad="HOLE4"/>
-<contactref element="KEYSWITCH30" pad="HOLE1"/>
-<contactref element="KEYSWITCH30" pad="HOLE5"/>
-<contactref element="KEYSWITCH16" pad="HOLE4"/>
-<contactref element="KEYSWITCH16" pad="HOLE1"/>
-<contactref element="KEYSWITCH16" pad="HOLE5"/>
-<contactref element="KEYSWITCH23" pad="HOLE4"/>
-<contactref element="KEYSWITCH23" pad="HOLE1"/>
-<contactref element="KEYSWITCH23" pad="HOLE5"/>
+<contactref element="SW42" pad="HOLE4"/>
+<contactref element="SW42" pad="HOLE1"/>
+<contactref element="SW42" pad="HOLE5"/>
+<contactref element="SW7" pad="HOLE4"/>
+<contactref element="SW7" pad="HOLE1"/>
+<contactref element="SW7" pad="HOLE5"/>
+<contactref element="SW15" pad="HOLE4"/>
+<contactref element="SW15" pad="HOLE1"/>
+<contactref element="SW15" pad="HOLE5"/>
+<contactref element="SW23" pad="HOLE4"/>
+<contactref element="SW23" pad="HOLE1"/>
+<contactref element="SW23" pad="HOLE5"/>
+<contactref element="SW30" pad="HOLE4"/>
+<contactref element="SW30" pad="HOLE1"/>
+<contactref element="SW30" pad="HOLE5"/>
+<contactref element="SW37" pad="HOLE4"/>
+<contactref element="SW37" pad="HOLE1"/>
+<contactref element="SW37" pad="HOLE5"/>
+<contactref element="SW2" pad="HOLE4"/>
+<contactref element="SW2" pad="HOLE1"/>
+<contactref element="SW2" pad="HOLE5"/>
+<contactref element="SW38" pad="HOLE4"/>
+<contactref element="SW38" pad="HOLE1"/>
+<contactref element="SW38" pad="HOLE5"/>
+<contactref element="SW10" pad="HOLE4"/>
+<contactref element="SW10" pad="HOLE1"/>
+<contactref element="SW10" pad="HOLE5"/>
+<contactref element="SW18" pad="HOLE4"/>
+<contactref element="SW18" pad="HOLE1"/>
+<contactref element="SW18" pad="HOLE5"/>
+<contactref element="SW25" pad="HOLE4"/>
+<contactref element="SW25" pad="HOLE1"/>
+<contactref element="SW25" pad="HOLE5"/>
+<contactref element="SW32" pad="HOLE7"/>
+<contactref element="SW32" pad="HOLE4"/>
+<contactref element="SW32" pad="HOLE5"/>
+<contactref element="SW32" pad="HOLE1"/>
+<contactref element="SW32" pad="HOLE9"/>
+<contactref element="SW32" pad="HOLE8"/>
+<contactref element="SW32" pad="HOLE6"/>
+<contactref element="SW3" pad="HOLE4"/>
+<contactref element="SW3" pad="HOLE1"/>
+<contactref element="SW3" pad="HOLE5"/>
+<contactref element="SW39" pad="HOLE4"/>
+<contactref element="SW39" pad="HOLE1"/>
+<contactref element="SW39" pad="HOLE5"/>
+<contactref element="SW11" pad="HOLE4"/>
+<contactref element="SW11" pad="HOLE1"/>
+<contactref element="SW11" pad="HOLE5"/>
+<contactref element="SW19" pad="HOLE4"/>
+<contactref element="SW19" pad="HOLE1"/>
+<contactref element="SW19" pad="HOLE5"/>
+<contactref element="SW26" pad="HOLE4"/>
+<contactref element="SW26" pad="HOLE1"/>
+<contactref element="SW26" pad="HOLE5"/>
+<contactref element="SW33" pad="HOLE4"/>
+<contactref element="SW33" pad="HOLE1"/>
+<contactref element="SW33" pad="HOLE5"/>
+<contactref element="SW4" pad="HOLE4"/>
+<contactref element="SW4" pad="HOLE1"/>
+<contactref element="SW4" pad="HOLE5"/>
+<contactref element="SW40" pad="HOLE4"/>
+<contactref element="SW40" pad="HOLE1"/>
+<contactref element="SW40" pad="HOLE5"/>
+<contactref element="SW12" pad="HOLE4"/>
+<contactref element="SW12" pad="HOLE1"/>
+<contactref element="SW12" pad="HOLE5"/>
+<contactref element="SW20" pad="HOLE4"/>
+<contactref element="SW20" pad="HOLE1"/>
+<contactref element="SW20" pad="HOLE5"/>
+<contactref element="SW27" pad="HOLE4"/>
+<contactref element="SW27" pad="HOLE1"/>
+<contactref element="SW27" pad="HOLE5"/>
+<contactref element="SW34" pad="HOLE4"/>
+<contactref element="SW34" pad="HOLE1"/>
+<contactref element="SW34" pad="HOLE5"/>
+<contactref element="SW41" pad="HOLE7"/>
+<contactref element="SW41" pad="HOLE4"/>
+<contactref element="SW41" pad="HOLE5"/>
+<contactref element="SW41" pad="HOLE1"/>
+<contactref element="SW41" pad="HOLE9"/>
+<contactref element="SW41" pad="HOLE8"/>
+<contactref element="SW41" pad="HOLE6"/>
+<contactref element="SW5" pad="HOLE4"/>
+<contactref element="SW5" pad="HOLE1"/>
+<contactref element="SW5" pad="HOLE5"/>
+<contactref element="SW13" pad="HOLE4"/>
+<contactref element="SW13" pad="HOLE1"/>
+<contactref element="SW13" pad="HOLE5"/>
+<contactref element="SW21" pad="HOLE4"/>
+<contactref element="SW21" pad="HOLE1"/>
+<contactref element="SW21" pad="HOLE5"/>
+<contactref element="SW28" pad="HOLE4"/>
+<contactref element="SW28" pad="HOLE1"/>
+<contactref element="SW28" pad="HOLE5"/>
+<contactref element="SW35" pad="HOLE4"/>
+<contactref element="SW35" pad="HOLE1"/>
+<contactref element="SW35" pad="HOLE5"/>
+<contactref element="SW6" pad="HOLE4"/>
+<contactref element="SW6" pad="HOLE1"/>
+<contactref element="SW6" pad="HOLE5"/>
+<contactref element="SW36" pad="HOLE4"/>
+<contactref element="SW36" pad="HOLE1"/>
+<contactref element="SW36" pad="HOLE5"/>
+<contactref element="SW14" pad="HOLE4"/>
+<contactref element="SW14" pad="HOLE1"/>
+<contactref element="SW14" pad="HOLE5"/>
+<contactref element="SW22" pad="HOLE4"/>
+<contactref element="SW22" pad="HOLE1"/>
+<contactref element="SW22" pad="HOLE5"/>
+<contactref element="SW29" pad="HOLE4"/>
+<contactref element="SW29" pad="HOLE1"/>
+<contactref element="SW29" pad="HOLE5"/>
+<contactref element="SW8" pad="HOLE4"/>
+<contactref element="SW8" pad="HOLE1"/>
+<contactref element="SW8" pad="HOLE5"/>
+<contactref element="SW16" pad="HOLE4"/>
+<contactref element="SW16" pad="HOLE1"/>
+<contactref element="SW16" pad="HOLE5"/>
+<contactref element="SW9" pad="HOLE4"/>
+<contactref element="SW9" pad="HOLE1"/>
+<contactref element="SW9" pad="HOLE5"/>
+<contactref element="SW31" pad="HOLE4"/>
+<contactref element="SW31" pad="HOLE1"/>
+<contactref element="SW31" pad="HOLE5"/>
+<contactref element="SW17" pad="HOLE4"/>
+<contactref element="SW17" pad="HOLE1"/>
+<contactref element="SW17" pad="HOLE5"/>
+<contactref element="SW24" pad="HOLE4"/>
+<contactref element="SW24" pad="HOLE1"/>
+<contactref element="SW24" pad="HOLE5"/>
 <via x="78.58125" y="1.7859375" extent="1-16" drill="0.35"/>
 <wire x1="83.34375" y1="1.7859375" x2="101.7984375" y2="1.7859375" width="0.1524" layer="16"/>
 <wire x1="78.58125" y1="1.7859375" x2="27.384375" y2="1.7859375" width="0.1524" layer="16"/>
 <via x="27.384375" y="1.7859375" extent="1-16" drill="0.35"/>
 <via x="83.34375" y="1.7859375" extent="1-16" drill="0.35"/>
-<contactref element="R4" pad="2"/>
+<contactref element="R3" pad="2"/>
 <contactref element="R1" pad="2"/>
 <contactref element="X1" pad="GND1"/>
 <wire x1="2.548046875" y1="108.64453125" x2="2.548046875" y2="106.671953125" width="0.1524" layer="16"/>
@@ -3603,8 +3603,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="2.548046875" y1="110.43046875" x2="2.548046875" y2="108.64453125" width="0.1524" layer="16"/>
 <wire x1="2.548046875" y1="112.21640625" x2="2.548046875" y2="110.43046875" width="0.1524" layer="16"/>
 <wire x1="15.85" y1="108.91875" x2="15.57578125" y2="108.64453125" width="0.1524" layer="16"/>
+<contactref element="C10" pad="1"/>
 <contactref element="C11" pad="1"/>
-<contactref element="C12" pad="1"/>
 <contactref element="Y1" pad="4"/>
 <contactref element="Y1" pad="2"/>
 <contactref element="U3" pad="8"/>
@@ -3620,10 +3620,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="U1" pad="1"/>
 <contactref element="C7" pad="1"/>
 <contactref element="C8" pad="1"/>
-<contactref element="D2" pad="A"/>
+<contactref element="D1" pad="A"/>
 <contactref element="Q1" pad="2"/>
 <contactref element="C9" pad="2"/>
-<contactref element="R7" pad="2"/>
+<contactref element="R5" pad="2"/>
 <contactref element="C13" pad="1"/>
 <via x="148.828125" y="13.6921875" extent="1-16" drill="0.35"/>
 <via x="140.19609375" y="32.44453125" extent="1-16" drill="0.35"/>
@@ -3656,7 +3656,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <via x="144.6609375" y="12.5015625" extent="1-16" drill="0.35"/>
 <wire x1="143.5109375" y1="11.5765625" x2="141.734375" y2="11.5765625" width="0.1524" layer="16"/>
 <wire x1="141.734375" y1="11.5765625" x2="141.684375" y2="11.6265625" width="0.1524" layer="16"/>
-<contactref element="ISP_HEADER" pad="1"/>
+<contactref element="PH1" pad="1"/>
 <wire x1="145.25625" y1="7.14375" x2="144.829496875" y2="7.570503125" width="0.1524" layer="16"/>
 <wire x1="144.829496875" y1="7.570503125" x2="144.829496875" y2="7.9592875" width="0.1524" layer="16"/>
 <wire x1="144.829496875" y1="7.9592875" x2="143.416884375" y2="7.9592875" width="0.1524" layer="16"/>
@@ -3664,7 +3664,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="144.6609375" y1="71.7171875" x2="144.6609375" y2="73.0725" width="0.1524" layer="16"/>
 <wire x1="144.6609375" y1="73.0725" x2="145.4071875" y2="73.81875" width="0.1524" layer="16"/>
 <contactref element="U4" pad="4"/>
-<contactref element="C10" pad="1"/>
+<contactref element="C17" pad="1"/>
 <wire x1="3.58984375" y1="41.671875" x2="3.571875" y2="41.68984375" width="0.1524" layer="16"/>
 <wire x1="75.30703125" y1="13.39453125" x2="76.2" y2="12.5015625" width="0.1524" layer="16"/>
 <wire x1="46.73203125" y1="13.39453125" x2="47.625" y2="12.5015625" width="0.1524" layer="16"/>
@@ -3775,10 +3775,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <vertex x="2" y="115.639453125"/>
 <vertex x="150.4" y="115.639453125" curve="-90"/>
 </polygon>
-<contactref element="C51" pad="2"/>
-<contactref element="R3" pad="2"/>
-<contactref element="R5" pad="2"/>
-<contactref element="C52" pad="2"/>
+<contactref element="C12" pad="2"/>
+<contactref element="R4" pad="2"/>
+<contactref element="R9" pad="2"/>
+<contactref element="C16" pad="2"/>
 <wire x1="39.86796875" y1="111.62109375" x2="40.7609375" y2="112.5140625" width="0.1524" layer="16"/>
 <wire x1="37.1890625" y1="112.5140625" x2="38.08203125" y2="111.62109375" width="0.1524" layer="16"/>
 <wire x1="38.08203125" y1="111.62109375" x2="39.86796875" y2="111.62109375" width="0.1524" layer="16"/>
@@ -3833,7 +3833,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <via x="16.66875" y="107.7515625" extent="1-16" drill="0.35"/>
 <contactref element="U1" pad="3"/>
 <contactref element="C7" pad="2"/>
-<contactref element="D2" pad="C"/>
+<contactref element="D1" pad="C"/>
 <via x="151.209375" y="72.628125" extent="1-16" drill="0.35"/>
 <wire x1="151.209375" y1="72.628125" x2="151.209375" y2="72.6928375" width="0.3048" layer="16"/>
 <wire x1="151.209375" y1="72.6928375" x2="150.0834625" y2="73.81875" width="0.3048" layer="16"/>
@@ -3845,10 +3845,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="148.6771875" y1="72.4634375" x2="149.4234375" y2="71.7171875" width="0.3048" layer="16"/>
 <wire x1="147.0421875" y1="70.7515625" x2="148.0078125" y2="71.7171875" width="0.3048" layer="16"/>
 <wire x1="148.0078125" y1="71.7171875" x2="149.4234375" y2="71.7171875" width="0.3048" layer="16"/>
-<contactref element="R8" pad="2"/>
+<contactref element="R6" pad="2"/>
 <contactref element="C14" pad="2"/>
 <contactref element="SJ1" pad="1"/>
-<contactref element="R11" pad="1"/>
+<contactref element="R10" pad="1"/>
 <contactref element="U5" pad="1"/>
 <wire x1="3.571875" y1="31.53359375" x2="4.455859375" y2="30.649609375" width="0.3048" layer="16"/>
 <wire x1="4.455859375" y1="30.649609375" x2="4.46484375" y2="30.640625" width="0.3048" layer="16"/>
@@ -4111,12 +4111,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="20.240625" y1="98.2265625" x2="19.6453125" y2="97.63125" width="0.1524" layer="16"/>
 </signal>
 <signal name="COLUMN0">
-<contactref element="KEYSWITCH36" pad="P$1"/>
-<contactref element="SWITCH1" pad="P$1"/>
-<contactref element="KEYSWITCH24" pad="P$1"/>
-<contactref element="KEYSWITCH17" pad="P$1"/>
-<contactref element="KEYSWITCH9" pad="P$1"/>
-<contactref element="KEYSWITCH1" pad="P$1"/>
+<contactref element="SW38" pad="P$1"/>
+<contactref element="SW32" pad="P$1"/>
+<contactref element="SW25" pad="P$1"/>
+<contactref element="SW18" pad="P$1"/>
+<contactref element="SW10" pad="P$1"/>
+<contactref element="SW2" pad="P$1"/>
 <via x="16.66875" y="100.0125" extent="1-16" drill="0.35"/>
 <via x="16.66875" y="80.9625" extent="1-16" drill="0.35"/>
 <via x="21.43125" y="61.9125" extent="1-16" drill="0.35"/>
@@ -4165,12 +4165,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="U3" pad="15"/>
 <wire x1="140.4826375" y1="20.2765625" x2="135.3987375" y2="20.2765625" width="0.1524" layer="16"/>
 <wire x1="135.3987375" y1="20.2765625" x2="132.7546875" y2="17.6325125" width="0.1524" layer="16"/>
-<contactref element="KEYSWITCH1" pad="HOLE3"/>
-<contactref element="KEYSWITCH9" pad="HOLE3"/>
-<contactref element="KEYSWITCH17" pad="HOLE3"/>
-<contactref element="KEYSWITCH36" pad="HOLE3"/>
-<contactref element="KEYSWITCH24" pad="HOLE3"/>
-<contactref element="SWITCH1" pad="HOLE3"/>
+<contactref element="SW2" pad="HOLE3"/>
+<contactref element="SW10" pad="HOLE3"/>
+<contactref element="SW18" pad="HOLE3"/>
+<contactref element="SW38" pad="HOLE3"/>
+<contactref element="SW25" pad="HOLE3"/>
+<contactref element="SW32" pad="HOLE3"/>
 <wire x1="16.66875" y1="101.82625" x2="16.26" y2="102.235" width="0.1524" layer="16"/>
 <wire x1="16.66875" y1="100.0125" x2="16.66875" y2="101.82625" width="0.1524" layer="16"/>
 <wire x1="16.26" y1="102.235" x2="13.335" y2="102.235" width="0.1524" layer="16"/>
@@ -4194,12 +4194,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="22.621875" y1="8.334375" x2="22.621875" y2="8.334375" width="0.1524" layer="1"/>
 </signal>
 <signal name="COLUMN1">
-<contactref element="KEYSWITCH37" pad="P$1"/>
-<contactref element="KEYSWITCH31" pad="P$1"/>
-<contactref element="KEYSWITCH25" pad="P$1"/>
-<contactref element="KEYSWITCH18" pad="P$1"/>
-<contactref element="KEYSWITCH10" pad="P$1"/>
-<contactref element="KEYSWITCH2" pad="P$1"/>
+<contactref element="SW39" pad="P$1"/>
+<contactref element="SW33" pad="P$1"/>
+<contactref element="SW26" pad="P$1"/>
+<contactref element="SW19" pad="P$1"/>
+<contactref element="SW11" pad="P$1"/>
+<contactref element="SW3" pad="P$1"/>
 <via x="42.8625" y="4.7625" extent="1-16" drill="0.35"/>
 <via x="59.53125" y="23.8125" extent="1-16" drill="0.35"/>
 <via x="50.00625" y="42.8625" extent="1-16" drill="0.35"/>
@@ -4237,12 +4237,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="U3" pad="16"/>
 <wire x1="140.4826375" y1="20.7765625" x2="135.1423375" y2="20.7765625" width="0.1524" layer="16"/>
 <wire x1="135.1423375" y1="20.7765625" x2="132.7546875" y2="18.3889125" width="0.1524" layer="16"/>
-<contactref element="KEYSWITCH2" pad="HOLE3"/>
-<contactref element="KEYSWITCH10" pad="HOLE3"/>
-<contactref element="KEYSWITCH18" pad="HOLE3"/>
-<contactref element="KEYSWITCH25" pad="HOLE3"/>
-<contactref element="KEYSWITCH31" pad="HOLE3"/>
-<contactref element="KEYSWITCH37" pad="HOLE3"/>
+<contactref element="SW3" pad="HOLE3"/>
+<contactref element="SW11" pad="HOLE3"/>
+<contactref element="SW19" pad="HOLE3"/>
+<contactref element="SW26" pad="HOLE3"/>
+<contactref element="SW33" pad="HOLE3"/>
+<contactref element="SW39" pad="HOLE3"/>
 <wire x1="35.71875" y1="101.82625" x2="35.31" y2="102.235" width="0.1524" layer="16"/>
 <wire x1="35.71875" y1="100.0125" x2="35.71875" y2="101.82625" width="0.1524" layer="16"/>
 <wire x1="35.31" y1="102.235" x2="32.385" y2="102.235" width="0.1524" layer="16"/>
@@ -4269,12 +4269,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="101.3582" y1="14.2875" x2="100.6078125" y2="14.2875" width="0.1524" layer="1"/>
 </signal>
 <signal name="COLUMN2">
-<contactref element="KEYSWITCH3" pad="P$1"/>
-<contactref element="KEYSWITCH11" pad="P$1"/>
-<contactref element="KEYSWITCH19" pad="P$1"/>
-<contactref element="KEYSWITCH26" pad="P$1"/>
-<contactref element="KEYSWITCH32" pad="P$1"/>
-<contactref element="KEYSWITCH38" pad="P$1"/>
+<contactref element="SW4" pad="P$1"/>
+<contactref element="SW12" pad="P$1"/>
+<contactref element="SW20" pad="P$1"/>
+<contactref element="SW27" pad="P$1"/>
+<contactref element="SW34" pad="P$1"/>
+<contactref element="SW40" pad="P$1"/>
 <via x="54.76875" y="100.0125" extent="1-16" drill="0.35"/>
 <via x="54.76875" y="80.9625" extent="1-16" drill="0.35"/>
 <via x="64.29375" y="61.9125" extent="1-16" drill="0.35"/>
@@ -4306,12 +4306,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="U3" pad="17"/>
 <wire x1="140.4826375" y1="21.2765625" x2="134.8859375" y2="21.2765625" width="0.1524" layer="16"/>
 <wire x1="134.8859375" y1="21.2765625" x2="132.7546875" y2="19.1453125" width="0.1524" layer="16"/>
-<contactref element="KEYSWITCH3" pad="HOLE3"/>
-<contactref element="KEYSWITCH11" pad="HOLE3"/>
-<contactref element="KEYSWITCH19" pad="HOLE3"/>
-<contactref element="KEYSWITCH26" pad="HOLE3"/>
-<contactref element="KEYSWITCH32" pad="HOLE3"/>
-<contactref element="KEYSWITCH38" pad="HOLE3"/>
+<contactref element="SW4" pad="HOLE3"/>
+<contactref element="SW12" pad="HOLE3"/>
+<contactref element="SW20" pad="HOLE3"/>
+<contactref element="SW27" pad="HOLE3"/>
+<contactref element="SW34" pad="HOLE3"/>
+<contactref element="SW40" pad="HOLE3"/>
 <wire x1="54.76875" y1="101.82625" x2="54.36" y2="102.235" width="0.1524" layer="16"/>
 <wire x1="54.76875" y1="100.0125" x2="54.76875" y2="101.82625" width="0.1524" layer="16"/>
 <wire x1="51.435" y1="102.235" x2="54.36" y2="102.235" width="0.1524" layer="16"/>
@@ -4338,12 +4338,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="69.6515625" y1="14.8828125" x2="70.54453125" y2="14.8828125" width="0.1524" layer="1"/>
 </signal>
 <signal name="COLUMN3">
-<contactref element="KEYSWITCH4" pad="P$1"/>
-<contactref element="KEYSWITCH12" pad="P$1"/>
-<contactref element="KEYSWITCH20" pad="P$1"/>
-<contactref element="KEYSWITCH27" pad="P$1"/>
-<contactref element="KEYSWITCH33" pad="P$1"/>
-<contactref element="SWITCH2" pad="P$1"/>
+<contactref element="SW5" pad="P$1"/>
+<contactref element="SW13" pad="P$1"/>
+<contactref element="SW21" pad="P$1"/>
+<contactref element="SW28" pad="P$1"/>
+<contactref element="SW35" pad="P$1"/>
+<contactref element="SW41" pad="P$1"/>
 <via x="97.63125" y="23.8125" extent="1-16" drill="0.35"/>
 <via x="88.10625" y="42.8625" extent="1-16" drill="0.35"/>
 <via x="83.34375" y="61.9125" extent="1-16" drill="0.35"/>
@@ -4368,12 +4368,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="100.6078125" y1="15.478125" x2="101.7984375" y2="15.478125" width="0.1524" layer="1"/>
 <wire x1="140.4826375" y1="21.7765625" x2="134.6295375" y2="21.7765625" width="0.1524" layer="16"/>
 <wire x1="134.6295375" y1="21.7765625" x2="132.7546875" y2="19.9017125" width="0.1524" layer="16"/>
-<contactref element="KEYSWITCH4" pad="HOLE3"/>
-<contactref element="KEYSWITCH12" pad="HOLE3"/>
-<contactref element="KEYSWITCH20" pad="HOLE3"/>
-<contactref element="KEYSWITCH27" pad="HOLE3"/>
-<contactref element="KEYSWITCH33" pad="HOLE3"/>
-<contactref element="SWITCH2" pad="HOLE3"/>
+<contactref element="SW5" pad="HOLE3"/>
+<contactref element="SW13" pad="HOLE3"/>
+<contactref element="SW21" pad="HOLE3"/>
+<contactref element="SW28" pad="HOLE3"/>
+<contactref element="SW35" pad="HOLE3"/>
+<contactref element="SW41" pad="HOLE3"/>
 <wire x1="73.81875" y1="101.82625" x2="73.41" y2="102.235" width="0.1524" layer="16"/>
 <wire x1="73.81875" y1="100.0125" x2="73.81875" y2="101.82625" width="0.1524" layer="16"/>
 <wire x1="73.41" y1="102.235" x2="70.485" y2="102.235" width="0.1524" layer="16"/>
@@ -4399,11 +4399,11 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="112.50531875" y1="14.8828125" x2="117.26781875" y2="19.6453125" width="0.1524" layer="1"/>
 </signal>
 <signal name="COLUMN4">
-<contactref element="KEYSWITCH34" pad="P$1"/>
-<contactref element="KEYSWITCH28" pad="P$1"/>
-<contactref element="KEYSWITCH21" pad="P$1"/>
-<contactref element="KEYSWITCH13" pad="P$1"/>
-<contactref element="KEYSWITCH5" pad="P$1"/>
+<contactref element="SW36" pad="P$1"/>
+<contactref element="SW29" pad="P$1"/>
+<contactref element="SW22" pad="P$1"/>
+<contactref element="SW14" pad="P$1"/>
+<contactref element="SW6" pad="P$1"/>
 <via x="92.86875" y="100.0125" extent="1-16" drill="0.35"/>
 <via x="92.86875" y="80.9625" extent="1-16" drill="0.35"/>
 <via x="102.39375" y="61.9125" extent="1-16" drill="0.35"/>
@@ -4424,11 +4424,11 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="U3" pad="19"/>
 <wire x1="140.4826375" y1="22.2765625" x2="134.3731375" y2="22.2765625" width="0.1524" layer="16"/>
 <wire x1="134.3731375" y1="22.2765625" x2="132.7546875" y2="20.6581125" width="0.1524" layer="16"/>
-<contactref element="KEYSWITCH5" pad="HOLE3"/>
-<contactref element="KEYSWITCH13" pad="HOLE3"/>
-<contactref element="KEYSWITCH21" pad="HOLE3"/>
-<contactref element="KEYSWITCH28" pad="HOLE3"/>
-<contactref element="KEYSWITCH34" pad="HOLE3"/>
+<contactref element="SW6" pad="HOLE3"/>
+<contactref element="SW14" pad="HOLE3"/>
+<contactref element="SW22" pad="HOLE3"/>
+<contactref element="SW29" pad="HOLE3"/>
+<contactref element="SW36" pad="HOLE3"/>
 <wire x1="92.86875" y1="101.82625" x2="92.46" y2="102.235" width="0.1524" layer="16"/>
 <wire x1="92.86875" y1="100.0125" x2="92.86875" y2="101.82625" width="0.1524" layer="16"/>
 <wire x1="92.46" y1="102.235" x2="89.535" y2="102.235" width="0.1524" layer="16"/>
@@ -4447,12 +4447,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="116.2725" y1="26.035" x2="113.3475" y2="26.035" width="0.1524" layer="16"/>
 </signal>
 <signal name="COLUMN5">
-<contactref element="KEYSWITCH6" pad="P$1"/>
-<contactref element="KEYSWITCH14" pad="P$1"/>
-<contactref element="KEYSWITCH22" pad="P$1"/>
-<contactref element="KEYSWITCH29" pad="P$1"/>
-<contactref element="KEYSWITCH35" pad="P$1"/>
-<contactref element="KEYSWITCH39" pad="P$1"/>
+<contactref element="SW7" pad="P$1"/>
+<contactref element="SW15" pad="P$1"/>
+<contactref element="SW23" pad="P$1"/>
+<contactref element="SW30" pad="P$1"/>
+<contactref element="SW37" pad="P$1"/>
+<contactref element="SW42" pad="P$1"/>
 <via x="135.73125" y="23.8125" extent="1-16" drill="0.35"/>
 <via x="111.91875" y="100.0125" extent="1-16" drill="0.35"/>
 <via x="111.91875" y="80.9625" extent="1-16" drill="0.35"/>
@@ -4472,12 +4472,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="U3" pad="21"/>
 <wire x1="140.4826375" y1="23.2765625" x2="136.2671875" y2="23.2765625" width="0.1524" layer="16"/>
 <wire x1="136.2671875" y1="23.2765625" x2="135.73125" y2="23.8125" width="0.1524" layer="16"/>
-<contactref element="KEYSWITCH6" pad="HOLE3"/>
-<contactref element="KEYSWITCH14" pad="HOLE3"/>
-<contactref element="KEYSWITCH22" pad="HOLE3"/>
-<contactref element="KEYSWITCH29" pad="HOLE3"/>
-<contactref element="KEYSWITCH35" pad="HOLE3"/>
-<contactref element="KEYSWITCH39" pad="HOLE3"/>
+<contactref element="SW7" pad="HOLE3"/>
+<contactref element="SW15" pad="HOLE3"/>
+<contactref element="SW23" pad="HOLE3"/>
+<contactref element="SW30" pad="HOLE3"/>
+<contactref element="SW37" pad="HOLE3"/>
+<contactref element="SW42" pad="HOLE3"/>
 <wire x1="133.9453125" y1="8.9296875" x2="133.9453125" y2="7.7390625" width="0.1524" layer="16"/>
 <wire x1="133.9453125" y1="7.7390625" x2="133.19125" y2="6.985" width="0.1524" layer="16"/>
 <wire x1="133.19125" y1="6.985" x2="132.94125" y2="6.985" width="0.1524" layer="16"/>
@@ -4502,17 +4502,17 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="132.94125" y1="6.985" x2="130.01625" y2="6.985" width="0.1524" layer="16"/>
 </signal>
 <signal name="COLUMN7">
-<contactref element="KEYSWITCH16" pad="P$1"/>
-<contactref element="KEYSWITCH8" pad="P$1"/>
-<contactref element="KEYSWITCH30" pad="P$1"/>
-<contactref element="KEYSWITCH23" pad="P$1"/>
+<contactref element="SW17" pad="P$1"/>
+<contactref element="SW9" pad="P$1"/>
+<contactref element="SW31" pad="P$1"/>
+<contactref element="SW24" pad="P$1"/>
 <wire x1="145.8515625" y1="96.8446875" x2="145.8515625" y2="93.6553125" width="0.1524" layer="16"/>
 <wire x1="145.8515625" y1="93.6553125" x2="149.61" y2="89.896875" width="0.1524" layer="16"/>
 <contactref element="U3" pad="25"/>
-<contactref element="KEYSWITCH8" pad="HOLE3"/>
-<contactref element="KEYSWITCH16" pad="HOLE3"/>
-<contactref element="KEYSWITCH23" pad="HOLE3"/>
-<contactref element="KEYSWITCH30" pad="HOLE3"/>
+<contactref element="SW9" pad="HOLE3"/>
+<contactref element="SW17" pad="HOLE3"/>
+<contactref element="SW24" pad="HOLE3"/>
+<contactref element="SW31" pad="HOLE3"/>
 <wire x1="149.5190625" y1="100.5121875" x2="145.8515625" y2="96.8446875" width="0.1524" layer="16"/>
 <wire x1="147.0421875" y1="42.8625" x2="147.22875" y2="43.0490625" width="0.1524" layer="16"/>
 <wire x1="147.22875" y1="43.0490625" x2="147.22875" y2="45.085" width="0.1524" layer="16"/>
@@ -4546,8 +4546,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="144.6609375" y1="64.3215625" x2="144.6609375" y2="67.2703125" width="0.1524" layer="16"/>
 </signal>
 <signal name="COLUMN6">
-<contactref element="KEYSWITCH15" pad="P$1"/>
-<contactref element="KEYSWITCH7" pad="P$1"/>
+<contactref element="SW16" pad="P$1"/>
+<contactref element="SW8" pad="P$1"/>
 <via x="130.96875" y="80.9625" extent="1-16" drill="0.35"/>
 <via x="130.96875" y="100.0125" extent="1-16" drill="0.35"/>
 <wire x1="130.96875" y1="100.0125" x2="130.96875" y2="80.9625" width="0.1524" layer="1"/>
@@ -4558,8 +4558,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="122.0390625" y1="62.21015625" x2="122.0390625" y2="71.4375" width="0.1524" layer="1"/>
 <contactref element="U3" pad="22"/>
 <wire x1="138.74375" y1="23.7765625" x2="140.4826375" y2="23.7765625" width="0.1524" layer="16"/>
-<contactref element="KEYSWITCH7" pad="HOLE3"/>
-<contactref element="KEYSWITCH15" pad="HOLE3"/>
+<contactref element="SW8" pad="HOLE3"/>
+<contactref element="SW16" pad="HOLE3"/>
 <wire x1="130.96875" y1="101.82625" x2="130.56" y2="102.235" width="0.1524" layer="16"/>
 <wire x1="130.96875" y1="100.0125" x2="130.96875" y2="101.82625" width="0.1524" layer="16"/>
 <wire x1="127.635" y1="102.235" x2="130.56" y2="102.235" width="0.1524" layer="16"/>
@@ -4643,9 +4643,9 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="45.24375" y1="30.3609375" x2="44.6484375" y2="30.95625" width="0.1524" layer="16"/>
 </signal>
 <signal name="N$1">
-<contactref element="KEYSWITCH10" pad="P$2"/>
+<contactref element="SW11" pad="P$2"/>
 <contactref element="D13" pad="A"/>
-<contactref element="KEYSWITCH10" pad="HOLE2"/>
+<contactref element="SW11" pad="HOLE2"/>
 <wire x1="21.43125" y1="82.899375" x2="21.43125" y2="81.5578125" width="0.1524" layer="16"/>
 <wire x1="21.43125" y1="81.5578125" x2="22.3440625" y2="80.645" width="0.1524" layer="16"/>
 <wire x1="22.3440625" y1="80.645" x2="23.11" y2="80.645" width="0.1524" layer="16"/>
@@ -4653,8 +4653,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$10">
 <contactref element="D4" pad="A"/>
-<contactref element="KEYSWITCH1" pad="P$2"/>
-<contactref element="KEYSWITCH1" pad="HOLE2"/>
+<contactref element="SW2" pad="P$2"/>
+<contactref element="SW2" pad="HOLE2"/>
 <wire x1="2.38125" y1="101.949375" x2="2.38125" y2="100.6078125" width="0.1524" layer="16"/>
 <wire x1="2.38125" y1="100.6078125" x2="3.2940625" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="3.2940625" y1="99.695" x2="4.06" y2="99.695" width="0.1524" layer="16"/>
@@ -4662,8 +4662,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$11">
 <contactref element="D5" pad="A"/>
-<contactref element="KEYSWITCH2" pad="P$2"/>
-<contactref element="KEYSWITCH2" pad="HOLE2"/>
+<contactref element="SW3" pad="P$2"/>
+<contactref element="SW3" pad="HOLE2"/>
 <wire x1="21.43125" y1="101.949375" x2="21.43125" y2="100.6078125" width="0.1524" layer="16"/>
 <wire x1="21.43125" y1="100.6078125" x2="22.3440625" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="22.3440625" y1="99.695" x2="23.11" y2="99.695" width="0.1524" layer="16"/>
@@ -4671,8 +4671,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$12">
 <contactref element="D6" pad="A"/>
-<contactref element="KEYSWITCH3" pad="P$2"/>
-<contactref element="KEYSWITCH3" pad="HOLE2"/>
+<contactref element="SW4" pad="P$2"/>
+<contactref element="SW4" pad="HOLE2"/>
 <wire x1="45.085" y1="99.695" x2="42.2671875" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="42.2671875" y1="99.695" x2="42.16" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="40.48125" y1="101.949375" x2="40.48125" y2="100.6078125" width="0.1524" layer="16"/>
@@ -4681,8 +4681,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$13">
 <contactref element="D7" pad="A"/>
-<contactref element="KEYSWITCH4" pad="P$2"/>
-<contactref element="KEYSWITCH4" pad="HOLE2"/>
+<contactref element="SW5" pad="P$2"/>
+<contactref element="SW5" pad="HOLE2"/>
 <wire x1="59.53125" y1="101.949375" x2="59.53125" y2="100.6078125" width="0.1524" layer="16"/>
 <wire x1="59.53125" y1="100.6078125" x2="60.4440625" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="60.4440625" y1="99.695" x2="61.21" y2="99.695" width="0.1524" layer="16"/>
@@ -4690,8 +4690,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$14">
 <contactref element="D8" pad="A"/>
-<contactref element="KEYSWITCH5" pad="P$2"/>
-<contactref element="KEYSWITCH5" pad="HOLE2"/>
+<contactref element="SW6" pad="P$2"/>
+<contactref element="SW6" pad="HOLE2"/>
 <wire x1="78.58125" y1="101.949375" x2="78.58125" y2="100.6078125" width="0.1524" layer="16"/>
 <wire x1="78.58125" y1="100.6078125" x2="79.4940625" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="79.4940625" y1="99.695" x2="80.26" y2="99.695" width="0.1524" layer="16"/>
@@ -4699,8 +4699,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$15">
 <contactref element="D9" pad="A"/>
-<contactref element="KEYSWITCH6" pad="P$2"/>
-<contactref element="KEYSWITCH6" pad="HOLE2"/>
+<contactref element="SW7" pad="P$2"/>
+<contactref element="SW7" pad="HOLE2"/>
 <wire x1="102.235" y1="99.695" x2="99.4171875" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="99.4171875" y1="99.695" x2="99.31" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="97.63125" y1="101.949375" x2="97.63125" y2="100.6078125" width="0.1524" layer="16"/>
@@ -4709,8 +4709,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$16">
 <contactref element="D10" pad="A"/>
-<contactref element="KEYSWITCH7" pad="P$2"/>
-<contactref element="KEYSWITCH7" pad="HOLE2"/>
+<contactref element="SW8" pad="P$2"/>
+<contactref element="SW8" pad="HOLE2"/>
 <wire x1="116.68125" y1="101.949375" x2="116.68125" y2="100.6078125" width="0.1524" layer="16"/>
 <wire x1="116.68125" y1="100.6078125" x2="117.5940625" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="117.5940625" y1="99.695" x2="118.36" y2="99.695" width="0.1524" layer="16"/>
@@ -4718,8 +4718,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$17">
 <contactref element="D11" pad="A"/>
-<contactref element="KEYSWITCH8" pad="P$2"/>
-<contactref element="KEYSWITCH8" pad="HOLE2"/>
+<contactref element="SW9" pad="P$2"/>
+<contactref element="SW9" pad="HOLE2"/>
 <wire x1="140.335" y1="99.695" x2="137.41" y2="99.695" width="0.1524" layer="16"/>
 <wire x1="135.73125" y1="101.949375" x2="135.73125" y2="100.6078125" width="0.1524" layer="16"/>
 <wire x1="135.73125" y1="100.6078125" x2="136.6440625" y2="99.695" width="0.1524" layer="16"/>
@@ -4727,8 +4727,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$18">
 <contactref element="D19" pad="A"/>
-<contactref element="KEYSWITCH16" pad="P$2"/>
-<contactref element="KEYSWITCH16" pad="HOLE2"/>
+<contactref element="SW17" pad="P$2"/>
+<contactref element="SW17" pad="HOLE2"/>
 <wire x1="135.73125" y1="82.899375" x2="135.73125" y2="81.5578125" width="0.1524" layer="16"/>
 <wire x1="135.73125" y1="81.5578125" x2="136.921875" y2="80.3671875" width="0.1524" layer="16"/>
 <wire x1="136.921875" y1="80.3671875" x2="137.5171875" y2="80.3671875" width="0.1524" layer="16"/>
@@ -4738,8 +4738,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$19">
 <contactref element="D18" pad="A"/>
-<contactref element="KEYSWITCH15" pad="P$2"/>
-<contactref element="KEYSWITCH15" pad="HOLE2"/>
+<contactref element="SW16" pad="P$2"/>
+<contactref element="SW16" pad="HOLE2"/>
 <wire x1="116.68125" y1="82.899375" x2="116.68125" y2="81.5578125" width="0.1524" layer="16"/>
 <wire x1="116.68125" y1="81.5578125" x2="117.5940625" y2="80.645" width="0.1524" layer="16"/>
 <wire x1="117.5940625" y1="80.645" x2="118.36" y2="80.645" width="0.1524" layer="16"/>
@@ -4747,8 +4747,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$20">
 <contactref element="D17" pad="A"/>
-<contactref element="KEYSWITCH14" pad="P$2"/>
-<contactref element="KEYSWITCH14" pad="HOLE2"/>
+<contactref element="SW15" pad="P$2"/>
+<contactref element="SW15" pad="HOLE2"/>
 <wire x1="97.63125" y1="82.899375" x2="97.63125" y2="81.5578125" width="0.1524" layer="16"/>
 <wire x1="97.63125" y1="81.5578125" x2="98.5440625" y2="80.645" width="0.1524" layer="16"/>
 <wire x1="98.5440625" y1="80.645" x2="99.31" y2="80.645" width="0.1524" layer="16"/>
@@ -4756,8 +4756,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$21">
 <contactref element="D16" pad="A"/>
-<contactref element="KEYSWITCH13" pad="P$2"/>
-<contactref element="KEYSWITCH13" pad="HOLE2"/>
+<contactref element="SW14" pad="P$2"/>
+<contactref element="SW14" pad="HOLE2"/>
 <wire x1="78.58125" y1="82.899375" x2="78.58125" y2="81.5578125" width="0.1524" layer="16"/>
 <wire x1="78.58125" y1="81.5578125" x2="79.4940625" y2="80.645" width="0.1524" layer="16"/>
 <wire x1="79.4940625" y1="80.645" x2="79.771875" y2="80.645" width="0.1524" layer="16"/>
@@ -4766,8 +4766,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$22">
 <contactref element="D15" pad="A"/>
-<contactref element="KEYSWITCH12" pad="P$2"/>
-<contactref element="KEYSWITCH12" pad="HOLE2"/>
+<contactref element="SW13" pad="P$2"/>
+<contactref element="SW13" pad="HOLE2"/>
 <wire x1="59.53125" y1="82.899375" x2="59.53125" y2="81.5578125" width="0.1524" layer="16"/>
 <wire x1="59.53125" y1="81.5578125" x2="60.4440625" y2="80.645" width="0.1524" layer="16"/>
 <wire x1="60.4440625" y1="80.645" x2="61.21" y2="80.645" width="0.1524" layer="16"/>
@@ -4775,8 +4775,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$23">
 <contactref element="D14" pad="A"/>
-<contactref element="KEYSWITCH11" pad="P$2"/>
-<contactref element="KEYSWITCH11" pad="HOLE2"/>
+<contactref element="SW12" pad="P$2"/>
+<contactref element="SW12" pad="HOLE2"/>
 <wire x1="40.48125" y1="82.899375" x2="40.48125" y2="81.5578125" width="0.1524" layer="16"/>
 <wire x1="40.48125" y1="81.5578125" x2="41.3940625" y2="80.645" width="0.1524" layer="16"/>
 <wire x1="41.3940625" y1="80.645" x2="41.671875" y2="80.645" width="0.1524" layer="16"/>
@@ -4785,8 +4785,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$24">
 <contactref element="D12" pad="A"/>
-<contactref element="KEYSWITCH9" pad="P$2"/>
-<contactref element="KEYSWITCH9" pad="HOLE2"/>
+<contactref element="SW10" pad="P$2"/>
+<contactref element="SW10" pad="HOLE2"/>
 <wire x1="2.38125" y1="82.899375" x2="2.38125" y2="81.5578125" width="0.1524" layer="16"/>
 <wire x1="2.38125" y1="81.5578125" x2="3.2940625" y2="80.645" width="0.1524" layer="16"/>
 <wire x1="3.2940625" y1="80.645" x2="4.06" y2="80.645" width="0.1524" layer="16"/>
@@ -4794,8 +4794,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$25">
 <contactref element="D26" pad="A"/>
-<contactref element="KEYSWITCH23" pad="P$2"/>
-<contactref element="KEYSWITCH23" pad="HOLE2"/>
+<contactref element="SW24" pad="P$2"/>
+<contactref element="SW24" pad="HOLE2"/>
 <wire x1="130.96875" y1="63.849375" x2="130.96875" y2="62.5078125" width="0.1524" layer="16"/>
 <wire x1="130.96875" y1="62.5078125" x2="131.86171875" y2="61.61484375" width="0.1524" layer="16"/>
 <wire x1="131.86171875" y1="61.61484375" x2="131.8815625" y2="61.595" width="0.1524" layer="16"/>
@@ -4805,8 +4805,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$26">
 <contactref element="D25" pad="A"/>
-<contactref element="KEYSWITCH22" pad="P$2"/>
-<contactref element="KEYSWITCH22" pad="HOLE2"/>
+<contactref element="SW23" pad="P$2"/>
+<contactref element="SW23" pad="HOLE2"/>
 <wire x1="111.76" y1="61.595" x2="108.835" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="108.835" y1="61.595" x2="108.0690625" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="108.0690625" y1="61.595" x2="107.15625" y2="62.5078125" width="0.1524" layer="16"/>
@@ -4814,8 +4814,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$27">
 <contactref element="D24" pad="A"/>
-<contactref element="KEYSWITCH21" pad="P$2"/>
-<contactref element="KEYSWITCH21" pad="HOLE2"/>
+<contactref element="SW22" pad="P$2"/>
+<contactref element="SW22" pad="HOLE2"/>
 <wire x1="92.71" y1="61.595" x2="89.785" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="89.785" y1="61.595" x2="89.0190625" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="89.0190625" y1="61.595" x2="88.10625" y2="62.5078125" width="0.1524" layer="16"/>
@@ -4823,8 +4823,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$28">
 <contactref element="D23" pad="A"/>
-<contactref element="KEYSWITCH20" pad="P$2"/>
-<contactref element="KEYSWITCH20" pad="HOLE2"/>
+<contactref element="SW21" pad="P$2"/>
+<contactref element="SW21" pad="HOLE2"/>
 <wire x1="73.66" y1="61.595" x2="70.735" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="70.735" y1="61.595" x2="69.9690625" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="69.9690625" y1="61.595" x2="69.05625" y2="62.5078125" width="0.1524" layer="16"/>
@@ -4832,8 +4832,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$29">
 <contactref element="D22" pad="A"/>
-<contactref element="KEYSWITCH19" pad="P$2"/>
-<contactref element="KEYSWITCH19" pad="HOLE2"/>
+<contactref element="SW20" pad="P$2"/>
+<contactref element="SW20" pad="HOLE2"/>
 <wire x1="50.00625" y1="63.849375" x2="50.00625" y2="62.5078125" width="0.1524" layer="16"/>
 <wire x1="50.00625" y1="62.5078125" x2="50.9190625" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="50.9190625" y1="61.595" x2="51.685" y2="61.595" width="0.1524" layer="16"/>
@@ -4841,8 +4841,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$31">
 <contactref element="D20" pad="A"/>
-<contactref element="KEYSWITCH17" pad="P$2"/>
-<contactref element="KEYSWITCH17" pad="HOLE2"/>
+<contactref element="SW18" pad="P$2"/>
+<contactref element="SW18" pad="HOLE2"/>
 <wire x1="11.7475" y1="61.595" x2="8.8225" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="8.8225" y1="61.595" x2="8.0565625" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="8.0565625" y1="61.595" x2="7.14375" y2="62.5078125" width="0.1524" layer="16"/>
@@ -4850,8 +4850,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$32">
 <contactref element="D27" pad="A"/>
-<contactref element="KEYSWITCH24" pad="P$2"/>
-<contactref element="KEYSWITCH24" pad="HOLE2"/>
+<contactref element="SW25" pad="P$2"/>
+<contactref element="SW25" pad="HOLE2"/>
 <wire x1="9.525" y1="44.799375" x2="9.525" y2="43.4578125" width="0.1524" layer="16"/>
 <wire x1="9.525" y1="43.4578125" x2="10.4378125" y2="42.545" width="0.1524" layer="16"/>
 <wire x1="10.4378125" y1="42.545" x2="11.20375" y2="42.545" width="0.1524" layer="16"/>
@@ -4859,8 +4859,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$33">
 <contactref element="D28" pad="A"/>
-<contactref element="KEYSWITCH25" pad="P$2"/>
-<contactref element="KEYSWITCH25" pad="HOLE2"/>
+<contactref element="SW26" pad="P$2"/>
+<contactref element="SW26" pad="HOLE2"/>
 <wire x1="35.71875" y1="44.799375" x2="35.71875" y2="43.4578125" width="0.1524" layer="16"/>
 <wire x1="35.71875" y1="43.4578125" x2="36.6315625" y2="42.545" width="0.1524" layer="16"/>
 <wire x1="36.6315625" y1="42.545" x2="37.3975" y2="42.545" width="0.1524" layer="16"/>
@@ -4868,8 +4868,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$34">
 <contactref element="D29" pad="A"/>
-<contactref element="KEYSWITCH26" pad="P$2"/>
-<contactref element="KEYSWITCH26" pad="HOLE2"/>
+<contactref element="SW27" pad="P$2"/>
+<contactref element="SW27" pad="HOLE2"/>
 <wire x1="56.4475" y1="42.545" x2="56.34234375" y2="42.65015625" width="0.1524" layer="16"/>
 <wire x1="56.34234375" y1="42.65015625" x2="55.5346875" y2="43.4578125" width="0.1524" layer="16"/>
 <wire x1="55.5346875" y1="43.4578125" x2="54.76875" y2="43.4578125" width="0.1524" layer="16"/>
@@ -4879,8 +4879,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$35">
 <contactref element="D30" pad="A"/>
-<contactref element="KEYSWITCH27" pad="P$2"/>
-<contactref element="KEYSWITCH27" pad="HOLE2"/>
+<contactref element="SW28" pad="P$2"/>
+<contactref element="SW28" pad="HOLE2"/>
 <wire x1="73.81875" y1="44.799375" x2="73.81875" y2="43.4578125" width="0.1524" layer="16"/>
 <wire x1="73.81875" y1="43.4578125" x2="74.7315625" y2="42.545" width="0.1524" layer="16"/>
 <wire x1="74.7315625" y1="42.545" x2="75.4975" y2="42.545" width="0.1524" layer="16"/>
@@ -4888,8 +4888,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$36">
 <contactref element="D31" pad="A"/>
-<contactref element="KEYSWITCH28" pad="P$2"/>
-<contactref element="KEYSWITCH28" pad="HOLE2"/>
+<contactref element="SW29" pad="P$2"/>
+<contactref element="SW29" pad="HOLE2"/>
 <wire x1="92.86875" y1="44.799375" x2="92.86875" y2="43.4578125" width="0.1524" layer="16"/>
 <wire x1="92.86875" y1="43.4578125" x2="93.7815625" y2="42.545" width="0.1524" layer="16"/>
 <wire x1="93.7815625" y1="42.545" x2="94.5475" y2="42.545" width="0.1524" layer="16"/>
@@ -4897,8 +4897,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$37">
 <contactref element="D32" pad="A"/>
-<contactref element="KEYSWITCH29" pad="P$2"/>
-<contactref element="KEYSWITCH29" pad="HOLE2"/>
+<contactref element="SW30" pad="P$2"/>
+<contactref element="SW30" pad="HOLE2"/>
 <wire x1="111.91875" y1="44.799375" x2="111.91875" y2="43.4578125" width="0.1524" layer="16"/>
 <wire x1="111.91875" y1="43.4578125" x2="112.8315625" y2="42.545" width="0.1524" layer="16"/>
 <wire x1="112.8315625" y1="42.545" x2="113.5975" y2="42.545" width="0.1524" layer="16"/>
@@ -4906,8 +4906,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$38">
 <contactref element="D33" pad="A"/>
-<contactref element="KEYSWITCH30" pad="P$2"/>
-<contactref element="KEYSWITCH30" pad="HOLE2"/>
+<contactref element="SW31" pad="P$2"/>
+<contactref element="SW31" pad="HOLE2"/>
 <wire x1="135.02875" y1="42.545" x2="134.2628125" y2="42.545" width="0.1524" layer="16"/>
 <wire x1="134.2628125" y1="42.545" x2="133.35" y2="43.4578125" width="0.1524" layer="16"/>
 <wire x1="133.35" y1="43.4578125" x2="133.35" y2="44.799375" width="0.1524" layer="16"/>
@@ -4915,8 +4915,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$39">
 <contactref element="D39" pad="A"/>
-<contactref element="KEYSWITCH35" pad="P$2"/>
-<contactref element="KEYSWITCH35" pad="HOLE2"/>
+<contactref element="SW37" pad="P$2"/>
+<contactref element="SW37" pad="HOLE2"/>
 <wire x1="126.0475" y1="23.495" x2="123.1225" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="123.1225" y1="23.495" x2="122.3565625" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="122.3565625" y1="23.495" x2="121.44375" y2="24.4078125" width="0.1524" layer="16"/>
@@ -4924,8 +4924,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$40">
 <contactref element="D37" pad="A"/>
-<contactref element="KEYSWITCH33" pad="P$2"/>
-<contactref element="KEYSWITCH33" pad="HOLE2"/>
+<contactref element="SW35" pad="P$2"/>
+<contactref element="SW35" pad="HOLE2"/>
 <wire x1="87.9475" y1="23.495" x2="85.0225" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="85.0225" y1="23.495" x2="84.2565625" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="84.2565625" y1="23.495" x2="83.34375" y2="24.4078125" width="0.1524" layer="16"/>
@@ -4933,8 +4933,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$41">
 <contactref element="D36" pad="A"/>
-<contactref element="KEYSWITCH32" pad="P$2"/>
-<contactref element="KEYSWITCH32" pad="HOLE2"/>
+<contactref element="SW34" pad="P$2"/>
+<contactref element="SW34" pad="HOLE2"/>
 <wire x1="68.8975" y1="23.495" x2="65.9725" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="64.29375" y1="25.749375" x2="64.29375" y2="24.4078125" width="0.1524" layer="16"/>
 <wire x1="64.29375" y1="24.4078125" x2="65.2065625" y2="23.495" width="0.1524" layer="16"/>
@@ -4942,8 +4942,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$42">
 <contactref element="D35" pad="A"/>
-<contactref element="KEYSWITCH31" pad="P$2"/>
-<contactref element="KEYSWITCH31" pad="HOLE2"/>
+<contactref element="SW33" pad="P$2"/>
+<contactref element="SW33" pad="HOLE2"/>
 <wire x1="49.8475" y1="23.495" x2="46.9225" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="46.9225" y1="23.495" x2="46.1565625" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="46.1565625" y1="23.495" x2="45.24375" y2="24.4078125" width="0.1524" layer="16"/>
@@ -4951,8 +4951,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$43">
 <contactref element="D34" pad="A"/>
-<contactref element="SWITCH1" pad="P$2"/>
-<contactref element="SWITCH1" pad="HOLE2"/>
+<contactref element="SW32" pad="P$2"/>
+<contactref element="SW32" pad="HOLE2"/>
 <wire x1="18.89125" y1="23.495" x2="15.96625" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="15.96625" y1="23.495" x2="15.2003125" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="15.2003125" y1="23.495" x2="14.2875" y2="24.4078125" width="0.1524" layer="16"/>
@@ -4960,8 +4960,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$44">
 <contactref element="D40" pad="A"/>
-<contactref element="KEYSWITCH36" pad="P$2"/>
-<contactref element="KEYSWITCH36" pad="HOLE2"/>
+<contactref element="SW38" pad="P$2"/>
+<contactref element="SW38" pad="HOLE2"/>
 <wire x1="4.7625" y1="6.699375" x2="4.7625" y2="5.3578125" width="0.1524" layer="16"/>
 <wire x1="4.7625" y1="5.3578125" x2="5.6753125" y2="4.445" width="0.1524" layer="16"/>
 <wire x1="5.6753125" y1="4.445" x2="6.44125" y2="4.445" width="0.1524" layer="16"/>
@@ -4969,8 +4969,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$45">
 <contactref element="D41" pad="A"/>
-<contactref element="KEYSWITCH37" pad="P$2"/>
-<contactref element="KEYSWITCH37" pad="HOLE2"/>
+<contactref element="SW39" pad="P$2"/>
+<contactref element="SW39" pad="HOLE2"/>
 <wire x1="28.575" y1="6.699375" x2="28.575" y2="5.3578125" width="0.1524" layer="16"/>
 <wire x1="28.575" y1="5.3578125" x2="29.4878125" y2="4.445" width="0.1524" layer="16"/>
 <wire x1="29.4878125" y1="4.445" x2="30.25375" y2="4.445" width="0.1524" layer="16"/>
@@ -4978,8 +4978,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$46">
 <contactref element="D42" pad="A"/>
-<contactref element="KEYSWITCH38" pad="P$2"/>
-<contactref element="KEYSWITCH38" pad="HOLE2"/>
+<contactref element="SW40" pad="P$2"/>
+<contactref element="SW40" pad="HOLE2"/>
 <wire x1="52.3875" y1="6.699375" x2="52.3875" y2="5.3578125" width="0.1524" layer="16"/>
 <wire x1="52.3875" y1="5.3578125" x2="53.3003125" y2="4.445" width="0.1524" layer="16"/>
 <wire x1="53.3003125" y1="4.445" x2="54.06625" y2="4.445" width="0.1524" layer="16"/>
@@ -4987,8 +4987,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$47">
 <contactref element="D43" pad="A"/>
-<contactref element="SWITCH2" pad="P$2"/>
-<contactref element="SWITCH2" pad="HOLE2"/>
+<contactref element="SW41" pad="P$2"/>
+<contactref element="SW41" pad="HOLE2"/>
 <wire x1="85.725" y1="6.699375" x2="85.725" y2="5.3578125" width="0.1524" layer="16"/>
 <wire x1="85.725" y1="5.3578125" x2="86.6378125" y2="4.445" width="0.1524" layer="16"/>
 <wire x1="86.6378125" y1="4.445" x2="87.40375" y2="4.445" width="0.1524" layer="16"/>
@@ -4996,8 +4996,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$48">
 <contactref element="D44" pad="A"/>
-<contactref element="KEYSWITCH39" pad="P$2"/>
-<contactref element="KEYSWITCH39" pad="HOLE2"/>
+<contactref element="SW42" pad="P$2"/>
+<contactref element="SW42" pad="HOLE2"/>
 <wire x1="119.0625" y1="6.699375" x2="119.0625" y2="5.3578125" width="0.1524" layer="16"/>
 <wire x1="119.0625" y1="5.3578125" x2="119.9753125" y2="4.445" width="0.1524" layer="16"/>
 <wire x1="119.9753125" y1="4.445" x2="120.74125" y2="4.445" width="0.1524" layer="16"/>
@@ -5005,8 +5005,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$49">
 <contactref element="D38" pad="A"/>
-<contactref element="KEYSWITCH34" pad="P$2"/>
-<contactref element="KEYSWITCH34" pad="HOLE2"/>
+<contactref element="SW36" pad="P$2"/>
+<contactref element="SW36" pad="HOLE2"/>
 <wire x1="106.9975" y1="23.495" x2="104.0725" y2="23.495" width="0.1524" layer="16"/>
 <wire x1="102.39375" y1="25.749375" x2="102.39375" y2="24.4078125" width="0.1524" layer="16"/>
 <wire x1="102.39375" y1="24.4078125" x2="103.3065625" y2="23.495" width="0.1524" layer="16"/>
@@ -5041,7 +5041,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="135.73125" y1="0.5953125" x2="120.253125" y2="0.5953125" width="0.1524" layer="1"/>
 <wire x1="120.253125" y1="0.5953125" x2="114.3" y2="6.5484375" width="0.1524" layer="1"/>
 <contactref element="U4" pad="5"/>
-<contactref element="R10" pad="1"/>
+<contactref element="R8" pad="1"/>
 <wire x1="2.70625" y1="22.64921875" x2="2.38125" y2="22.32421875" width="0.1524" layer="16"/>
 <via x="2.38125" y="22.32421875" extent="1-16" drill="0.35"/>
 <wire x1="2.70625" y1="24.2984375" x2="2.70625" y2="25.03046875" width="0.1524" layer="16"/>
@@ -5098,7 +5098,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="135.1359375" y1="1.190625" x2="135.43359375" y2="1.190625" width="0.1524" layer="1"/>
 <via x="135.1359375" y="1.190625" extent="1-16" drill="0.35"/>
 <contactref element="U4" pad="6"/>
-<contactref element="R9" pad="1"/>
+<contactref element="R7" pad="1"/>
 <wire x1="3.35625" y1="24.2984375" x2="3.35625" y2="22.40625" width="0.1524" layer="16"/>
 <wire x1="3.35625" y1="22.40625" x2="3.27421875" y2="22.32421875" width="0.1524" layer="16"/>
 <via x="3.27421875" y="22.32421875" extent="1-16" drill="0.35"/>
@@ -5225,7 +5225,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="XTAL1">
 <contactref element="Y1" pad="1"/>
-<contactref element="C11" pad="2"/>
+<contactref element="C10" pad="2"/>
 <contactref element="U3" pad="5"/>
 <wire x1="147.6375" y1="11.6265625" x2="147.5875" y2="11.5765625" width="0.1524" layer="16"/>
 <wire x1="147.5875" y1="11.5765625" x2="145.8109375" y2="11.5765625" width="0.1524" layer="16"/>
@@ -5240,7 +5240,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="XTAL2">
 <contactref element="Y1" pad="3"/>
-<contactref element="C12" pad="2"/>
+<contactref element="C11" pad="2"/>
 <contactref element="U3" pad="6"/>
 <wire x1="144.9109375" y1="17.8482625" x2="144.9109375" y2="14.983984375" width="0.1524" layer="16"/>
 <wire x1="144.9109375" y1="14.983984375" x2="144.512109375" y2="14.58515625" width="0.1524" layer="16"/>
@@ -5252,8 +5252,8 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$50">
 <contactref element="D21" pad="A"/>
-<contactref element="KEYSWITCH18" pad="P$2"/>
-<contactref element="KEYSWITCH18" pad="HOLE2"/>
+<contactref element="SW19" pad="P$2"/>
+<contactref element="SW19" pad="HOLE2"/>
 <wire x1="30.95625" y1="63.849375" x2="30.95625" y2="62.5078125" width="0.1524" layer="16"/>
 <wire x1="30.95625" y1="62.5078125" x2="31.8690625" y2="61.595" width="0.1524" layer="16"/>
 <wire x1="31.8690625" y1="61.595" x2="32.635" y2="61.595" width="0.1524" layer="16"/>
@@ -5269,13 +5269,13 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="LED4" pad="VDD"/>
 <contactref element="LED3" pad="VDD"/>
 <contactref element="LED2" pad="VDD"/>
-<contactref element="C16" pad="2"/>
-<contactref element="C17" pad="2"/>
 <contactref element="C18" pad="2"/>
 <contactref element="C19" pad="2"/>
 <contactref element="C20" pad="2"/>
 <contactref element="C21" pad="2"/>
 <contactref element="C22" pad="2"/>
+<contactref element="C23" pad="2"/>
+<contactref element="C24" pad="2"/>
 <contactref element="LED9" pad="VDD"/>
 <contactref element="LED16" pad="VDD"/>
 <contactref element="LED15" pad="VDD"/>
@@ -5284,13 +5284,13 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="LED12" pad="VDD"/>
 <contactref element="LED11" pad="VDD"/>
 <contactref element="LED10" pad="VDD"/>
-<contactref element="C23" pad="2"/>
-<contactref element="C24" pad="2"/>
 <contactref element="C25" pad="2"/>
 <contactref element="C26" pad="2"/>
 <contactref element="C27" pad="2"/>
 <contactref element="C28" pad="2"/>
 <contactref element="C29" pad="2"/>
+<contactref element="C30" pad="2"/>
+<contactref element="C31" pad="2"/>
 <contactref element="LED23" pad="VDD"/>
 <contactref element="LED17" pad="VDD"/>
 <contactref element="LED18" pad="VDD"/>
@@ -5298,12 +5298,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="LED20" pad="VDD"/>
 <contactref element="LED21" pad="VDD"/>
 <contactref element="LED22" pad="VDD"/>
-<contactref element="C30" pad="2"/>
-<contactref element="C31" pad="2"/>
 <contactref element="C32" pad="2"/>
 <contactref element="C33" pad="2"/>
 <contactref element="C34" pad="2"/>
 <contactref element="C35" pad="2"/>
+<contactref element="C36" pad="2"/>
+<contactref element="C37" pad="2"/>
 <contactref element="LED30" pad="VDD"/>
 <contactref element="LED24" pad="VDD"/>
 <contactref element="LED25" pad="VDD"/>
@@ -5311,32 +5311,32 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="LED27" pad="VDD"/>
 <contactref element="LED28" pad="VDD"/>
 <contactref element="LED29" pad="VDD"/>
-<contactref element="C36" pad="2"/>
-<contactref element="C37" pad="2"/>
 <contactref element="C38" pad="2"/>
 <contactref element="C39" pad="2"/>
 <contactref element="C40" pad="2"/>
 <contactref element="C41" pad="2"/>
+<contactref element="C42" pad="2"/>
+<contactref element="C43" pad="2"/>
 <contactref element="LED36" pad="VDD"/>
 <contactref element="LED31" pad="VDD"/>
 <contactref element="LED32" pad="VDD"/>
 <contactref element="LED33" pad="VDD"/>
 <contactref element="LED34" pad="VDD"/>
 <contactref element="LED35" pad="VDD"/>
-<contactref element="C42" pad="2"/>
-<contactref element="C43" pad="2"/>
 <contactref element="C44" pad="2"/>
 <contactref element="C45" pad="2"/>
 <contactref element="C46" pad="2"/>
+<contactref element="C47" pad="2"/>
+<contactref element="C48" pad="2"/>
 <contactref element="LED41" pad="VDD"/>
 <contactref element="LED37" pad="VDD"/>
 <contactref element="LED38" pad="VDD"/>
 <contactref element="LED39" pad="VDD"/>
 <contactref element="LED40" pad="VDD"/>
-<contactref element="C47" pad="2"/>
-<contactref element="C48" pad="2"/>
 <contactref element="C49" pad="2"/>
 <contactref element="C50" pad="2"/>
+<contactref element="C51" pad="2"/>
+<contactref element="C52" pad="2"/>
 <wire x1="33.01875" y1="15.0375" x2="32.578125" y2="15.478125" width="0.1524" layer="16"/>
 <wire x1="25.878125" y1="15.478125" x2="24.6875" y2="14.2875" width="0.1524" layer="16"/>
 <wire x1="32.578125" y1="15.478125" x2="25.878125" y2="15.478125" width="0.1524" layer="16"/>
@@ -5699,14 +5699,14 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$3">
 <contactref element="U6" pad="5"/>
-<contactref element="R12" pad="2"/>
+<contactref element="R11" pad="2"/>
 <wire x1="7.14375" y1="29.78359375" x2="7.14375" y2="28.575" width="0.1524" layer="16"/>
 <wire x1="7.14375" y1="28.575" x2="6.5484375" y2="27.9796875" width="0.1524" layer="16"/>
 <wire x1="6.5484375" y1="27.9796875" x2="6.5484375" y2="26.8484375" width="0.1524" layer="16"/>
 </signal>
 <signal name="LED_FAULT">
 <contactref element="U6" pad="4"/>
-<contactref element="R8" pad="1"/>
+<contactref element="R6" pad="1"/>
 <wire x1="9.376171875" y1="24.7234375" x2="9.209375" y2="24.7234375" width="0.1524" layer="16"/>
 <wire x1="9.209375" y1="24.7234375" x2="8.334375" y2="25.5984375" width="0.1524" layer="16"/>
 <wire x1="5.953125" y1="25.5984375" x2="5.5984375" y2="25.953125" width="0.1524" layer="16"/>
@@ -5755,7 +5755,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="LED_ENABLE">
 <contactref element="U6" pad="3"/>
-<contactref element="R13" pad="2"/>
+<contactref element="R12" pad="2"/>
 <wire x1="4.7625" y1="25.184375" x2="5.5984375" y2="24.3484375" width="0.1524" layer="16"/>
 <wire x1="4.7625" y1="25.184375" x2="4.7625" y2="27.9796875" width="0.1524" layer="16"/>
 <wire x1="4.7625" y1="27.9796875" x2="5.3578125" y2="28.575" width="0.1524" layer="16"/>
@@ -5802,7 +5802,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="14.2875" y1="16.0734375" x2="13.6921875" y2="16.66875" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$2">
-<contactref element="R11" pad="2"/>
+<contactref element="R10" pad="2"/>
 <contactref element="U6" pad="1"/>
 <contactref element="U5" pad="2"/>
 <contactref element="SJ1" pad="2"/>
@@ -6364,7 +6364,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$89">
 <contactref element="X1" pad="CC2"/>
-<contactref element="R4" pad="1"/>
+<contactref element="R3" pad="1"/>
 <wire x1="20.8" y1="108.91875" x2="20.8" y2="108.01328125" width="0.1524" layer="16"/>
 <wire x1="20.8" y1="108.01328125" x2="20.53828125" y2="107.7515625" width="0.1524" layer="16"/>
 <via x="20.53828125" y="107.7515625" extent="1-16" drill="0.35"/>
@@ -6413,7 +6413,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="SW1" pad="P$2"/>
 <wire x1="151.358203125" y1="7.292578125" x2="150.6140625" y2="6.5484375" width="0.1524" layer="1"/>
 <wire x1="139.8984375" y1="6.5484375" x2="139.005078125" y2="6.5484375" width="0.1524" layer="16"/>
-<contactref element="ISP_HEADER" pad="6"/>
+<contactref element="PH1" pad="6"/>
 <wire x1="139.005078125" y1="6.5484375" x2="134.837890625" y2="2.38125" width="0.1524" layer="16"/>
 <wire x1="139.005078125" y1="6.5484375" x2="138.7078125" y2="6.845703125" width="0.1524" layer="16"/>
 <wire x1="138.7078125" y1="6.845703125" x2="138.7078125" y2="7.590625" width="0.1524" layer="16"/>
@@ -6473,9 +6473,9 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <via x="138.7078125" y="55.3640625" extent="1-16" drill="0.35"/>
 <wire x1="138.7078125" y1="55.3640625" x2="6.5484375" y2="55.3640625" width="0.3048" layer="16"/>
 <contactref element="U4" pad="8"/>
-<contactref element="C10" pad="2"/>
-<contactref element="R9" pad="2"/>
-<contactref element="R10" pad="2"/>
+<contactref element="C17" pad="2"/>
+<contactref element="R7" pad="2"/>
+<contactref element="R8" pad="2"/>
 <wire x1="3.35625" y1="26.8984375" x2="3.35625" y2="28.1953125" width="0.3048" layer="16"/>
 <wire x1="3.35625" y1="28.1953125" x2="2.9765625" y2="28.575" width="0.3048" layer="16"/>
 <via x="2.9765625" y="28.575" extent="1-16" drill="0.35"/>
@@ -6572,7 +6572,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="148.828125" y1="14.8828125" x2="145.405078125" y2="14.8828125" width="0.1524" layer="1"/>
 <wire x1="145.405078125" y1="14.8828125" x2="144.36328125" y2="15.924609375" width="0.1524" layer="1"/>
 <wire x1="147.6375" y1="9.8046875" x2="145.574896875" y2="9.8046875" width="0.1524" layer="16"/>
-<contactref element="ISP_HEADER" pad="2"/>
+<contactref element="PH1" pad="2"/>
 <wire x1="144.36328125" y1="15.924609375" x2="143.916796875" y2="15.478125" width="0.1524" layer="16"/>
 <wire x1="143.916796875" y1="15.478125" x2="138.1125" y2="15.478125" width="0.1524" layer="16"/>
 <wire x1="138.1125" y1="15.478125" x2="134.540625" y2="11.90625" width="0.1524" layer="16"/>
@@ -6584,9 +6584,9 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="BOOT0">
 <contactref element="U3" pad="44"/>
-<contactref element="D3" pad="C"/>
+<contactref element="D2" pad="C"/>
 <contactref element="C13" pad="2"/>
-<contactref element="R7" pad="1"/>
+<contactref element="R5" pad="1"/>
 <wire x1="144.065625" y1="10.715625" x2="148.828125" y2="10.715625" width="0.1524" layer="16"/>
 <wire x1="148.828125" y1="10.715625" x2="149.4234375" y2="11.3109375" width="0.1524" layer="16"/>
 <wire x1="149.4234375" y1="11.3109375" x2="149.4234375" y2="12.350625" width="0.1524" layer="16"/>
@@ -6598,7 +6598,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="143.321484375" y1="9.8046875" x2="141.684375" y2="9.8046875" width="0.1524" layer="16"/>
 <wire x1="144.065625" y1="10.715625" x2="143.321484375" y2="9.971484375" width="0.1524" layer="16"/>
 <wire x1="143.321484375" y1="9.971484375" x2="143.321484375" y2="9.8046875" width="0.1524" layer="16"/>
-<contactref element="ISP_HEADER" pad="3"/>
+<contactref element="PH1" pad="3"/>
 <wire x1="141.684375" y1="9.8046875" x2="140.809375" y2="9.8046875" width="0.1524" layer="16"/>
 <wire x1="140.809375" y1="9.8046875" x2="140.49375" y2="10.1203125" width="0.1524" layer="16"/>
 <via x="140.49375" y="10.1203125" extent="1-16" drill="0.35"/>
@@ -6614,7 +6614,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="N$5">
 <contactref element="Q1" pad="1"/>
-<contactref element="D3" pad="A"/>
+<contactref element="D2" pad="A"/>
 <wire x1="149.4234375" y1="9.080625" x2="148.9790625" y2="9.080625" width="0.1524" layer="16"/>
 <wire x1="148.9790625" y1="9.080625" x2="148.828125" y2="8.9296875" width="0.1524" layer="16"/>
 <wire x1="148.828125" y1="8.9296875" x2="147.0421875" y2="8.9296875" width="0.1524" layer="16"/>
@@ -6630,7 +6630,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="SWDIO">
 <contactref element="U3" pad="34"/>
-<contactref element="ISP_HEADER" pad="4"/>
+<contactref element="PH1" pad="4"/>
 <via x="147.6375" y="29.1703125" extent="1-16" drill="0.35"/>
 <wire x1="147.6375" y1="29.1703125" x2="147.6375" y2="28.27734375" width="0.1524" layer="16"/>
 <wire x1="146.4109375" y1="26.2048625" x2="146.4109375" y2="27.05078125" width="0.1524" layer="16"/>
@@ -6654,7 +6654,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </signal>
 <signal name="SWCLK">
 <contactref element="U3" pad="37"/>
-<contactref element="ISP_HEADER" pad="5"/>
+<contactref element="PH1" pad="5"/>
 <wire x1="148.8392375" y1="24.7765625" x2="149.7921875" y2="24.7765625" width="0.1524" layer="16"/>
 <wire x1="149.7921875" y1="24.7765625" x2="150.01875" y2="25.003125" width="0.1524" layer="16"/>
 <wire x1="150.01875" y1="25.003125" x2="150.01875" y2="25.5984375" width="0.1524" layer="16"/>
@@ -6681,12 +6681,12 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="X1" pad="P$9"/>
 <contactref element="X1" pad="P$12"/>
 <contactref element="X1" pad="P$6"/>
-<contactref element="C51" pad="1"/>
-<contactref element="R3" pad="1"/>
+<contactref element="C12" pad="1"/>
+<contactref element="R4" pad="1"/>
 <wire x1="36.33203125" y1="113.40703125" x2="35.4390625" y2="112.5140625" width="0.1524" layer="16"/>
 <wire x1="39.0109375" y1="112.5140625" x2="38.11796875" y2="113.40703125" width="0.1524" layer="16"/>
 <wire x1="38.11796875" y1="113.40703125" x2="36.33203125" y2="113.40703125" width="0.1524" layer="16"/>
-<wire x1="35.4390625" y1="112.5140625" x2="26.1546875" y2="112.5140625" width="0.1524" layer="16"/>
+<wire x1="26.1546875" y1="112.5140625" x2="35.4390625" y2="112.5140625" width="0.1524" layer="16"/>
 <wire x1="26.1546875" y1="112.5140625" x2="24.625" y2="114.04375" width="0.1524" layer="16"/>
 </signal>
 <signal name="CASE">
@@ -6776,13 +6776,13 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <vertex x="151.209375" y="2" curve="-90"/>
 <vertex x="150.4" y="1.190625"/>
 </polygon>
-<contactref element="D1" pad="A"/>
+<contactref element="D3" pad="A"/>
 <wire x1="1.936875" y1="73.81875" x2="0.5953125" y2="73.81875" width="0.3048" layer="16"/>
 </signal>
 <signal name="N$6">
-<contactref element="C52" pad="1"/>
-<contactref element="R5" pad="1"/>
-<contactref element="D1" pad="C"/>
+<contactref element="C16" pad="1"/>
+<contactref element="R9" pad="1"/>
+<contactref element="D3" pad="C"/>
 <wire x1="5.206875" y1="73.81875" x2="5.206875" y2="72.7928125" width="0.3048" layer="16"/>
 <wire x1="5.206875" y1="72.7928125" x2="4.446875" y2="72.0328125" width="0.3048" layer="16"/>
 <wire x1="4.446875" y1="72.0328125" x2="4.446875" y2="70.246875" width="0.3048" layer="16"/>
