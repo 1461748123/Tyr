@@ -3,7 +3,7 @@
 <eagle version="9.5.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.5953125" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.148828125" altunitdist="mm" altunit="mm"/>
@@ -2509,19 +2509,19 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 </pass>
 </autorouter>
 <elements>
-<element name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="42.8625" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="59.53125" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="128.5875" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="90.4875" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP-CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/6" value="KEYSWITCH-MX-1U-HOTSWAPCAPSLOCK" x="16.66875" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="11.90625" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="80.9625" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="28.575" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="47.625" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="66.675" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="85.725" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="104.775" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="123.825" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="42.8625" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="59.53125" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="128.5875" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="90.4875" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP-CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/6" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP_CAPSLOCK" x="16.66875" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="11.90625" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="80.9625" y="47.625" smashed="yes" rot="R180"/>
 <element name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148" x="21.43125" y="84.534375" smashed="yes" rot="MR90">
 <attribute name="NAME" x="19.79625" y="84.534375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="23.06625" y="84.534375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
@@ -2686,39 +2686,39 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="NAME" x="43.60875" y="27.384375" size="1" layer="26" font="vector" ratio="13" rot="MR270" align="center"/>
 <attribute name="VALUE" value="1N4148" x="46.87875" y="27.384375" size="1" layer="28" font="vector" ratio="13" rot="MR270" align="center"/>
 </element>
-<element name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="76.2" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="100.0125" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="28.575" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="47.625" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="66.675" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="85.725" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="104.775" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="123.825" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="126.20625" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="119.0625" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="9.525" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="140.49375" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="104.775" smashed="yes" rot="R180"/>
-<element name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="142.875" y="85.725" smashed="yes" rot="R180"/>
-<element name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="38.1" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="95.25" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="61.9125" y="47.625" smashed="yes" rot="R180"/>
-<element name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6" value="KEYSWITCH-MX-2U-HOTSWAP" x="21.43125" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6" value="KEYSWITCH-MX-2U-HOTSWAP" x="92.86875" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="114.3" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="14.2875" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="76.2" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="9.525" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="100.0125" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="28.575" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="47.625" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="66.675" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="85.725" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="104.775" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="123.825" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="126.20625" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="119.0625" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="9.525" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="140.49375" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="142.875" y="104.775" smashed="yes" rot="R180"/>
+<element name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="142.875" y="85.725" smashed="yes" rot="R180"/>
+<element name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="38.1" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="95.25" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="61.9125" y="47.625" smashed="yes" rot="R180"/>
+<element name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6" value="KEYSWITCH-MX_PLATED-2U-HOTSWAP" x="21.43125" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6" value="KEYSWITCH-MX_PLATED-2U-HOTSWAP" x="92.86875" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="114.3" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="14.2875" y="66.675" smashed="yes" rot="R180"/>
 <element name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/4" value="USB-C-12P-INBOARD" x="19.05" y="111.91875" smashed="yes" rot="MR180"/>
 <element name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="TYR_TYR_DISPLAY" package3d_urn="urn:adsk.eagle:package:14733127/4" value="TYR_DISPLAY" x="138.1125" y="0" smashed="yes"/>
 <element name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="PRTR5V0U2X" package3d_urn="urn:adsk.eagle:package:14733138/5" value="PRTR5V0U2X" x="150.01875" y="110.1328125" smashed="yes" rot="MR90">
 <attribute name="NAME" x="150.01875" y="112.579296875" size="1" layer="22" font="vector" ratio="13" rot="MR0" align="center"/>
 </element>
-<element name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="109.5375" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="57.15" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="35.71875" y="9.525" smashed="yes" rot="R180"/>
-<element name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="71.4375" y="28.575" smashed="yes" rot="R180"/>
-<element name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="138.1125" y="66.675" smashed="yes" rot="R180"/>
-<element name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX-1U-HOTSWAP" x="52.3875" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="109.5375" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="57.15" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="35.71875" y="9.525" smashed="yes" rot="R180"/>
+<element name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="71.4375" y="28.575" smashed="yes" rot="R180"/>
+<element name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="138.1125" y="66.675" smashed="yes" rot="R180"/>
+<element name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="MX-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP" x="52.3875" y="28.575" smashed="yes" rot="R180"/>
 <element name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="8.9296875" y="109.5375" smashed="yes" rot="MR0"/>
 <element name="LED2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="29.1703125" y="109.5375" smashed="yes" rot="MR0"/>
 <element name="LED3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" package="WS2812B_3528_REVERS-MOUNT" package3d_urn="urn:adsk.eagle:package:14733126/3" value="WS2812B_3528_REVERS-MOUNT" x="47.625" y="109.5375" smashed="yes" rot="MR0"/>
@@ -3661,7 +3661,6 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="144.6609375" y1="73.0725" x2="145.4071875" y2="73.81875" width="0.1524" layer="16"/>
 <contactref element="U4" pad="4"/>
 <contactref element="C17" pad="1"/>
-<wire x1="3.58984375" y1="41.671875" x2="3.571875" y2="41.68984375" width="0.1524" layer="16"/>
 <wire x1="75.30703125" y1="13.39453125" x2="76.2" y2="12.5015625" width="0.1524" layer="16"/>
 <wire x1="46.73203125" y1="13.39453125" x2="47.625" y2="12.5015625" width="0.1524" layer="16"/>
 <wire x1="22.9375" y1="13.4125" x2="22.9375" y2="13.3765625" width="0.1524" layer="16"/>
@@ -4129,8 +4128,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="23.8125" y1="42.8625" x2="28.575" y2="38.1" width="0.1524" layer="1"/>
 <wire x1="28.575" y1="38.1" x2="28.575" y2="23.8125" width="0.1524" layer="1"/>
 <wire x1="28.575" y1="23.8125" x2="28.575" y2="14.2875" width="0.1524" layer="1"/>
-<wire x1="28.575" y1="14.2875" x2="22.621875" y2="8.334375" width="0.1524" layer="1"/>
-<wire x1="22.621875" y1="8.334375" x2="22.0265625" y2="7.7390625" width="0.1524" layer="1"/>
+<wire x1="28.575" y1="14.2875" x2="22.0265625" y2="7.7390625" width="0.1524" layer="1"/>
 <wire x1="22.0265625" y1="7.7390625" x2="19.05" y2="4.7625" width="0.1524" layer="1"/>
 <via x="132.7546875" y="17.6325125" extent="1-16" drill="0.35"/>
 <wire x1="113.40703125" y1="13.096875" x2="101.7984375" y2="13.096875" width="0.1524" layer="1"/>
@@ -4144,8 +4142,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="43.4578125" y1="6.84609375" x2="43.4578125" y2="2.9765625" width="0.1524" layer="1"/>
 <wire x1="42.2671875" y1="1.7859375" x2="31.5515625" y2="1.7859375" width="0.1524" layer="1"/>
 <wire x1="31.5515625" y1="1.7859375" x2="25.5984375" y2="7.7390625" width="0.1524" layer="1"/>
-<wire x1="25.5984375" y1="7.7390625" x2="23.2171875" y2="7.7390625" width="0.1524" layer="1"/>
-<wire x1="23.2171875" y1="7.7390625" x2="22.0265625" y2="7.7390625" width="0.1524" layer="1"/>
+<wire x1="25.5984375" y1="7.7390625" x2="22.0265625" y2="7.7390625" width="0.1524" layer="1"/>
 <wire x1="97.63125" y1="13.6921875" x2="99.4171875" y2="13.6921875" width="0.1524" layer="1"/>
 <wire x1="94.6546875" y1="16.66875" x2="97.63125" y2="13.6921875" width="0.1524" layer="1"/>
 <wire x1="91.0828125" y1="16.66875" x2="87.5109375" y2="13.096875" width="0.1524" layer="1"/>
@@ -4173,7 +4170,6 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="16.66875" y1="100.0125" x2="16.66875" y2="101.82625" width="0.1524" layer="16"/>
 <wire x1="16.26" y1="102.235" x2="13.335" y2="102.235" width="0.1524" layer="16"/>
 <wire x1="16.26" y1="83.185" x2="16.0734375" y2="83.185" width="0.1524" layer="16"/>
-<wire x1="16.0734375" y1="83.185" x2="13.335" y2="83.185" width="0.1524" layer="16"/>
 <wire x1="16.66875" y1="82.5896875" x2="16.0734375" y2="83.185" width="0.1524" layer="16"/>
 <wire x1="16.66875" y1="80.9625" x2="16.66875" y2="82.5896875" width="0.1524" layer="16"/>
 <wire x1="21.43125" y1="63.72625" x2="21.0225" y2="64.135" width="0.1524" layer="16"/>
@@ -4189,7 +4185,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="15.71625" y1="6.985" x2="18.64125" y2="6.985" width="0.1524" layer="16"/>
 <wire x1="18.64125" y1="6.985" x2="19.05" y2="6.57625" width="0.1524" layer="16"/>
 <wire x1="19.05" y1="6.57625" x2="19.05" y2="4.7625" width="0.1524" layer="16"/>
-<wire x1="22.621875" y1="8.334375" x2="22.621875" y2="8.334375" width="0.1524" layer="1"/>
+<wire x1="16.26" y1="83.185" x2="13.335" y2="83.185" width="0.1524" layer="16"/>
 </signal>
 <signal name="COLUMN1">
 <contactref element="SW39" pad="P$1"/>
@@ -6732,29 +6728,17 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="1.936875" y1="73.81875" x2="1.3415625" y2="73.2234375" width="0.3048" layer="16"/>
 <wire x1="1.3415625" y1="73.2234375" x2="0.5953125" y2="73.2234375" width="0.3048" layer="16"/>
 <wire x1="1.65" y1="57.15" x2="0.5953125" y2="56.0953125" width="0.3048" layer="1"/>
-<wire x1="0.5953125" y1="56.0953125" x2="0.5953125" y2="53.578125" width="0.3048" layer="1"/>
 <wire x1="1.65" y1="57.15" x2="0.5953125" y2="58.2046875" width="0.3048" layer="1"/>
-<wire x1="0.5953125" y1="58.2046875" x2="0.5953125" y2="60.721875" width="0.3048" layer="1"/>
 <wire x1="23.8125" y1="1.65" x2="22.7578125" y2="0.5953125" width="0.3048" layer="1"/>
-<wire x1="22.7578125" y1="0.5953125" x2="20.8359375" y2="0.5953125" width="0.3048" layer="1"/>
 <wire x1="23.8125" y1="1.65" x2="24.8671875" y2="0.5953125" width="0.3048" layer="1"/>
-<wire x1="24.8671875" y1="0.5953125" x2="26.7890625" y2="0.5953125" width="0.3048" layer="1"/>
 <wire x1="113.109375" y1="1.65" x2="112.0546875" y2="0.5953125" width="0.3048" layer="1"/>
-<wire x1="112.0546875" y1="0.5953125" x2="110.1328125" y2="0.5953125" width="0.3048" layer="1"/>
 <wire x1="113.109375" y1="1.65" x2="114.1640625" y2="0.5953125" width="0.3048" layer="1"/>
-<wire x1="114.1640625" y1="0.5953125" x2="116.0859375" y2="0.5953125" width="0.3048" layer="1"/>
 <wire x1="150.75" y1="57.15" x2="151.8046875" y2="56.0953125" width="0.3048" layer="1"/>
-<wire x1="151.8046875" y1="56.0953125" x2="151.8046875" y2="53.578125" width="0.3048" layer="1"/>
 <wire x1="150.75" y1="57.15" x2="151.8046875" y2="58.2046875" width="0.3048" layer="1"/>
-<wire x1="151.8046875" y1="58.2046875" x2="151.8046875" y2="60.721875" width="0.3048" layer="1"/>
 <wire x1="150.75" y1="95.25" x2="151.8046875" y2="96.3046875" width="0.3048" layer="1"/>
-<wire x1="151.8046875" y1="96.3046875" x2="151.8046875" y2="98.2265625" width="0.3048" layer="1"/>
 <wire x1="150.75" y1="95.25" x2="151.8046875" y2="94.1953125" width="0.3048" layer="1"/>
-<wire x1="151.8046875" y1="94.1953125" x2="151.8046875" y2="92.2734375" width="0.3048" layer="1"/>
 <wire x1="1.65" y1="95.25" x2="0.5953125" y2="96.3046875" width="0.3048" layer="1"/>
-<wire x1="0.5953125" y1="96.3046875" x2="0.5953125" y2="98.2265625" width="0.3048" layer="1"/>
 <wire x1="1.65" y1="95.25" x2="0.5953125" y2="94.1953125" width="0.3048" layer="1"/>
-<wire x1="0.5953125" y1="94.1953125" x2="0.5953125" y2="92.2734375" width="0.3048" layer="1"/>
 <via x="0.5953125" y="73.2234375" extent="1-16" drill="0.35"/>
 </signal>
 <signal name="N$6">
