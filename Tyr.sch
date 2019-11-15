@@ -190,7 +190,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
 <pad name="P$3" x="0" y="0" drill="0.6"/>
 </package>
-<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/3" library_version="23" library_locally_modified="yes">
+<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/3" locally_modified="yes" library_version="34" library_locally_modified="yes">
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
 <wire x1="14.2875" y1="37.9" x2="14.0875" y2="38.1" width="0" layer="48" curve="90"/>
 <wire x1="14.0875" y1="38.1" x2="0.2" y2="38.1" width="0" layer="48"/>
@@ -200,14 +200,14 @@ by exp-lbrs.ulp</description>
 <wire x1="0.2" y1="0" x2="12.2875" y2="0" width="0" layer="48"/>
 <wire x1="12.2875" y1="0" x2="14.2875" y2="2" width="0" layer="48" curve="90"/>
 <pad name="3.3V" x="1.2875" y="36.6" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
-<pad name="GND" x="8.41375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
+<pad name="GND" x="10.95375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
 <pad name="SCL" x="5.87375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
 <pad name="SDA" x="3.33375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
-<pad name="VIN" x="10.95375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
+<pad name="VIN" x="8.41375" y="2.1" drill="1.016" diameter="1.524" shape="octagon" rot="R90"/>
 <text x="3.33375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">SDA</text>
 <text x="5.87375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">SCL</text>
-<text x="8.41375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">GND</text>
-<text x="10.95375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">3.3V</text>
+<text x="10.95375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">GND</text>
+<text x="8.41375" y="3.0525" size="1" layer="22" font="vector" ratio="13" rot="MR45">3.3V</text>
 </package>
 <package name="R0603" urn="urn:adsk.eagle:footprint:14733101/2" library_version="32">
 <wire x1="1" y1="-0.7" x2="1.6" y2="-0.7" width="0.1524" layer="21"/>
@@ -1501,7 +1501,7 @@ by exp-lbrs.ulp</description>
 <packageinstance name="HOLE_M3_OVAL"/>
 </packageinstances>
 </package3d>
-<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/4" type="empty" library_version="23" library_locally_modified="yes">
+<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/4" type="empty" library_version="34" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="TYR_TYR_DISPLAY"/>
 </packageinstances>
@@ -1673,25 +1673,20 @@ by exp-lbrs.ulp</description>
 <circle x="0" y="0" radius="2.54" width="0.254" layer="94"/>
 <pin name="CASE" x="0" y="0" length="short" rot="R90"/>
 </symbol>
-<symbol name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:symbol:14733104/2" library_version="16">
+<symbol name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:symbol:14733104/2" locally_modified="yes" library_version="34" library_locally_modified="yes">
 <wire x1="7.62" y1="-3.81" x2="7.62" y2="3.81" width="0.4064" layer="94"/>
 <wire x1="7.62" y1="3.81" x2="-5.08" y2="3.81" width="0.4064" layer="94"/>
 <wire x1="-5.08" y1="3.81" x2="-5.08" y2="-3.81" width="0.4064" layer="94"/>
 <wire x1="-5.08" y1="-3.81" x2="7.62" y2="-3.81" width="0.4064" layer="94"/>
 <wire x1="-7.62" y1="7.62" x2="-7.62" y2="-10.16" width="0.254" layer="94"/>
-<wire x1="-7.62" y1="-10.16" x2="15.24" y2="-10.16" width="0.254" layer="94"/>
-<wire x1="15.24" y1="-10.16" x2="17.78" y2="-7.62" width="0.254" layer="94" curve="90"/>
-<wire x1="17.78" y1="-7.62" x2="17.78" y2="7.62" width="0.254" layer="94"/>
-<wire x1="17.78" y1="7.62" x2="-7.62" y2="7.62" width="0.254" layer="94"/>
-<wire x1="10.16" y1="3.81" x2="10.16" y2="-3.81" width="0.4064" layer="94"/>
-<wire x1="10.16" y1="-3.81" x2="15.24" y2="-3.81" width="0.4064" layer="94"/>
-<wire x1="15.24" y1="-3.81" x2="15.24" y2="3.81" width="0.4064" layer="94"/>
-<wire x1="15.24" y1="3.81" x2="10.16" y2="3.81" width="0.4064" layer="94"/>
+<wire x1="-7.62" y1="-10.16" x2="7.62" y2="-10.16" width="0.254" layer="94"/>
+<wire x1="7.62" y1="-10.16" x2="10.16" y2="-7.62" width="0.254" layer="94" curve="90"/>
+<wire x1="10.16" y1="-7.62" x2="10.16" y2="7.62" width="0.254" layer="94"/>
+<wire x1="10.16" y1="7.62" x2="-7.62" y2="7.62" width="0.254" layer="94"/>
 <pin name="1" x="-2.54" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
 <pin name="2" x="0" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
-<pin name="3" x="2.54" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
-<pin name="4" x="5.08" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
-<pin name="5" x="12.7" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
+<pin name="3" x="5.08" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
+<pin name="4" x="2.54" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R90"/>
 </symbol>
 <symbol name="RESISTOR" urn="urn:adsk.eagle:symbol:14733118/2" library_version="32">
 <wire x1="-2.54" y1="-0.889" x2="2.54" y2="-0.889" width="0.254" layer="94"/>
@@ -2226,7 +2221,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/5" prefix="J" library_version="30" library_locally_modified="yes">
+<deviceset name="TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/5" locally_modified="yes" prefix="J" library_version="34" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="TYR_TYR_DISPLAY" x="0" y="0"/>
 </gates>
@@ -2237,7 +2232,6 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="2" pad="SCL"/>
 <connect gate="G$1" pin="3" pad="GND"/>
 <connect gate="G$1" pin="4" pad="VIN"/>
-<connect gate="G$1" pin="5" pad="3.3V"/>
 </connects>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:14733127/4"/>
@@ -2456,7 +2450,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="KEYSWITCH-MX_PLATED" library_version="33" library_locally_modified="yes">
+<deviceset name="KEYSWITCH-MX_PLATED" urn="urn:adsk.eagle:component:15202694/1" library_version="34" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="KEYSWITCH-PLAIN" x="0" y="0"/>
 </gates>
@@ -3363,10 +3357,10 @@ Protection</text>
 <junction x="233.68" y="200.66"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="3"/>
-<wire x1="299.72" y1="154.94" x2="281.94" y2="154.94" width="0.1524" layer="91"/>
-<wire x1="281.94" y1="154.94" x2="281.94" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="281.94" y1="152.4" x2="281.94" y2="144.78" width="0.1524" layer="91"/>
 <pinref part="SUPPLY13" gate="GND" pin="GND"/>
+<pinref part="J1" gate="G$1" pin="3"/>
+<wire x1="299.72" y1="152.4" x2="281.94" y2="152.4" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U6" gate="G$1" pin="GND"/>
@@ -3968,10 +3962,10 @@ Protection</text>
 <pinref part="SW1" gate="G$1" pin="P$2"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="4"/>
-<wire x1="299.72" y1="152.4" x2="284.48" y2="152.4" width="0.1524" layer="91"/>
-<wire x1="284.48" y1="152.4" x2="284.48" y2="162.56" width="0.1524" layer="91"/>
 <label x="284.48" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
+<pinref part="J1" gate="G$1" pin="4"/>
+<wire x1="284.48" y1="154.94" x2="284.48" y2="162.56" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="154.94" x2="284.48" y2="154.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="144.78" y1="167.64" x2="134.62" y2="167.64" width="0.1524" layer="91"/>
