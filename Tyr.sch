@@ -190,7 +190,7 @@ by exp-lbrs.ulp</description>
 <smd name="P$2" x="0" y="0" dx="5" dy="8.4" layer="1" roundness="100" rot="R90" thermals="no" cream="no"/>
 <pad name="P$3" x="0" y="0" drill="0.6"/>
 </package>
-<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/3" locally_modified="yes" library_version="34" library_locally_modified="yes">
+<package name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:footprint:14733124/4" library_version="35" library_locally_modified="yes">
 <wire x1="14.2875" y1="2" x2="14.2875" y2="37.9" width="0" layer="48"/>
 <wire x1="14.2875" y1="37.9" x2="14.0875" y2="38.1" width="0" layer="48" curve="90"/>
 <wire x1="14.0875" y1="38.1" x2="0.2" y2="38.1" width="0" layer="48"/>
@@ -1501,7 +1501,7 @@ by exp-lbrs.ulp</description>
 <packageinstance name="HOLE_M3_OVAL"/>
 </packageinstances>
 </package3d>
-<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/4" type="empty" library_version="34" library_locally_modified="yes">
+<package3d name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:package:14733127/5" type="empty" library_version="35" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="TYR_TYR_DISPLAY"/>
 </packageinstances>
@@ -1673,7 +1673,7 @@ by exp-lbrs.ulp</description>
 <circle x="0" y="0" radius="2.54" width="0.254" layer="94"/>
 <pin name="CASE" x="0" y="0" length="short" rot="R90"/>
 </symbol>
-<symbol name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:symbol:14733104/2" locally_modified="yes" library_version="34" library_locally_modified="yes">
+<symbol name="TYR_TYR_DISPLAY" urn="urn:adsk.eagle:symbol:14733104/3" library_version="35" library_locally_modified="yes">
 <wire x1="7.62" y1="-3.81" x2="7.62" y2="3.81" width="0.4064" layer="94"/>
 <wire x1="7.62" y1="3.81" x2="-5.08" y2="3.81" width="0.4064" layer="94"/>
 <wire x1="-5.08" y1="3.81" x2="-5.08" y2="-3.81" width="0.4064" layer="94"/>
@@ -2192,7 +2192,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/9" prefix="HOLE" library_version="32">
+<deviceset name="MOUNT_HOLE" urn="urn:adsk.eagle:component:14733154/9" locally_modified="yes" prefix="HOLE" library_version="35" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="HOLE" x="0" y="0"/>
 </gates>
@@ -2208,7 +2208,7 @@ DIN A3, landscape with location and doc. field</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="5MM_NOTCH" package="HOLE_5MM_OVAL">
+<device name="-5MM_NOTCH" package="HOLE_5MM_OVAL">
 <connects>
 <connect gate="G$1" pin="CASE" pad="P$1 P$2 P$3"/>
 </connects>
@@ -2221,7 +2221,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/5" locally_modified="yes" prefix="J" library_version="34" library_locally_modified="yes">
+<deviceset name="TYR_DISPLAY" urn="urn:adsk.eagle:component:14733144/6" prefix="J" library_version="35" library_locally_modified="yes">
 <gates>
 <gate name="G$1" symbol="TYR_TYR_DISPLAY" x="0" y="0"/>
 </gates>
@@ -2234,7 +2234,7 @@ DIN A3, landscape with location and doc. field</description>
 <connect gate="G$1" pin="4" pad="VIN"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:14733127/4"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:14733127/5"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2759,93 +2759,93 @@ Source: www.st.com, BAT60J.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW6" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW7" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW9" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW11" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW14" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW15" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW16" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW17" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP_CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/6" value="KEYSWITCH-MX_PLATED-1U-HOTSWAP_CAPSLOCK"/>
+<part name="SW25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP_CAPSLOCK" package3d_urn="urn:adsk.eagle:package:14733134/6" value="MX"/>
 <part name="D27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6"/>
+<part name="SW32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6" value="MX"/>
 <part name="D34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6"/>
+<part name="SW41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-2U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733133/6" value="MX"/>
 <part name="D43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
-<part name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7"/>
+<part name="SW42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="KEYSWITCH-MX_PLATED" device="-1U-HOTSWAP" package3d_urn="urn:adsk.eagle:package:14733135/7" value="MX"/>
 <part name="D44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="DIODE" device="-SOD-123" package3d_urn="urn:adsk.eagle:package:14733140/3" value="1N4148"/>
 <part name="X1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CONTROLLER_USB-C-12P" device="USB-C-12P-INBOARD" package3d_urn="urn:adsk.eagle:package:14733137/4" value="USB-C-12P-INBOARD"/>
 <part name="SUPPLY10" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
 <part name="SUPPLY5" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="VCC" device=""/>
 <part name="SUPPLY8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="VCC" device=""/>
-<part name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_DISPLAY" device="" package3d_urn="urn:adsk.eagle:package:14733127/4"/>
+<part name="J1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="TYR_DISPLAY" device="" package3d_urn="urn:adsk.eagle:package:14733127/5"/>
 <part name="U2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="PRTR5V0U2X" device="" package3d_urn="urn:adsk.eagle:package:14733138/5" value="PRTR5V0U2X"/>
 <part name="SUPPLY13" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
 <part name="LED1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="WS2812B_3528_REVERS-MOUNT" device="" package3d_urn="urn:adsk.eagle:package:14733126/3"/>
@@ -2902,75 +2902,75 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="FRAME3" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="A3L-LOC" device=""/>
 <part name="R12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="10k"/>
 <part name="SUPPLY27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C18" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C19" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C21" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C22" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C23" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C24" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C25" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C26" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C27" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C28" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C29" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C30" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C31" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C32" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY59" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C33" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY60" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C34" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY61" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C35" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY62" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY63" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY64" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C38" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY72" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C39" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY73" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C40" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY74" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C41" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY75" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C42" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY76" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C43" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY77" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C44" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY85" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C45" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY86" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C46" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY87" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C47" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY88" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C48" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY89" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C49" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY96" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C50" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY97" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C51" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY98" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
-<part name="C52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="104"/>
+<part name="C52" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="100n"/>
 <part name="SUPPLY99" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
 <part name="SUPPLY36" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
 <part name="SUPPLY37" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="GND" device=""/>
@@ -3065,8 +3065,8 @@ Source: www.st.com, BAT60J.pdf</description>
 <part name="R8" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="10k"/>
 <part name="SUPPLY20" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="VCC" device=""/>
 <part name="LOGO1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="LOGO_TYR" device="" package3d_urn="urn:adsk.eagle:package:14993495/2"/>
-<part name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/4"/>
-<part name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/4"/>
+<part name="HOLE1" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="-5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/4"/>
+<part name="HOLE2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="MOUNT_HOLE" device="-5MM_NOTCH" package3d_urn="urn:adsk.eagle:package:15041619/4"/>
 <part name="R2" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="1.5k"/>
 <part name="R4" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="RESISTOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733141/3" value="1M"/>
 <part name="C12" library="Tyr" library_urn="urn:adsk.eagle:library:14733090" deviceset="CAPACITOR" device="-0603" package3d_urn="urn:adsk.eagle:package:14733142/3" value="4.7u"/>
